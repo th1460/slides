@@ -1,0 +1,56 @@
+---
+title: "Teu poder"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 70px
+self-contained: true
+---
+
+# 
+
+<center>
+Queremos te pedir Senhor Teu poder, Teu poder <br>
+Só há um meio de vencer Teu poder, Teu poder <br> 
+<center>
+
+#
+
+<center>
+O Teu poder que vem lá do alto <br>
+O Teu poder pra vencer o mal <br>
+Em Teu poder está nossa esperança <br>
+Concede o Teu poder <br>
+<center>
+
+#
+
+<center>
+Estamos tão cansados, Pai, <br>
+Dá poder, nos dá poder <br>
+Revive o nosso coração, dá poder, nos dá poder. <br>
+<center>
+
+#
+
+<center>
+O Teu poder que vem lá do alto <br>
+O Teu poder pra vencer o mal <br>
+Em Teu poder está nossa esperança <br>
+Concede o Teu poder <br>
+<center>
+
+#
+
+<center>
+O Teu poder que vem lá do alto <br>
+O Teu poder pra vencer o mal <br>
+Em Teu poder está nossa esperança <br>
+Concede o Teu poder <br>
+Concede o Teu poder <br>
+<center>
+
+
