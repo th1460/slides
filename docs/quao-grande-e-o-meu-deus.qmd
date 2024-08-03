@@ -6,7 +6,7 @@ format:
     width: 1600
     height: 900
     footer: "#JOVENSCAHo"
-    fontsize: 110px
+    fontsize: 100px
 self-contained: true
 ---
 
@@ -14,7 +14,7 @@ self-contained: true
 
 <center>
 Quão grande é o meu Deus <br>
-Cantarei quão grande é o meu Deus <br>
+Cantarei quão grande <br> é o meu Deus <br>
 E todos hão de ver <br>
 Quão grande é o meu Deus <br>
 </center>
@@ -41,7 +41,7 @@ Tremer com sua voz <br>
 
 <center>
 Quão grande é o meu Deus <br>
-Cantarei quão grande é o meu Deus <br>
+Cantarei quão grande <br> é o meu Deus <br>
 E todos hão de ver <br>
 Quão grande é o meu Deus <br>
 </center>
@@ -51,7 +51,7 @@ Quão grande é o meu Deus <br>
 <center>
 Por gerações ele é <br>
 O tempo está em tuas mãos <br>
-O começo e o fim, o começo e o fim <br>
+O começo e o fim, <br> o começo e o fim <br>
 Três se formam em um <br>
 Filho, Espírito e Pai <br>
 Cordeiro e leão, cordeiro e leão <br>
@@ -61,7 +61,7 @@ Cordeiro e leão, cordeiro e leão <br>
 
 <center>
 Quão grande é o meu Deus <br>
-Cantarei quão grande é o meu Deus <br>
+Cantarei quão grande <br> é o meu Deus <br>
 E todos hão de ver <br>
 Quão grande é o meu Deus <br>
 </center>
@@ -71,7 +71,8 @@ Quão grande é o meu Deus <br>
 <center>
 Sobre todo nome é o Seu <br>
 Tu és digno do louvor <br>
-Eu cantarei quão grande é o meu Deus <br>
+Eu cantarei quão grande <br> é o meu Deus <br>
+
 É o meu Deus <br>
 </center>
 
@@ -79,7 +80,7 @@ Eu cantarei quão grande é o meu Deus <br>
 
 <center>
 Quão grande é o meu Deus <br>
-Cantarei quão grande é o meu Deus <br>
+Cantarei quão grande <br> é o meu Deus <br>
 E todos hão de ver <br>
 Quão grande é o meu Deus <br>
 </center>
@@ -88,7 +89,7 @@ Quão grande é o meu Deus <br>
 
 <center>
 [Quão grande é o meu Deus <br>
-Cantarei quão grande é o meu Deus <br>
+Cantarei quão grande <br> é o meu Deus <br>
 E todos hão de ver <br>
 Quão grande é o meu Deus <br>]{.blue}
 </center>
@@ -97,7 +98,7 @@ Quão grande é o meu Deus <br>]{.blue}
 
 <center>
 Quão grande é o meu Deus <br>
-Cantarei quão grande é o meu Deus <br>
+Cantarei quão grande <br> é o meu Deus <br>
 E todos hão de ver <br>
 Quão grande é o meu Deus <br>
 </center>
@@ -106,7 +107,7 @@ Quão grande é o meu Deus <br>
 
 <center>
 [Quão grande é o meu Deus <br>
-Cantarei quão grande é o meu Deus <br>
+Cantarei quão grande <br> é o meu Deus <br>
 E todos hão de ver <br>
 Quão grande é o meu Deus <br>]{.blue}
 </center>
