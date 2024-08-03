@@ -6,15 +6,15 @@ format:
     width: 1600
     height: 900
     footer: "#JOVENSCAHo"
-    fontsize: 70px
+    fontsize: 110px
 self-contained: true
 ---
 
 # 
 
 <center>
-Queremos te pedir Senhor Teu poder, Teu poder <br>
-Só há um meio de vencer Teu poder, Teu poder <br> 
+Queremos te pedir Senhor <br> Teu poder, Teu poder <br>
+Só há um meio de vencer <br> Teu poder, Teu poder <br> 
 <center>
 
 #
