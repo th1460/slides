@@ -1,5 +1,5 @@
 ---
-title: "Quão grande é o meu Deus"
+title: "Quão grande é o meu [Deus]{.marked}"
 format: 
   revealjs:
     theme: theme.scss
@@ -7,16 +7,18 @@ format:
     height: 900
     footer: "#JOVENSCAHo"
     fontsize: 100px
+    transition: slide
+    background-transition: fade
 self-contained: true
 ---
 
 #
 
 <center>
-Quão grande é o meu Deus <br>
-Cantarei quão grande <br> é o meu Deus <br>
+Quão grande é o meu [Deus]{.marked} <br>
+Cantarei quão grande <br> é o meu [Deus]{.marked} <br>
 E todos hão de ver <br>
-Quão grande é o meu Deus <br>
+Quão grande é o meu [Deus]{.marked} <br>
 </center>
 
 #
@@ -40,10 +42,10 @@ Tremer com sua voz <br>
 #
 
 <center>
-Quão grande é o meu Deus <br>
-Cantarei quão grande <br> é o meu Deus <br>
+Quão grande é o meu [Deus]{.marked} <br>
+Cantarei quão grande <br> é o meu [Deus]{.marked} <br>
 E todos hão de ver <br>
-Quão grande é o meu Deus <br>
+Quão grande é o meu [Deus]{.marked} <br>
 </center>
 
 #
@@ -60,10 +62,10 @@ Cordeiro e leão, cordeiro e leão <br>
 #
 
 <center>
-Quão grande é o meu Deus <br>
-Cantarei quão grande <br> é o meu Deus <br>
+Quão grande é o meu [Deus]{.marked} <br>
+Cantarei quão grande <br> é o meu [Deus]{.marked} <br>
 E todos hão de ver <br>
-Quão grande é o meu Deus <br>
+Quão grande é o meu [Deus]{.marked} <br>
 </center>
 
 #
@@ -71,43 +73,43 @@ Quão grande é o meu Deus <br>
 <center>
 Sobre todo nome é o Seu <br>
 Tu és digno do louvor <br>
-Eu cantarei quão grande <br> é o meu Deus <br>
+Eu cantarei quão grande <br> é o meu [Deus]{.marked} <br>
 
-É o meu Deus <br>
+É o meu [Deus]{.marked} <br>
 </center>
 
 #
 
 <center>
-Quão grande é o meu Deus <br>
-Cantarei quão grande <br> é o meu Deus <br>
+Quão grande é o meu [Deus]{.marked} <br>
+Cantarei quão grande <br> é o meu [Deus]{.marked} <br>
 E todos hão de ver <br>
-Quão grande é o meu Deus <br>
+Quão grande é o meu [Deus]{.marked} <br>
 </center>
 
 #
 
 <center>
-[Quão grande é o meu Deus <br>
-Cantarei quão grande <br> é o meu Deus <br>
+Quão grande é o meu [Deus]{.marked} <br>
+Cantarei quão grande <br> é o meu [Deus]{.marked} <br>
 E todos hão de ver <br>
-Quão grande é o meu Deus <br>]{.blue}
+Quão grande é o meu [Deus]{.marked} <br>
 </center>
 
 #
 
 <center>
-Quão grande é o meu Deus <br>
-Cantarei quão grande <br> é o meu Deus <br>
+Quão grande é o meu [Deus]{.marked} <br>
+Cantarei quão grande <br> é o meu [Deus]{.marked} <br>
 E todos hão de ver <br>
-Quão grande é o meu Deus <br>
+Quão grande é o meu [Deus]{.marked} <br>
 </center>
 
 #
 
 <center>
-[Quão grande é o meu Deus <br>
-Cantarei quão grande <br> é o meu Deus <br>
+Quão grande é o meu [Deus]{.marked} <br>
+Cantarei quão grande <br> é o meu [Deus]{.marked} <br>
 E todos hão de ver <br>
-Quão grande é o meu Deus <br>]{.blue}
+Quão grande é o meu [Deus]{.marked} <br>
 </center>

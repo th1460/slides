@@ -1,0 +1,148 @@
+---
+title: "Chegou a Hora"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 100px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+#
+
+<center>
+Mais importante que sonhar <br>
+É entender teus planos <br>
+Teus sonhos realizar <br>
+Hoje em espírito e em verdade <br>
+Nós te seguiremos <br>
+Sem olhar pra trás <br>
+</center>
+
+#
+
+<center>
+Então chegou a hora de unirmos a voz <br>
+E o coração pulsar ardente em teu amor <br>
+Nos rendemos, nos rendemos <br>
+</center>
+
+#
+
+<center>
+Chegou a hora <br>
+De levantarmos a voz <br>
+Chegou a hora <br>
+De erguermos nosso louvor <br>
+Meu senhor <br>
+</center>
+
+#
+
+<center>
+Em ti há vitória <br>
+Sem temor <br>
+A ti damos glória <br>
+Chegou a hora <br>
+</center>
+
+#
+
+<center>
+Deixamos tudo para trás <br>
+Temos novo rumo <br>
+E verdadeira paz <br>
+E não podemos nos calar <br>
+O evangelho ao mundo <br>
+Devemos proclamar <br>
+</center>
+
+#
+
+<center>
+Então chegou a hora de viver a missão <br>
+E sem temor levar ao mundo o teu amor <br>
+Sem demora, sem demora <br>
+</center>
+
+#
+
+<center>
+Chegou a hora <br>
+De levantarmos a voz <br>
+Chegou a hora <br>
+De erguermos nosso louvor <br>
+Meu senhor <br>
+</center>
+
+#
+
+<center>
+Em ti há vitória <br>
+Sem temor <br>
+A ti damos glória <br>
+</center>
+
+#
+
+<center>
+Glória, glória aleluia <br>
+Nosso rei em breve virá <br>
+Ele em breve virá <br>
+</center>
+
+#
+
+<center>
+Glória, glória, aleluia <br>
+Vem e reina neste lugar <br>
+Reina neste lugar <br>
+</center>
+
+#
+
+<center>
+Glória, glória aleluia <br>
+Nosso rei em breve virá <br>
+Ele em breve virá <br>
+</center>
+
+#
+
+<center>
+Glória, glória, aleluia <br>
+Vem e reina neste lugar <br>
+Reina neste lugar <br>
+</center>
+
+#
+
+<center>
+Chegou a hora <br>
+De levantarmos a voz <br>
+Chegou a hora <br>
+De erguermos nosso louvor <br>
+Meu senhor <br>
+</center>
+
+#
+
+<center>
+Em ti há vitória <br>
+Sem temor <br>
+A ti damos glória <br>
+Chegou a hora <br>
+Chegou a hora <br>
+</center>
+
+#
+
+<center>
+Glória, glória, aleluia <br>
+Vem e reina neste lugar <br>
+Reina neste lugar <br>
+</center>

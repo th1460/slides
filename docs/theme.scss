@@ -2,9 +2,8 @@
 
 /*-- scss:defaults --*/
 // fonts
-@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;1,100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@700&display=swap");
 $font-family-sans-serif: "IBM Plex Sans", sans-serif !default;
-// $presentation-title-slide-text-align: "left";
 
 // colors
 $color-palette1: #000;
@@ -15,11 +14,6 @@ $color-palette5: #fff;
 
 // body
 $body-color: $color-palette1;
-
-// code block
-$code-block-bg: $color-palette5;
-$code-block-border-color: $color-palette5;
-$code-block-font-size: 0.7em;
 
 // link
 $link-color: $color-palette2;
@@ -44,27 +38,9 @@ $link-color: $color-palette2;
     }
 }
 
-img.rounded-corners {
-    border-radius: 50%;
-}
-
 ul li {
     list-style-type: "\2013";
     padding-left: 0.5em;
-}
-
-.medium {
-    bottom: 50%;
-    transform: translate(50%, 50%);
-    position: absolute;
-}
-
-table {
-    font-size: 80%;
-}
-
-th {
-    font-weight: bold;
 }
 
 .reveal .footer {
@@ -73,12 +49,6 @@ th {
     // padding-left: 60px;
 }
 
-.border-right {
-    border-right: solid 1px #000;
-    box-sizing: border-box;
-    padding-right: 3%;
-    height: 80%;
-}
 
 .blue {
     color: $color-palette2;
@@ -87,9 +57,4 @@ th {
 
 .marked {
     background: #f7b36fb2 !important;
-}
-
-.hn {
-    font-size: 150px;
-    color: $color-palette2;
 }

@@ -1,0 +1,65 @@
+---
+title: "As Verdades Sobre Mim"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 100px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+#
+
+<center>
+Primeiro você me amou  <br>
+Beleza você viu em mim <br>
+Disse que tenho valor <br>
+E que eu lhe faço sorrir <br>
+</center>
+
+#
+
+<center>
+Você viu coragem, quando tive medo <br>
+Encontrou verdade em mim, no engano que vivi <br>
+Chamou de belo, quem era fraco <br>
+Achou sincero o amor que existe em mim <br>
+</center>
+
+#
+
+<center>
+No escuro do meu coração <br>
+Você uma luz fez brilhar <br>
+Cantou sobre mim uma canção <br>
+Verdades que não vão mudar <br>
+</center>
+
+#
+
+<center>
+Você viu coragem, quando tive medo <br>
+Encontrou verdade em mim, no engano que vivi <br>
+Chamou de belo, quem era fraco <br>
+Achou sincero o amor que existe em mim <br>
+</center>
+
+#
+
+<center>
+Você viu coragem, quando tive medo <br>
+Encontrou verdade em mim, no engano que vivi <br>
+Chamou de belo, quem era fraco <br>
+Achou sincero o amor que existe em mim <br>
+
+#
+
+<center>
+Você viu coragem, quando tive medo <br>
+Encontrou verdade em mim, no engano que vivi <br>
+Chamou de belo, quem era fraco <br>
+Achou sincero o amor que existe em mim <br>

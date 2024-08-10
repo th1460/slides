@@ -7,10 +7,12 @@ format:
     height: 900
     footer: "#JOVENSCAHo"
     fontsize: 100px
+    transition: slide
+    background-transition: fade
 self-contained: true
 ---
 
-# 
+#
 
 <center>
 Queremos te pedir Senhor <br> Teu poder, Teu poder <br>
