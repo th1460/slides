@@ -1,0 +1,79 @@
+---
+title: "Deus de Israel"
+title-slide-attributes:
+  data-background-image: background01.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="background01.jpg" background-opacity="0.5"}
+
+<center>
+Deus de Israel <br>
+Cristo Jesus <br>
+Habita em mim <br>
+Espírito luz <br>
+</center>
+
+# {background-image="background01.jpg" background-opacity="0.5"}
+
+<center>
+Grande é o teu nome o Deus de Israel <br>
+Pois tu criaste a terra e o céu <br>
+Hoje tua glória invade o meu ser <br>
+Aleluia, aleluia, aleluia, aleluia! <br>
+</center>
+
+# {background-image="background01.jpg" background-opacity="0.5"}
+
+<center>
+Grande é o teu nome o Deus de Israel <br>
+Pois tu criaste a terra e o céu <br>
+Hoje tua glória invade o meu ser <br>
+Aleluia, aleluia, aleluia, aleluia! <br>
+</center>
+
+# {background-image="background01.jpg" background-opacity="0.5"}
+
+<center>
+Grande é o teu nome o Deus de Israel <br>
+Pois tu criaste a terra e o céu <br>
+Hoje tua glória invade o meu ser <br>
+Aleluia, aleluia, aleluia, aleluia! <br>
+</center>
+
+# {background-image="background01.jpg" background-opacity="0.5"}
+
+<center>
+Grande é o teu nome o Deus de Israel <br>
+Pois tu criaste a terra e o céu <br>
+Hoje tua glória invade o meu ser <br>
+Aleluia, aleluia, aleluia, aleluia! <br>
+</center>
+
+# {background-image="background01.jpg" background-opacity="0.5"}
+
+<center>
+Deus de Israel <br>
+Cristo Jesus <br>
+Habita em mim <br>
+Espírito luz <br>
+</center>
+
+# {background-image="background01.jpg" background-opacity="0.5"}
+
+<center>
+Deus de Israel <br>
+Cristo Jesus <br>
+Habita em mim <br>
+Espírito luz
+</center>
