@@ -1,0 +1,83 @@
+---
+title: "Digno de Louvor"
+title-slide-attributes:
+  data-background-image: sunset.jpg
+  data-background-position: cover
+  data-background-opacity: "0.8"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sunset.jpg" background-opacity="0.5"}
+
+<center>
+De eternidade em eternidade <br>
+Exaltado seja em Tua beleza <br>
+Digno de louvor, digno de louvor <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.5"}
+
+<center>
+De eternidade em eternidade <br>
+Exaltado seja em Tua beleza <br>
+Digno de louvor, digno de louvor <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.5"}
+
+<center>
+De eternidade em eternidade <br>
+Exaltado seja em Tua beleza <br>
+Digno de louvor, digno de louvor <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.5"}
+
+<center>
+Diante de Tua face <br>
+O que me resta fazer? <br>
+Voltar ao pó da terra <br>
+E a Tua glória temer <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.5"}
+
+<center>
+De eternidade em eternidade <br>
+Exaltado seja em Tua beleza <br>
+Digno de louvor, digno de louvor <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.5"}
+
+<center>
+Diante de Tua face <br>
+O que me resta fazer? <br>
+Voltar ao pó da terra <br>
+E a Tua glória temer <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.5"}
+
+<center>
+De eternidade em eternidade <br>
+Exaltado seja em Tua beleza <br>
+Digno de louvor, digno de louvor <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.5"}
+
+<center>
+De eternidade em eternidade <br>
+Exaltado seja em Tua beleza <br>
+Digno de louvor, digno de louvor <br>
+</center>

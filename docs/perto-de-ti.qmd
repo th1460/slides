@@ -1,0 +1,71 @@
+---
+title: "Perto de Ti"
+title-slide-attributes:
+  data-background-image: mountains.jpg
+  data-background-position: cover
+  data-background-opacity: "0.8"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Perto de Ti, para sempre quero estar, <br>
+meu coração, quer Te amar e Te adorar. <br>
+Vem derramar, Tua chuva sobre mim, <br>
+meu viver eu entrego só a Ti <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Vem me tocar com a Tua presença e <br> Teu poder. <br>
+Derrama sobre mim, Teu espírito e Tua glória. <br>
+Ensina-me o caminho para Te encontrar. <br>
+O meu querer hoje eu ponho em Teu altar <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Perto de Ti, para sempre quero estar, <br>
+meu coração quer Te amar e Te adorar <br>
+Vem derramar, Tua chuva sobre mim, <br>
+meu viver eu entrego só a Ti. <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Ensina-me a cada dia amar o meu irmão. <br>
+Olhar com os Teus olhos, <br> perdoar com o Teu perdão. <br>
+Longe do Teu amor, não posso mais viver <br>
+Vive em mim, santifica-me Senhor <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Perto de Ti, para sempre quero estar, <br>
+meu coração quer Te amar e Te adorar <br>
+Vem derramar, Tua chuva sobre mim, <br>
+meu viver eu entrego só a Ti. <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Perto de Ti, para sempre quero estar, <br>
+meu coração quer Te amar e Te adorar <br>
+Vem derramar, Tua chuva sobre mim, <br>
+meu viver eu entrego só a Ti. <br>
+</center>
