@@ -1,0 +1,65 @@
+---
+title: "Mensageiro"
+title-slide-attributes:
+  data-background-image: mountains.jpg
+  data-background-position: cover
+  data-background-opacity: "0.6"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Tem dias que nem sei dizer <br>
+Não tenho motivação <br>
+Eu sinto em mim uma dor sem fim <br>
+Não sei dizer a razão <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Consigo ainda Jesus buscar <br>
+Os meus joelhos dobrar e orar <br>
+Perante Deus, me inclinar, chorar <br>
+E abrir o meu coração <br>
+E abrir o meu coração <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Já posso ver o sol brilhar <br>
+O vento a paz vem soprar <br>
+Sem hesitar, irei sair <br>
+De meu Jesus vou falar <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Sou mensageiro do Rei Senhor <br>
+Sou testemunha do Seu amor <br>
+Ao mundo inteiro vou proclamar <br>
+Que Jesus vai aqui voltar <br>
+Que Jesus vai aqui voltar <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Sou mensageiro do Rei Senhor <br>
+Sou testemunha do Seu amor <br>
+Ao mundo inteiro vou proclamar <br>
+Que Jesus vai aqui voltar <br>
+Que Jesus vai aqui voltar <br>
+</center>
