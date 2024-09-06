@@ -1,0 +1,60 @@
+---
+title: "Inteiramente Fiel"
+title-slide-attributes:
+  data-background-image: mountains.jpg
+  data-background-position: cover
+  data-background-opacity: "0.6"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Não vou mais pensar <br> 
+no que passou ou deu errado <br>
+Aquilo que Deus começou <br> 
+irá crescer, pois tem o Seu cuidado <br>
+Quem tanto me amou, <br> 
+merece de mim a entrega do meu melhor
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Sou inteiramente de Cristo Jesus <br>
+Fui feito pra viver como filho do Rei <br>
+Sou eternamente ligado a Jesus, <br>
+pra sempre serei <br>
+Inteiramente fiel eu quero ser <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Eu sei de um lugar <br> 
+que está além do que é comum <br>
+A vida que existe lá <br> 
+não vai ter fim, por causa de Jesus <br>
+Quem tanto me amou <br>
+merece de mim a entrega do meu melhor <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Sou inteiramente de Cristo Jesus <br>
+Fui feito pra viver como filho do Rei <br>
+Sou eternamente ligado a Jesus, <br>
+pra sempre serei <br>
+Inteiramente fiel, inteiramente fiel <br>
+Inteiramente fiel eu quero ser <br>
+</center>
