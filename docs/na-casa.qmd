@@ -1,0 +1,143 @@
+---
+title: "Na casa"
+title-slide-attributes:
+  data-background-image: mountains.jpg
+  data-background-position: cover
+  data-background-opacity: "0.6"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Fui convidado à mesa <br>
+Larguei minhas defesas <br>
+E vim reconhecer <br>
+Não merecia estar aqui <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Comigo eu trouxe amigos <br>
+Felizes ou feridos <br>
+Gente que escutou <br>
+Esse chamado e aceitou <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+E é tão bom saber que há lugar aqui <br>
+A graça nos chamou à mesa do Senhor <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Há lugar na casa <br>
+Há perdão na casa <br>
+Quando estamos juntos <br>
+Nosso encontro é casa de Deus Pai <br>
+Há esperança na casa <br>
+Recomeço na casa <br>
+Reunidos Nele <br>
+Nosso encontro é casa de Deus Pai <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+O som da sua palavra <br>
+Curou a nossa alma <br>
+O Verbo nos amou <br>
+Da solidão nos resgatou <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+E é tão bom saber que há lugar aqui <br>
+A graça nos chamou pra mesa do Senhor <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Há lugar na casa <br>
+Há perdão na casa <br>
+Quando estamos juntos <br>
+Nosso encontro é casa de Deus Pai <br>
+Há esperança na casa <br>
+Recomeço na casa <br>
+Reunidos Nele <br>
+Nosso encontro é casa de Deus Pai <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Há lugar na casa <br>
+Há perdão na casa <br>
+Quando estamos juntos <br>
+Nosso encontro é casa de Deus Pai <br>
+Há esperança na casa <br>
+Recomeço na casa <br>
+Reunidos Nele <br>
+Nosso encontro é casa de Deus Pai <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Venham todos os cansados <br>
+Venham sobrecarregados <br>
+Há lugar na casa, há lugar na casa <br>
+Venham todos os feridos <br>
+Venham todos os perdidos <br>
+Há lugar na casa, há lugar na casa <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Venham todos os cansados <br>
+Venham sobrecarregados <br>
+Há lugar na casa, há lugar na casa <br>
+Venham todos os feridos <br>
+Venham todos os perdidos <br>
+Há lugar na casa, há lugar na casa <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Há lugar na casa <br>
+Há perdão na casa <br>
+Quando estamos juntos <br>
+Nosso encontro é casa de Deus Pai <br>
+Há esperança na casa <br>
+Recomeço na casa <br>
+Reunidos Nele <br>
+Nosso encontro é casa de Deus Pai <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Venham todos os cansados <br>
+Venham sobrecarregados <br>
+Há lugar na casa, há lugar na casa <br>
+Venham todos os feridos <br>
+Venham todos os perdidos <br>
+Há lugar na casa, há lugar na casa <br>
+</center>

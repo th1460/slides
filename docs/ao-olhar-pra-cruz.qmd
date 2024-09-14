@@ -1,0 +1,124 @@
+---
+title: "Ao Olhar Pra Cruz"
+title-slide-attributes:
+  data-background-image: sunset.jpg
+  data-background-position: cover
+  data-background-opacity: "0.6"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Andei tão cego, sem rumo certo <br>
+Buscando a paz e descanso <br>
+Eu procurei por tantos meios <br>
+Justificar meus erros <br>
+Mas ao clamar, meus olhos abri <br>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+E ao olhar pra cruz eu entendo o amor <br>
+Derramado ali por mim <br>
+Sacrifício de sangue por um pecador <br>
+Não sou merecedor, Tua graça me alcançou <br>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+E ao ver tua glória, naquele dia <br>
+Me alegrarei em gratidão <br>
+Tocarei as marcas, marcas de vitória <br>
+Vencido é o pecado <br>
+Perante Ti me prostrarei <br>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+E ao olhar pra cruz eu entendo o amor <br>
+Derramado ali por mim <br>
+Sacrifício de sangue por um pecador <br>
+Não sou merecedor, Tua graça me alcançou <br>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Reconheço <br>
+Não sou digno <br>
+Pela graça <br>
+Eu fui salvo <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Reconheço <br>
+Não sou digno <br>
+Pela graça <br>
+Eu fui salvo <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Reconheço <br>
+Não sou digno <br>
+Pela graça <br>
+Eu fui salvo <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Reconheço <br>
+Não sou digno <br>
+Pela graça <br>
+Eu fui salvo <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+E ao olhar pra cruz eu entendo o amor <br>
+Derramado ali por mim <br>
+Sacrifício de sangue por um pecador <br>
+Não sou merecedor <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+E ao olhar pra cruz eu entendo o amor <br>
+Derramado ali por mim <br>
+Sacrifício de sangue por um pecador <br>
+Não sou merecedor <br>
+Não sou merecedor, Tua graça me alcançou <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Reconheço <br>
+Não sou digno <br>
+Pela graça <br>
+Eu fui salvo <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Reconheço <br>
+Não sou digno <br>
+Pela graça <br>
+Eu fui salvo <br>
+</center>

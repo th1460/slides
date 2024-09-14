@@ -1,0 +1,129 @@
+---
+title: "Maranata"
+title-slide-attributes:
+  data-background-image: mountains.jpg
+  data-background-position: cover
+  data-background-opacity: "0.6"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Tu és a minha luz <br>
+A minha salvação <br>
+E a Ti me renderei <br>
+Se ao Teu lado estou <br>
+Seguro em Tuas mãos <br>
+Eu nada temerei <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Oh oh uoh Tu és santo, ó Senhor <br>
+Oh oh uoh Tu és digno de louvor <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Só em ti confiarei <br>
+Eu nada temerei <br>
+Em frente eu irei <br>
+Pois eu sei que vivo estás <br>
+E um dia voltarás do céu pra nos buscar <br>
+Para sempre reinarás, aleluia <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Tu és a minha luz <br>
+A minha salvação <br>
+E a Ti me renderei  <br>
+Se ao Teu lado estou <br>
+Seguro em Tuas mãos <br>
+Eu nada temerei <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Oh oh oh oh Tu és santo, ó Senhor <br>
+Oh uoh uoh uoh Tu és digno de louvor <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Só em Ti confiarei <br>
+Eu nada temerei <br>
+Em frente eu irei <br>
+Pois eu sei que vivo estás <br>
+E um dia voltarás do céu pra nos buscar <br>
+Para sempre reinarás, aleluia <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Só em Ti confiarei <br>
+Eu nada temerei <br>
+Em frente eu irei <br>
+Pois eu sei que vivo estás <br>
+E um dia voltarás do céu pra nos buscar <br>
+Pra sempre reinarás, aleluia <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Vem, Jesus <br>
+Vem, Jesus <br>
+Maranata, ora, vem, Senhor Jesus <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Vem, Jesus <br>
+Vem, Jesus <br>
+Maranata, ora, vem, Senhor Jesus <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Vem, Jesus <br>
+Vem, Jesus <br>
+Maranata, ora, vem, Senhor Jesus <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Vem, Jesus <br>
+Vem, Jesus <br>
+Maranata, ora, vem, Senhor Jesus <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Só em Ti confiarei <br>
+Eu nada temerei <br>
+Em frente eu irei <br>
+Pois eu sei que vivo estás <br>
+E um dia voltarás do céu pra nos buscar <br>
+Para sempre reinarás, aleluia <br>
+</center>

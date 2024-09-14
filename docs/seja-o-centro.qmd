@@ -1,0 +1,62 @@
+---
+title: "Seja o Centro"
+title-slide-attributes:
+  data-background-image: mountains.jpg
+  data-background-position: cover
+  data-background-opacity: "0.6"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Aquele que em Suas mãos detêm a força e todo o poder
+Aquele que promete a vida eterna a todo o que nele crê
+É Ele quem nos guarda e que operando, quem impedirá?
+Ao guarda de Israel clamamos: Ouça nossa voz aqui
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Reine em nós, venha a nós Seu reino
+Reine em nós, venha a nós Sua glória, Deus
+Seja o centro, seja tudo a todos nós
+Seja o centro, seja tudo a todos nós
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Aquele que em Suas mãos detêm a força e todo o poder
+Aquele que promete a vida eterna a todo o que nele crê
+É Ele quem nos guarda e que operando, quem impedirá?
+Ao guarda de Israel clamamos: Ouça nossa voz aqui
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Reine em nós, venha a nós Seu reino
+Reine em nós, venha a nós Sua glória, Deus
+Seja o centro, seja tudo a todos nós
+Seja o centro, seja tudo a todos nós
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Reine em nós, venha a nós Seu reino
+Reine em nós, venha a nós Sua glória, Deus
+Seja o centro, seja tudo a todos nós
+Seja o centro, seja tudo a todos nós
+</center>
