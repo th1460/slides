@@ -1,0 +1,83 @@
+---
+title: "Toma meu coração"
+title-slide-attributes:
+  data-background-image: sunset.jpg
+  data-background-position: cover
+  data-background-opacity: "0.6"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Este é meu desejo <br>
+Senhor, te honrar <br>
+Com meu coração, te adorar <br>
+Tudo o que há em mim <br>
+Te dar louvor <br>
+Só a ti adoro, meu Senhor <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Toma o meu coração <br>
+E toda a minha alma <br>
+Eu vivo só pra ti <br>
+Sempre que eu respirar <br>
+Cada vez que eu acordar <br>
+Faze o teu querer em mim <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Este é meu desejo <br>
+Senhor, te honrar <br>
+Com meu coração, te adorar <br>
+Tudo o que há em mim <br>
+Te dar louvor <br>
+Só a ti adoro, meu Senhor <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Toma o meu coração <br>
+E toda a minha alma <br>
+Eu vivo só pra ti <br>
+Sempre que eu respirar <br>
+Cada vez que eu acordar <br>
+Faze o teu querer em mim <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Toma o meu coração <br>
+E toda a minha alma <br>
+Eu vivo só pra ti <br>
+Sempre que eu respirar <br>
+Cada vez que eu acordar <br>
+Faze o teu querer em mim <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Toma o meu coração <br>
+E toda a minha alma <br>
+Eu vivo só pra ti <br>
+Sempre que eu respirar <br>
+Cada vez que eu acordar <br>
+Faze o teu querer em mim <br>
+</center>

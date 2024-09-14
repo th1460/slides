@@ -1,0 +1,75 @@
+---
+title: "Descansar"
+title-slide-attributes:
+  data-background-image: mountains.jpg
+  data-background-position: cover
+  data-background-opacity: "0.6"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Não quero viver pensando no amanhã <br>
+Eu quero ser feliz <br>
+Dias vem e vão não irei temer <br>
+Posso confiar em Ti <br>
+Se o futuro incerto é, basta olhar com os olhos da fé <br>
+E descansar nos braços do Pai <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Descansar, confiando em Tua proteção <br>
+Descansar, vou me entregar em tuas mãos <br>
+Descansar, sei que cuidará de mim Senhor <br>
+Ensina-me a descansar <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Cada passo que eu der seja aonde estiver <br>
+Quero entregar a Ti <br>
+Cada decisão vou depor em<br>
+ Tuas mãos e esperar <br>
+Se das aves Deus cuida <br>
+Sei que tenho muito mais valor <br>
+Posso esperar e descansar<br> 
+nos braços do Pai <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Descansar, confiando em Tua proteção <br>
+Descansar, vou me entregar em Tuas mãos <br>
+Descansar, sei que cuidará de mim Senhor <br>
+Ensina-me a descansar <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Só em Teus braços encontro paz pra repousar <br>
+Mesmo que os temores me vençam, vou descansar <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Confiando em Tua proteção <br>
+Vou me entregar em Tuas mãos <br>
+Sei que cuidará de mim Senhor <br>
+Ensina-me a descansar <br>
+</center>

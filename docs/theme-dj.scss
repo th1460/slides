@@ -1,0 +1,60 @@
+/*-- scss:functions --*/
+
+/*-- scss:defaults --*/
+// fonts
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@700&display=swap");
+$font-family-sans-serif: "IBM Plex Sans", sans-serif !default;
+
+// colors
+$color-palette1: #151d24;
+$color-palette2: #4c7b9689;
+$color-palette3: #d0e2ff;
+$color-palette4: #e5f6ff;
+$color-palette5: #fff;
+
+// body
+$body-color: $color-palette1;
+
+// link
+$link-color: $color-palette2;
+
+/*-- scss:rules --*/
+#title-slide {
+    .title {
+        font-size: 170px;
+        color: $color-palette1;
+    }
+    .subtitle {
+        font-size: 40px;
+        color: $color-palette1;
+    }
+    .quarto-title-author-name {
+        font-size: 40px;
+        color: $color-palette1;
+    }
+    .date {
+        font-size: 40px;
+        color: $color-palette1;
+    }
+}
+
+ul li {
+    list-style-type: "\2013";
+    padding-left: 0.5em;
+}
+
+.reveal .footer {
+    // text-align: left !important;
+    color: #481d06;
+    // padding-left: 60px;
+}
+
+
+.blue {
+    color: $color-palette2;
+    font-weight: bold;
+}
+
+.marked {
+    background: #f7b36fb2 !important;
+}
