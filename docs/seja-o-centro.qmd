@@ -1,62 +1,137 @@
 ---
 title: "Seja o Centro"
 title-slide-attributes:
-  data-background-image: mountains.jpg
+  data-background-image: parede.png
   data-background-position: cover
-  data-background-opacity: "0.6"
+  data-background-opacity: "1"
 format: 
   revealjs:
-    theme: theme.scss
+    theme: theme-dj.scss
     width: 1600
     height: 900
-    footer: "#JOVENSCAHo"
-    fontsize: 80px
+    footer: "#JOVENSCAHo #DOMINGO JOVEM"
+    fontsize: 90px
     transition: slide
     background-transition: fade
 self-contained: true
 ---
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="parede.png"}
 
 <center>
 Aquele que em Suas mãos detêm a força e todo o poder
+</center>
+
+# {background-image="parede.png"}
+
+<center>
 Aquele que promete a vida eterna a todo o que nele crê
+</center>
+
+# {background-image="parede.png"}
+
+<center>
 É Ele quem nos guarda e que operando, quem impedirá?
+</center>
+
+# {background-image="parede.png"}
+
+<center>
 Ao guarda de Israel clamamos: Ouça nossa voz aqui
 </center>
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="parede.png"}
 
 <center>
 Reine em nós, venha a nós Seu reino
+</center>
+
+# {background-image="parede.png"}
+
+<center>
 Reine em nós, venha a nós Sua glória, Deus
-Seja o centro, seja tudo a todos nós
+</center>
+
+# {background-image="parede.png"}
+
+<center>
 Seja o centro, seja tudo a todos nós
 </center>
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="parede.png"}
+
+<center>
+Seja o centro, seja tudo a todos nós
+</center>
+
+# {background-image="parede.png"}
 
 <center>
 Aquele que em Suas mãos detêm a força e todo o poder
+</center>
+
+# {background-image="parede.png"}
+
+<center>
 Aquele que promete a vida eterna a todo o que nele crê
+</center>
+
+# {background-image="parede.png"}
+
+<center>
 É Ele quem nos guarda e que operando, quem impedirá?
+</center>
+
+# {background-image="parede.png"}
+
+<center>
 Ao guarda de Israel clamamos: Ouça nossa voz aqui
 </center>
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="parede.png"}
 
 <center>
 Reine em nós, venha a nós Seu reino
+</center>
+
+# {background-image="parede.png"}
+
+<center>
 Reine em nós, venha a nós Sua glória, Deus
-Seja o centro, seja tudo a todos nós
+</center>
+
+# {background-image="parede.png"}
+
+<center>
 Seja o centro, seja tudo a todos nós
 </center>
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="parede.png"}
+
+<center>
+Seja o centro, seja tudo a todos nós
+</center>
+
+# {background-image="parede.png"}
 
 <center>
 Reine em nós, venha a nós Seu reino
+</center>
+
+# {background-image="parede.png"}
+
+<center>
 Reine em nós, venha a nós Sua glória, Deus
+</center>
+
+# {background-image="parede.png"}
+
+<center>
 Seja o centro, seja tudo a todos nós
+</center>
+
+# {background-image="parede.png"}
+
+<center>
 Seja o centro, seja tudo a todos nós
 </center>

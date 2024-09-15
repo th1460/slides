@@ -2,14 +2,14 @@
 
 /*-- scss:defaults --*/
 // fonts
-@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@700&display=swap");
-$font-family-sans-serif: "IBM Plex Sans", sans-serif !default;
+@import url("@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');");
+$font-family-sans-serif: "Amatic SC", sans-serif !default;
 
 // colors
-$color-palette1: #151d24;
-$color-palette2: #4c7b9689;
-$color-palette3: #d0e2ff;
-$color-palette4: #e5f6ff;
+$color-palette1: #fff;
+$color-palette2: #fff;
+$color-palette3: #fff;
+$color-palette4: #fff;
 $color-palette5: #fff;
 
 // body
@@ -45,16 +45,6 @@ ul li {
 
 .reveal .footer {
     // text-align: left !important;
-    color: #481d06;
+    color: #fff;
     // padding-left: 60px;
-}
-
-
-.blue {
-    color: $color-palette2;
-    font-weight: bold;
-}
-
-.marked {
-    background: #f7b36fb2 !important;
 }

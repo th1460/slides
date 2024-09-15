@@ -1,110 +1,103 @@
 ---
 title: "Descansarei"
 title-slide-attributes:
-  data-background-image: mountains.jpg
+  data-background-image: parede.png
   data-background-position: cover
-  data-background-opacity: "0.6"
+  data-background-opacity: "1"
 format: 
   revealjs:
-    theme: theme.scss
+    theme: theme-dj.scss
     width: 1600
     height: 900
-    footer: "#JOVENSCAHo"
+    footer: "#JOVENSCAHo #DOMINGO JOVEM"
     fontsize: 80px
     transition: slide
     background-transition: fade
 self-contained: true
 ---
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="parede.png"}
+
+<center>
+Cobre-me com Tuas mãos <br>
+Com poder, vem me esconder, Senhor
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+::: {.fragment .fade-in-then-semi-out}
+Se o trovão e o mar se erguendo vêm <br>
+Sobre a tempestade eu voarei <br>
+:::
+::: {.fragment .fade-in-then-semi-out}
+Sobre as águas Tu também és Rei <br>
+Descansarei, pois sei que és Deus.
+:::
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Minha alma está segura em Ti <br>
+Sabe bem que em Cristo firme está
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+::: {.fragment .fade-in-then-semi-out}
+Se o trovão e o mar se erguendo vêm <br>
+Sobre a tempestade eu voarei <br>
+:::
+::: {.fragment .fade-in-then-semi-out}
+Sobre as águas Tu também és Rei <br>
+Descansarei, pois sei que és Deus
+:::
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+::: {.fragment .fade-in-then-semi-out}
+Se o trovão e o mar se erguendo vêm <br>
+Sobre a tempestade eu voarei <br>
+:::
+::: {.fragment .fade-in-then-semi-out}
+Sobre as águas Tu também és Rei <br>
+Descansarei, pois sei que és Deus
+:::
+</center>
+
+# {background-image="parede.png"}
 
 <center>
 Cobre-me com Tuas mãos
 Com poder, vem me esconder, Senhor
 </center>
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="parede.png"}
 
 <center>
-Se o trovão e o mar se erguendo vêm
-Sobre a tempestade eu voarei
-Sobre as águas Tu também és rei
+::: {.fragment .fade-in-then-semi-out}
+Se o trovão e o mar se erguendo vêm <br>
+Sobre a tempestade eu voarei <br>
+:::
+::: {.fragment .fade-in-then-semi-out}
+Sobre as águas Tu também és Rei <br>
+Descansarei, pois sei que és Deus.
+:::
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+::: {.fragment .fade-in-then-semi-out}
+Se o trovão e o mar se erguendo vêm <br>
+Sobre a tempestade eu voarei <br>
+:::
+::: {.fragment .fade-in-then-semi-out}
+Sobre as águas Tu também és Rei <br>
 Descansarei, pois sei que és Deus
-</center>
-
-# {background-image="mountains.jpg" background-opacity="0.25"}
-
-<center>
-Minha alma está segura em Ti
-Sabe bem que em Cristo firme está
-</center>
-
-# {background-image="mountains.jpg" background-opacity="0.25"}
-
-<center>
-Se o trovão e o mar se erguendo vêm
-Sobre a tempestade eu voarei
-Sobre as águas Tu também és rei
-Descansarei, pois sei que és Deus
-</center>
-
-# {background-image="mountains.jpg" background-opacity="0.25"}
-
-<center>
-Se o trovão e o mar se erguendo vêm
-Sobre a tempestade eu voarei
-Sobre as águas Tu também és rei
-Descansarei, pois sei que és Deus
-</center>
-
-# {background-image="mountains.jpg" background-opacity="0.25"}
-
-<center>
-Minha alma está segura em Ti, ó meu Senhor
-Cobre-me com Tua mão
-Com Teu poder, vem me esconder
-</center>
-
-# {background-image="mountains.jpg" background-opacity="0.25"}
-
-<center>
-Descansarei, descansarei
-Pois sei que Tu és Deus
-Eu sei que Tu és Deus
-Descansarei, descansarei
-Pois sei que és Deus
-</center>
-
-# {background-image="mountains.jpg" background-opacity="0.25"}
-
-<center>
-Cobre-me com Tuas mãos, meu Senhor
-Com poder, vem me esconder, Senhor
-</center>
-
-# {background-image="mountains.jpg" background-opacity="0.25"}
-
-<center>
-Se o trovão e o mar se erguendo vêm
-Sobre a tempestade eu voarei
-Sobre as águas Tu também és rei
-Descansarei, pois sei que és Deus
-</center>
-
-# {background-image="mountains.jpg" background-opacity="0.25"}
-
-<center>
-Se o trovão e o mar se erguendo vêm (ó, vem, Senhor)
-Sobre a tempestade eu voarei
-Sobre as águas Tu também és rei
-Descansarei, pois sei que és Deus
-</center>
-
-# {background-image="mountains.jpg" background-opacity="0.25"}
-
-<center>
-Se o trovão e o mar se erguendo vêm
-Sobre a tempestade eu voarei
-Sobre as águas Tu também és rei
-Descansarei, pois sei que és Deus
+:::
 </center>
