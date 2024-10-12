@@ -1,0 +1,78 @@
+---
+title: "Verei Jesus"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+#
+
+<center>
+Almejo o dia em que verei <br>
+Uma pequena luz no céu <br>
+E essa luz aumentará <br>
+Milhares de anjos surgirão <br>
+</center>
+
+#
+
+<center>
+Eu creio, sim, que Ele virá <br>
+E muito em breve eu subirei <br>
+Pra um novo lar, um novo céu <br>
+Pra sempre eu estarei <br>
+Feliz eu viverei <br>
+Verei Jesus <br>
+</center>
+
+#
+
+<center>
+A voz de Deus irá soar <br>
+Nas nuvens sua glória surgirá <br>
+Mil gerações se encontrarão <br>
+E para sempre louvarão <br>
+</center>
+
+#
+
+<center>
+Eu creio, sim, que Ele virá <br>
+E muito em breve eu subirei <br>
+Pra um novo lar, um novo céu <br>
+Pra sempre eu estarei <br>
+Feliz eu viverei <br>
+Verei Jesus <br>
+</center>
+
+#
+
+<center>
+Eu creio, sim, que Ele virá <br>
+E muito em breve eu subirei <br>
+Pra um novo lar, um novo céu <br>
+Pra sempre eu estarei <br>
+Feliz eu viverei <br>
+</center>
+
+#
+
+<center>
+Eu creio, sim, que Ele virá  <br>
+E muito em breve eu subirei  <br>
+Pra um novo lar, um novo céu  <br>
+Pra sempre eu estarei  <br>
+Feliz eu viverei  <br>
+Verei Jesus  <br>
+</center>
+
+
+
+

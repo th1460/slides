@@ -1,0 +1,74 @@
+---
+title: "Medley Vaso de Honra / Renova-me"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+#
+
+<center>
+Eu quero ser um vaso de honra <br>
+Moldado pelo Senhor <br>
+Com a mensagem de amor e esperança <br>
+Aos homens por onde for <br>
+</center>
+
+#
+
+<center>
+Reaviva-me, inspira minha vida <br>
+Prepara-me, pra fazer o Teu querer <br>
+Aprofunda-me em Teu poder e graça <br>
+Para honrar o Teu nome, Senhor <br>
+</center>
+
+#
+
+<center>
+Renova-me, Senhor Jesus <br>
+Já não quero ser igual <br>
+Renova-me, Senhor Jesus <br>
+Põe em mim Teu coração <br>
+</center>
+
+#
+
+<center>
+Porque tudo o que há dentro de mim <br>
+Necessita ser mudado Senhor <br>
+Porque tudo o que há dentro do meu coração <br>
+Necessita mais de Ti <br>
+Necessita mais de Ti <br>
+Necessita mais de Ti <br>
+</center>
+
+#
+
+<center>
+Eu quero ser um vaso de honra <br>
+Moldado pelo Senhor <br>
+Com a mensagem de amor e de esperança <br>
+Aos homens por onde for <br>
+</center>
+
+#
+
+<center>
+Reaviva-me, inspira minha vida  <br>
+Prepara-me, pra fazer o Teu querer  <br>
+Aprofunda-me em Teu poder e graça  <br>
+Pra honrar o Teu nome, Senhor  <br>
+Pra honrar o Teu nome, Senhor  <br>
+Pra honrar o Teu nome, Senhor  <br>
+</center>
+
+
+
