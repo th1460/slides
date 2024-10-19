@@ -1,0 +1,61 @@
+---
+title: "Tua Palavra"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+#
+<center>
+Escondi Tua palavra no meu coração <br>
+Pra não pecar contra Ti <br>
+Escondi as Tuas preciosas verdades <br>
+dentro de mim <br>
+Eu não quero falhar <br>
+Eu não quero jamais entristecer meu Jesus <br>
+</center>
+
+#
+<center>
+Tua palavra é luz, Tua palavra é paz <br>
+Tua palavra é vida ao meu coração <br>
+Por isso em meu viver eu quero compreender <br>
+Eu quero aceitar em mim o Teu querer <br>
+Vem ajudar-me ó Deus <br>
+</center>
+
+#
+<center>
+Decidi, obedecer Senhor em <br>
+qualquer situação <br>
+Sei que Tu vais ser comigo <br>
+Decidi que quero de hoje em diante <br>
+ser sempre Teu <br>
+Eu não quero falhar, eu não quero jamais entristecer meu Jesus <br>
+</center>
+
+#
+<center>
+Tua palavra é luz, Tua palavra é paz <br>
+Tua palavra é vida ao meu coração <br>
+Por isso em meu viver eu quero compreender <br>
+Eu quero aceitar em mim o Teu querer <br>
+Vem ajudar-me ó Deus <br>
+</center>
+
+#
+
+<center>
+Tua palavra é luz, Tua palavra é paz <br>
+Tua palavra é vida ao meu coração <br>
+Por isso em meu viver eu quero compreender <br>
+Eu quero aceitar em mim o Teu querer <br>
+Vem ajudar-me ó Deus <br>
+</center>

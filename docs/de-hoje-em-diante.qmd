@@ -1,0 +1,104 @@
+---
+title: "De Hoje Em Diante"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+#
+
+<center>
+De hoje em diante escolho viver com Jesus <br>
+Como um barco que alcança o porto <br>
+Eu encontrei Sua Luz <br>
+</center>
+
+#
+
+<center>
+De hoje em diante escolho amar <br>
+Pois eu tenho paz <br>
+Que só Jesus que pode dar <br>
+</center>
+
+#
+
+<center>
+De hoje em diante
+</center>
+
+#
+
+<center>
+Senhor do Universo, és minha esperança <br>
+Santifica os propósitos do meu coração <br>
+</center>
+
+#
+
+<center>
+Contigo ao meu lado não tenho mais o que temer <br>
+Pois Tu és a razão do meu viver <br>
+</center>
+
+#
+
+<center>
+Acima de tudo escolho viver com Jesus <br>
+Em resposta ao grande preço que já foi pago na cruz <br>
+</center>
+
+#
+
+<center>
+Eu sigo Teus passos pra não me perder <br>
+Descobri que és minha razão de viver <br>
+</center>
+
+#
+
+<center>
+De hoje em diante
+</center>
+
+#
+
+<center>
+Senhor do Universo, és minha esperança <br>
+Santifica os propósitos do meu coração <br>
+</center>
+
+#
+
+<center>
+Contigo ao meu lado não tenho mais o que temer <br>
+Pois Tu és a razão do meu viver <br>
+</center>
+
+#
+
+<center>
+Senhor do Universo, és minha esperança <br>
+Santifica os propósitos do meu coração <br>
+</center>
+
+#
+
+<center>
+Contigo ao meu lado não tenho mais o que temer <br>
+Pois Tu és a razão do meu viver <br>
+</center>
+
+#
+
+<center>
+Pois Tu és a razão do meu viver <br>
+Tu és a razão do meu viver <br>
+</center>
