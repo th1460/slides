@@ -25,34 +25,29 @@ Eu encontrei Sua Luz <br>
 <center>
 De hoje em diante escolho amar <br>
 Pois eu tenho paz <br>
-Que só Jesus que pode dar <br>
+Que só Jesus que pode dar  <br>
+De hoje em diante <br>
 </center>
 
 #
 
-<center>
-De hoje em diante
-</center>
-
-#
 
 <center>
 Senhor do Universo, és minha esperança <br>
 Santifica os propósitos do meu coração <br>
-</center>
-
-#
-
-<center>
-Contigo ao meu lado não tenho mais o que temer <br>
+Contigo ao meu lado <br>
+ não tenho mais o que temer <br>
 Pois Tu és a razão do meu viver <br>
 </center>
+
+
 
 #
 
 <center>
 Acima de tudo escolho viver com Jesus <br>
-Em resposta ao grande preço que já foi pago na cruz <br>
+Em resposta ao grande preço que <br>
+ já foi pago na cruz <br>
 </center>
 
 #
@@ -60,41 +55,35 @@ Em resposta ao grande preço que já foi pago na cruz <br>
 <center>
 Eu sigo Teus passos pra não me perder <br>
 Descobri que és minha razão de viver <br>
+De hoje em diante <br>
 </center>
 
-#
 
-<center>
-De hoje em diante
-</center>
 
-#
-
-<center>
-Senhor do Universo, és minha esperança <br>
-Santifica os propósitos do meu coração <br>
-</center>
-
-#
-
-<center>
-Contigo ao meu lado não tenho mais o que temer <br>
-Pois Tu és a razão do meu viver <br>
-</center>
 
 #
 
 <center>
 Senhor do Universo, és minha esperança <br>
 Santifica os propósitos do meu coração <br>
+Contigo ao meu lado <br>
+ não tenho mais o que temer <br>
+Pois Tu és a razão do meu viver <br>
 </center>
 
 #
 
+
+
 <center>
-Contigo ao meu lado não tenho mais o que temer <br>
+Senhor do Universo, és minha esperança <br>
+Santifica os propósitos do meu coração <br>
+Contigo ao meu lado <br>
+não tenho mais o que temer <br>
 Pois Tu és a razão do meu viver <br>
 </center>
+
+
 
 #
 
