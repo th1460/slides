@@ -10,7 +10,7 @@ format:
     width: 1600
     height: 900
     footer: "#JOVENSCAHo #DOMINGO JOVEM"
-    fontsize: 90px
+    fontsize: 150px
     transition: slide
     background-transition: fade
 self-contained: true
@@ -38,7 +38,7 @@ Esse chamado e aceitou <br>
 
 <center>
 E é tão bom saber que há lugar aqui <br>
-A graça nos chamou à mesa do Senhor <br>
+A graça nos chamou à mesa do senhor <br>
 </center>
 
 # {background-image="parede.png"}
@@ -46,13 +46,8 @@ A graça nos chamou à mesa do Senhor <br>
 <center>
 Há lugar na casa <br>
 Há perdão na casa <br>
-</center>
-
-# {background-image="parede.png"}
-
-<center>
 Quando estamos juntos <br>
-Nosso encontro é casa de Deus Pai <br>
+Nosso encontro é casa de Deus pai <br>
 </center>
 
 # {background-image="parede.png"}
@@ -60,13 +55,8 @@ Nosso encontro é casa de Deus Pai <br>
 <center>
 Há esperança na casa <br>
 Recomeço na casa <br>
-</center>
-
-# {background-image="parede.png"}
-
-<center>
-Reunidos Nele <br>
-Nosso encontro é casa de Deus Pai <br>
+Reunidos nele <br>
+Nosso encontro é casa de Deus pai <br>
 </center>
 
 # {background-image="parede.png"}
@@ -74,11 +64,6 @@ Nosso encontro é casa de Deus Pai <br>
 <center>
 O som da sua palavra <br>
 Curou a nossa alma <br>
-</center>
-
-# {background-image="parede.png"}
-
-<center>
 O Verbo nos amou <br>
 Da solidão nos resgatou <br>
 </center>
@@ -87,7 +72,7 @@ Da solidão nos resgatou <br>
 
 <center>
 E é tão bom saber que há lugar aqui <br>
-A graça nos chamou pra mesa do Senhor <br>
+A graça nos chamou à mesa do senhor <br>
 </center>
 
 # {background-image="parede.png"}
@@ -95,13 +80,8 @@ A graça nos chamou pra mesa do Senhor <br>
 <center>
 Há lugar na casa <br>
 Há perdão na casa <br>
-</center>
-
-# {background-image="parede.png"}
-
-<center>
 Quando estamos juntos <br>
-Nosso encontro é casa de Deus Pai <br>
+Nosso encontro é casa de Deus pai <br>
 </center>
 
 # {background-image="parede.png"}
@@ -109,13 +89,8 @@ Nosso encontro é casa de Deus Pai <br>
 <center>
 Há esperança na casa <br>
 Recomeço na casa <br>
-</center>
-
-# {background-image="parede.png"}
-
-<center>
-Reunidos Nele <br>
-Nosso encontro é casa de Deus Pai <br>
+Reunidos nele <br>
+Nosso encontro é casa de Deus pai <br>
 </center>
 
 # {background-image="parede.png"}
@@ -123,13 +98,8 @@ Nosso encontro é casa de Deus Pai <br>
 <center>
 Há lugar na casa <br>
 Há perdão na casa <br>
-</center>
-
-# {background-image="parede.png"}
-
-<center>
 Quando estamos juntos <br>
-Nosso encontro é casa de Deus Pai <br>
+Nosso encontro é casa de Deus pai <br>
 </center>
 
 # {background-image="parede.png"}
@@ -137,55 +107,16 @@ Nosso encontro é casa de Deus Pai <br>
 <center>
 Há esperança na casa <br>
 Recomeço na casa <br>
+Reunidos nele <br>
+Nosso encontro é casa de Deus pai <br>
 </center>
 
 # {background-image="parede.png"}
 
 <center>
-Reunidos Nele <br>
-Nosso encontro é casa de Deus Pai <br>
-</center>
-
-# {background-image="parede.png"}
-
-<center>
-Venham todos os cansados <br>
-Venham sobrecarregados <br>
-</center>
-
-# {background-image="parede.png"}
-
-<center>
-Há lugar na casa, há lugar na casa <br>
-Venham todos os feridos <br>
-</center>
-
-# {background-image="parede.png"}
-
-<center>
-Venham todos os perdidos <br>
-Há lugar na casa, há lugar na casa <br>
-</center>
-
-# {background-image="parede.png"}
-
-<center>
-Venham todos os cansados <br>
-Venham sobrecarregados <br>
-</center>
-
-# {background-image="parede.png"}
-
-<center>
-Há lugar na casa, há lugar na casa <br>
-Venham todos os feridos <br>
-</center>
-
-# {background-image="parede.png"}
-
-<center>
-Venham todos os perdidos <br>
-Há lugar na casa, há lugar na casa <br>
+De Deus pai, De Deus pai <br>
+Do meu pai, Do teu pai <br>
+Do nosso pai <br>
 </center>
 
 # {background-image="parede.png"}
@@ -193,13 +124,8 @@ Há lugar na casa, há lugar na casa <br>
 <center>
 Há lugar na casa <br>
 Há perdão na casa <br>
-</center>
-
-# {background-image="parede.png"}
-
-<center>
 Quando estamos juntos <br>
-Nosso encontro é casa de Deus Pai <br>
+Nosso encontro é casa de Deus pai <br>
 </center>
 
 # {background-image="parede.png"}
@@ -207,32 +133,6 @@ Nosso encontro é casa de Deus Pai <br>
 <center>
 Há esperança na casa <br>
 Recomeço na casa <br>
-</center>
-
-# {background-image="parede.png"}
-
-<center>
-Reunidos Nele <br>
-Nosso encontro é casa de Deus Pai <br>
-</center>
-
-# {background-image="parede.png"}
-
-<center>
-Venham todos os cansados <br>
-Venham sobrecarregados <br>
-</center>
-
-# {background-image="parede.png"}
-
-<center>
-Há lugar na casa, há lugar na casa <br>
-Venham todos os feridos <br>
-</center>
-
-# {background-image="parede.png"}
-
-<center>
-Venham todos os perdidos <br>
-Há lugar na casa, há lugar na casa <br>
+Reunidos nele <br>
+Nosso encontro é casa de Deus pai <br>
 </center>

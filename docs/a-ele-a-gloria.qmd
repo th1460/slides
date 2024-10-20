@@ -1,0 +1,107 @@
+---
+title: "A Ele A Gloria"
+title-slide-attributes:
+  data-background-image: parede.png
+  data-background-position: cover
+  data-background-opacity: "1"
+format: 
+  revealjs:
+    theme: theme-dj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo #DOMINGO JOVEM"
+    fontsize: 150px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="parede.png"}
+
+<center>
+Porque Dele e por Ele <br>
+Para Ele são todas as coisas <br>
+Porque Dele e por Ele  <br>
+Para Ele são todas as coisas <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Porque Dele e por Ele <br>
+Para Ele são todas as coisas <br>
+Porque Dele e por Ele <br>
+Para Ele são todas as coisas <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+A Ele a Glória <br>
+A Ele a Glória <br>
+A Ele a Glória <br>
+Para sempre Amém <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+A Ele a Glória <br>
+A Ele a Glória <br>
+A Ele a Glória <br>
+Para sempre Amém <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Quão profundas riquezas <br>
+O saber e o conhecer de Deus <br>
+Quão insondáveis <br>
+Seus juízos e os seus caminhos <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Quão profundas riquezas <br>
+O saber e o conhecer de Deus <br>
+Quão insondáveis <br>
+Seus juízos e os seus caminhos <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+A Ele a Glória <br>
+A Ele a Glória <br>
+A Ele a Glória <br>
+Para sempre Amém <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+A Ele a Glória <br>
+A Ele a Glória <br>
+A Ele a Glória <br>
+Para sempre Amém <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+A Ele a Glória <br>
+A Ele a Glória <br>
+A Ele a Glória <br>
+Para sempre Amém <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+A Ele a Glória <br>
+A Ele a Glória <br>
+A Ele a Glória <br>
+Para sempre Amém <br>
+</center>

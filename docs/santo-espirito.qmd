@@ -1,18 +1,22 @@
 ---
 title: "Santo Espírito"
+title-slide-attributes:
+  data-background-image: parede.png
+  data-background-position: cover
+  data-background-opacity: "1"
 format: 
   revealjs:
-    theme: theme.scss
+    theme: theme-dj.scss
     width: 1600
     height: 900
-    footer: "#JOVENSCAHo"
-    fontsize: 80px
+    footer: "#JOVENSCAHo #DOMINGO JOVEM"
+    fontsize: 120px
     transition: slide
     background-transition: fade
 self-contained: true
 ---
 
-#
+# {background-image="parede.png"}
 
 <center>
 Nós pedimos Tua presença entre nós <br>
@@ -21,7 +25,7 @@ Vem, restaura em nós o Teu fogo abrasador <br>
 Nos trazendo até Jesus <br>
 </center>
 
-#
+# {background-image="parede.png"}
 
 <center>
 Santo Espírito <br>
@@ -30,7 +34,7 @@ Enche este lugar <br>
 Vive em nós! <br>
 </center>
 
-#
+# {background-image="parede.png"}
 
 <center>
 Santo Espírito <br>
@@ -39,7 +43,7 @@ Enche este lugar <br>
 Vive em nós! <br>
 </center>
 
-#
+# {background-image="parede.png"}
 
 <center>
 Nós pedimos Tua presença entre nós <br>
@@ -48,7 +52,7 @@ Vem, restaura em nós o Teu fogo abrasador <br>
 Nos trazendo até Jesus <br>
 </center>
 
-#
+# {background-image="parede.png"}
 
 <center>
 Santo Espírito <br>
@@ -57,7 +61,7 @@ Enche este lugar <br>
 Vive em nós! <br>
 </center>
 
-#
+# {background-image="parede.png"}
 
 <center>
 Santo Espírito <br>
@@ -66,7 +70,7 @@ Enche este lugar <br>
 Vive em nós! <br>
 </center>
 
-#
+# {background-image="parede.png"}
 
 <center>
 Venha a nós o Teu reino <br>
@@ -75,7 +79,7 @@ Tua unção, Tua bênção <br>
 Nós queremos receber <br>
 </center>
 
-#
+# {background-image="parede.png"}
 
 <center>
 Venha a nós o Teu reino <br>
@@ -84,7 +88,7 @@ Tua unção, Tua bênção <br>
 Nós queremos receber <br>
 </center>
 
-#
+# {background-image="parede.png"}
 
 <center>
 Venha a nós o Teu reino <br>
@@ -93,7 +97,7 @@ Tua unção, Tua bênção <br>
 Nós queremos receber <br>
 </center>
 
-#
+# {background-image="parede.png"}
 
 <center>
 Venha a nós o Teu reino <br>
@@ -102,7 +106,7 @@ Tua unção, Tua bênção <br>
 Nós queremos receber <br>
 </center>
 
-#
+# {background-image="parede.png"}
 
 <center>
 Santo Espírito <br>
@@ -111,20 +115,20 @@ Enche este lugar <br>
 Vive em nós! <br>
 </center>
 
-#
+# {background-image="parede.png"}
 
 <center>
 Santo Espírito <br>
 Enche este lugar! <br>
-Enche este lugar
-Vive em nós!
+Enche este lugar <br>
+Vive em nós! <br>
 </center>
 
-#
+# {background-image="parede.png"}
 
 <center>
-Enche este lugar!
-Enche este lugar!
-Enche este lugar
+Enche este lugar! <br>
+Enche este lugar! <br>
+Enche este lugar <br>
 Vive em nós!
 </center>
