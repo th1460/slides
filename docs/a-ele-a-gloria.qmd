@@ -1,5 +1,5 @@
 ---
-title: "A Ele A Gloria"
+title: "A Ele A Glória"
 title-slide-attributes:
   data-background-image: parede.png
   data-background-position: cover

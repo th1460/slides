@@ -136,3 +136,11 @@ Recomeço na casa <br>
 Reunidos nele <br>
 Nosso encontro é casa de Deus pai <br>
 </center>
+
+# {background-image="parede.png"}
+
+<center>
+De Deus pai, De Deus pai <br>
+Do meu pai, Do teu pai <br>
+Do nosso pai <br>
+</center>
