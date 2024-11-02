@@ -1,0 +1,92 @@
+---
+title: "Tudo por Ele"
+title-slide-attributes:
+  data-background-image: mountains.jpg
+  data-background-position: cover
+  data-background-opacity: "0.6"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Os Céus proclamam as obras do Eterno <br>
+Galáxias cantam de Sua imensidão <br>
+E uma voz com sons de glória <br>
+Ecoa em toda a criação <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Do grão que faz a vida irromper <br>
+O esplendor, o invisível faz nascer <br>
+E uma voz com sons de glória <br>
+Ecoa em nosso coração <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Diante dEle nos rendemos <br>
+É tudo por Ele, tudo por Ele <br>
+A Ele, a glória e para sempre <br>
+É tudo por Ele, tudo por Ele <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Em oração e na Palavra seguiremos <br>
+Em um só corpo rendido à missão <br>
+E nossa voz com sons de glória <br>
+Irá romper a escuridão <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Diante dEle nos rendemos <br>
+Tudo por Ele, tudo por Ele <br>
+A Ele, a glória e para sempre <br>
+É tudo por Ele, tudo por Ele <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+A Ele, a honra, a glória e o louvor <br>
+Que o reino seja em nós <br>
+E nossa vida só por Ele <br>
+A Ele, a honra, a glória e o louvor <br>
+Que o reino seja em nós <br>
+E nossa vida só por Ele <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Diante dEle nos rendemos <br>
+É tudo por Ele, tudo por Ele <br>
+A Ele, a glória e para sempre <br>
+É tudo por Ele, tudo por Ele <br>
+<center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+A Ele, a glória e para sempre <br>
+É tudo por Ele, tudo por Ele <br>
+A Ele, a honra, a glória e o louvor <br>
+Que o reino seja em nós <br>
+E nossa vida só por Ele <br>
+</center>

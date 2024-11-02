@@ -1,0 +1,95 @@
+---
+title: "Tu és o meu Deus"
+title-slide-attributes:
+  data-background-image: mountains.jpg
+  data-background-position: cover
+  data-background-opacity: "0.6"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+A Tua graça me satisfaz <br>
+Tua presença restaura a paz <br>
+A Tua graça me satisfaz <br>
+Tua presença restaura a paz <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+A Tua força me sustenta <br>
+És meu refúgio na tormenta <br>
+Por isso eu Te louvo <br>
+Tu és o meu Deus <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Rei dos reis, meu Senhor <br>
+Pai eterno, Deus de amor <br>
+Eu te exalto, eu me entrego em Tuas mãos <br>
+Rei dos reis, Criador <br>
+Não há outro igual a Ti <br>
+Por isso eu Te louvo <br>
+Tu és o meu Deus <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+A Tua graça me satisfaz <br>
+Tua presença restaura a paz <br>
+A Tua graça me satisfaz <br>
+Tua presença restaura a paz <br>
+<center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+A Tua força me sustenta <br>
+És meu refúgio na tormenta <br>
+Por isso eu Te louvo <br>
+Tu és o meu Deus <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Rei dos reis, meu Senhor <br>
+Pai eterno, Deus de amor <br>
+Eu Te exalto, eu me entrego em Tuas mãos <br>
+Rei dos reis, Criador <br>
+Não há outro igual a Ti <br>
+Por isso eu Te louvo <br>
+Tu és o meu Deus <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Rei dos reis, meu Senhor <br>
+Pai eterno, Deus de amor <br>
+Eu Te exalto, eu me entrego em Tuas mãos <br>
+Rei dos reis, Criador <br>
+Não há outro igual a Ti <br>
+Por isso eu Te louvo <br>
+Tu és o meu Deus <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Tu és o meu Deus
+</center>
