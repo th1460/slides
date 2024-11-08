@@ -1,0 +1,134 @@
+---
+title: "Somos Teus"
+title-slide-attributes:
+  data-background-image: parede.png
+  data-background-position: cover
+  data-background-opacity: "1"
+format: 
+  revealjs:
+    theme: theme-dj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo #DOMINGO JOVEM"
+    fontsize: 110px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="parede.png"}
+
+<center>
+Está nascendo um novo tempo <br>
+Uma nova geração <br>
+Pra espalhar tua glória em toda a terra <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Um tempo de consagração <br>
+Restauração da tua verdade <br>
+Pra levantar teu nome em toda a terra <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Eu vejo os jovens se prostrando <br>
+Em reverência e adoração <br>
+Eu vejo o Espírito movendo os corações <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Eu vejo a igreja se erguendo <br>
+E terminando a missão <br>
+Eu vejo um povo declarando em uma canção <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Somos teus, Senhor, somos teus, Senhor <br>
+Quer vivamos ou morramos, somos teus <br>
+Somos teus, Senhor, somos teus, Senhor <br>
+Quer vivamos ou morramos, somos teus <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Está nascendo um novo tempo <br>
+Uma nova geração <br>
+Pra espalhar tua glória em toda a terra <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Um tempo de consagração <br>
+Restauração da tua verdade <br>
+Pra levantar teu nome em toda a terra <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Eu vejo os jovens se prostrando <br>
+Em reverência e adoração <br>
+Eu vejo o Espírito movendo os corações <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Eu vejo a igreja se erguendo <br>
+E terminado a missão <br>
+Eu vejo um povo declarando em uma canção <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Somos teus, Senhor, somos teus, Senhor <br>
+Quer vivamos ou morramos, somos teus <br>
+Somos teus, Senhor, somos teus, Senhor <br>
+Quer vivamos ou morramos, somos teus <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Viveremos só por ti, e morreremos só por ti <br>
+Quer vivamos ou morramos, somos teus <br>
+Viveremos só por ti, e morreremos só por ti <br>
+Quer vivamos ou morramos, somos teus <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Somos teus, Senhor, somos teus, Senhor <br>
+Quer vivamos ou morramos, somos teus <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Somos teus, Senhor (viveremos só por ti) <br>
+Somos teus, Senhor (e morreremos só por ti) <br>
+Quer vivamos ou morramos <br> 
+(quer vivamos ou morramos) <br>
+Somos teus (somos teus) <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Somos teus, Senhor, somos teus, Senhor <br>
+Quer vivamos ou morramos, somos teus <br>
+Somos teus, Senhor, somos teus, Senhor <br>
+Quer vivamos ou morramos, somos teus <br>
+</center>
