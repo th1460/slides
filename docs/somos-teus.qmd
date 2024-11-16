@@ -117,11 +117,16 @@ Quer vivamos ou morramos, somos teus <br>
 # {background-image="parede.png"}
 
 <center>
-Somos teus, Senhor (viveremos só por ti) <br>
-Somos teus, Senhor (e morreremos só por ti) <br>
-Quer vivamos ou morramos <br> 
-(quer vivamos ou morramos) <br>
-Somos teus (somos teus) <br>
+<p style="font-size:80px">
+Rapazes - Somos teus, Senhor <br>
+Moças - (viveremos só por ti) <br>
+Rapazes - Somos teus, Senhor <br>
+Moças - (e morreremos só por ti) <br>
+Rapazes - Quer vivamos ou morramos <br> 
+Moças - (quer vivamos ou morramos) <br>
+Rapazes - Somos teus <br>
+Moças - (somos teus) <br>
+</p>
 </center>
 
 # {background-image="parede.png"}
@@ -129,6 +134,12 @@ Somos teus (somos teus) <br>
 <center>
 Somos teus, Senhor, somos teus, Senhor <br>
 Quer vivamos ou morramos, somos teus <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+(A capela)
 Somos teus, Senhor, somos teus, Senhor <br>
 Quer vivamos ou morramos, somos teus <br>
 </center>
