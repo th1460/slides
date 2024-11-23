@@ -1,0 +1,130 @@
+---
+title: "Maranata"
+title-slide-attributes:
+  data-background-image: mountains.jpg
+  data-background-position: cover
+  data-background-opacity: "0.6"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Nós temos um chamado <br>
+Uma palavra a pregar <br>
+Mensagem poderosa <br>
+Que pode vidas transformar <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+É nosso privilégio <br>
+Servir, cumprindo a missão <br>
+Levando esperança <br>
+A toda tribo e nação <br>
+Toda tribo e nação <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Maranata, Maranata <br>
+Muito em breve Jesus voltará <br>
+Maranata, Maranata <br>
+Muito em breve Jesus voltará <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Temei a Deus e dai-lhe <br>
+A honra, a glória e o louvor <br>
+Pois é chegada a hora <br>
+Do Seu juízo de amor <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+É nosso privilégio <br>
+A todo mundo anunciar <br>
+As novas do Evangelho <br>
+Que Jesus Cristo vai voltar <br>
+Muito em breve vai voltar <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Maranata, Maranata <br>
+Muito em breve Jesus voltará <br>
+Maranata, Maranata <br>
+Muito em breve Jesus voltará <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Trabalhando em união <br>
+Anunciando a Salvação <br>
+Esperamos o raiar <br>
+Tua luz irá brilhar <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Na Palavra, o alimento <br>
+Da promessa ao cumprimento <br>
+Esperamos o raiar <br>
+Tua luz irá brilhar <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Trabalhando em união <br>
+Anunciando a Salvação <br>
+Esperamos o raiar <br>
+Tua luz irá brilhar <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Na Palavra, o alimento <br>
+Da promessa ao cumprimento <br>
+Esperamos o raiar <br>
+Tua luz irá brilhar <br>
+Tua luz irá brilhar <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Maranata, Maranata <br>
+Muito em breve Jesus voltará <br>
+Maranata, Maranata <br>
+Muito em breve Jesus voltará <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Maranata, Maranata <br>
+Muito em breve Jesus voltará <br>
+Maranata, Maranata <br>
+Muito em breve Jesus voltará <br>
+Muito em breve Jesus voltará <br>
+Muito em breve Jesus voltará <br>
+</center>
