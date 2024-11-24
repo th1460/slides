@@ -1,0 +1,125 @@
+---
+title: "Meu Pastor"
+title-slide-attributes:
+  data-background-image: parede.png
+  data-background-position: cover
+  data-background-opacity: "1"
+format: 
+  revealjs:
+    theme: theme-dj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo #DOMINGO JOVEM"
+    fontsize: 110px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="parede.png"}
+
+<center>
+Contigo eu ando em segurança <br>
+De mim, afastas todo mal <br>
+Eu sou ovelha que precisa <br>
+Do cuidado do pastor <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+E se eu andar pelo vale da sombra da morte <br>
+Pelo vale da sombra da morte <br>
+Eu mal algum temerei <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Pois, sei que onde quer que eu for <br>
+Tua bondade me seguirá <br>
+Onde eu for Tua bondade me seguirá <br>
+De bênçãos me cercarás <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Meu pastor me leva a lugares altos <br>
+De água limpa pra beber <br>
+E em pastos verdes vou descansar <br>
+E a jornada continuar <br>
+com Ele <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Contigo eu ando em segurança <br>
+De mim, afastas todo mal <br>
+Eu sou ovelha que precisa <br>
+Do cuidado do pastor <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+E se eu andar pelo vale da sombra da morte <br>
+Pelo vale da sombra da morte <br>
+Eu mal algum temerei <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Pois, sei que onde quer que eu for <br>
+Tua bondade me seguirá <br>
+Onde eu for Tua bondade me seguirá <br>
+De bênçãos me cercarás <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Meu pastor me leva a lugares altos <br>
+De água limpa pra beber <br>
+E em pastos verdes vou descansar <br>
+E a jornada continuar <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+E se eu andar pelo vale da sombra da morte <br>
+Pelo vale da sombra da morte <br>
+Eu mal algum temerei <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Pois, sei que onde quer que eu for <br>
+Tua bondade me seguirá <br>
+Onde eu for Tua bondade me seguirá <br>
+De bênçãos me cercarás <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Meu pastor me leva a lugares altos <br>
+De água limpa pra beber <br>
+E em pastos verdes vou descansar <br>
+E a jornada continuar <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Meu pastor me leva a lugares altos <br>
+De água limpa pra beber <br>
+E em pastos verdes vou descansar <br>
+E a jornada continuar <br>
+Com Ele <br>
+Com Ele <br>
+</center>
