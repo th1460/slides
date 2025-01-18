@@ -1,0 +1,77 @@
+---
+title: "Restaura"
+title-slide-attributes:
+  data-background-image: mountains.jpg
+  data-background-position: cover
+  data-background-opacity: "0.8"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 70px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Restaura meu ser, <br>
+Restaura meu viver <br>
+Restaura minha desilusão, <br>
+Restaura meu quebrantado coração <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Restaura meus sonhos, <br>
+Restaura os meus planos, Senhor <br>
+Restaura minha vida por completo <br>
+Pra que todos saibam que tu és meu Deus <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Porque Teu é o poder e o louvor <br>
+Porque Tu és a paz e o amor <br>
+A Ti toda a honra e glória rendemos, Senhor <br>
+Grandioso é Teu agir em nossas vidas. Restaura <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Restaura meus sonhos, <br>
+Restaura os meus planos, Senhor <br>
+Restaura minha vida por completo <br>
+Pra que todos saibam que Tu és meu Deus <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Porque Teu é o poder e o louvor <br>
+Porque Tu és a paz e o amor <br>
+A Ti toda a honra e glória rendemos, Senhor <br>
+Grandioso é Teu agir em nossas vidas <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Porque Teu é o poder e o louvor <br>
+Porque Tu és a paz e o amor <br>
+A Ti toda a honra e glória rendemos, Senhor <br>
+Grandioso é Teu agir em nossas vidas <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Restaura, restaura, restaura
+</center>

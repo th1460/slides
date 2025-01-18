@@ -1,0 +1,115 @@
+---
+title: "Sou de Jesus"
+title-slide-attributes:
+  data-background-image: sunset.jpg
+  data-background-position: cover
+  data-background-opacity: "0.6"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 70px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Dois caminhos a seguir, dois senhores a lutar <br>
+Qual dos dois irei servir? Há só uma decisão <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Quantas vezes procurei os prazeres deste mundo <br>
+Encontrei mil motivos pra chorar <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+O inimigo sempre vem, disfarçando as intenções <br>
+Com ciladas ao redor ele quer me destruir <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Só Jesus pode me dar a real felicidade <br>
+E poder para ser um vencedor <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Sou de Jesus, o Senhor da vitória <br>
+O alimento a vida, Rocha eterna da salvação <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Seu amor me atraiu, deu-me paz e alegria <br>
+Eu já fiz minha escolha: Sou de Jesus <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Decidi testemunhar mesmo em forte provação <br>
+Rejeitando pela fé o pecado e seu sabor <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+No caminho de Jesus estarei sempre seguro <br>
+E assim, eu prossigo rumo ao céu <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Sou de Jesus, o Senhor da vitória <br>
+O alimento a vida, Rocha eterna da salvação <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Seu amor me atraiu, deu-me paz e alegria <br>
+Eu já fiz minha escolha: Sou de Jesus <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Mais do que em qualquer outro tempo <br>
+O momento é de escolher <br>
+Sem temer, sem hesitar, eu escolho Jesus <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Sou de Jesus, o Senhor da vitória <br>
+O alimento a vida, Rocha eterna da salvação <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Seu amor me atraiu, deu-me paz e alegria <br>
+Eu já fiz minha escolha: Sou de Jesus <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Eu já fiz minha escolha: Sou de Jesus <br>
+</center>
