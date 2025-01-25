@@ -1,0 +1,132 @@
+---
+title: "Toque Minhas Mãos"
+title-slide-attributes:
+  data-background-image: sunset.jpg
+  data-background-position: cover
+  data-background-opacity: "0.6"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+O som de uma voz comparado ao trovão <br>
+O mundo na palma da mão <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Um grão de areia comparado ao mar <br>
+Grandeza que eu não posso explicar <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Por isso Senhor me achego a ti <br>
+Prostrado diante do altar <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Eu sou pecador <br>
+Tu és Salvador <br>
+Aceita o meu humilde louvor <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Levanto as mãos <br>
+Em oração <br>
+Pra alcançar Teu trono ó Pai <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Toque em minhas mãos <br>
+Meu ser sorri ao imaginar <br>
+Tuas mãos a me encontrar <br>
+O Deus de toda a glória vindo me abraçar <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+O som de uma voz comparado ao trovão <br>
+O mundo na palma da mão <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Um grão de areia comparado ao mar <br>
+Grandeza que eu não posso explicar <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Por isso Senhor me achego a ti <br>
+Prostrado diante do altar <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Eu sou pecador <br>
+Tu és Salvador <br>
+Aceita o meu humilde louvor <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Levanto as mãos <br>
+Em oração <br>
+Pra alcançar Teu trono ó Pai <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Toque em minhas mãos <br>
+Meu ser sorri ao imaginar <br>
+Tuas mãos a me encontrar <br>
+O Deus de toda a glória vindo me abraçar <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Levanto as mãos <br>
+Em oração <br>
+Pra alcançar Teu trono ó Pai <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+Toque em minhas mãos <br>
+Meu ser sorri ao imaginar <br>
+Tuas mãos a me encontrar <br>
+O Deus de toda a glória vindo me abraçar <br>
+</center>
+
+# {background-image="sunset.jpg" background-opacity="0.25"}
+
+<center>
+O Deus de toda a glória vindo me abraçar <br>
+</center>

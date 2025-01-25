@@ -1,0 +1,102 @@
+---
+title: "O Melhor Lugar do Mundo"
+title-slide-attributes:
+  data-background-image: mountains.jpg
+  data-background-position: cover
+  data-background-opacity: "0.8"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+No mundo ainda existem belezas <br>
+Que alegram a vida e nos fazem sonhar <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Recantos felizes da natureza <br>
+Onde qualquer ser humano gostaria de estar <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Mas, de todos os lugares, o mais bonito e inspirador <br>
+É onde fico em oração junto aos pés do Salvador <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+O melhor lugar do mundo é aos pés do Salvador <br>
+É ali onde a esperança traz alívio ao sofredor <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+É ali onde eu me encontro com a Fonte do amor <br>
+O melhor lugar do mundo é aos pés do Salvador <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Sonhamos com casas que tenham conforto <br>
+Talvez numa encosta com vista pro mar <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Mas as maravilhas não fazem sentido <br>
+Se Cristo não está no primeiro lugar <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Ao sentir a paz de Deus <br>
+Seu poder e amor profundo <br>
+<center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Eu posso estar onde for <br>
+Estou feliz por me encontrar <br>
+No melhor lugar do mundo <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+O melhor lugar do mundo é aos pés do Salvador <br>
+É ali onde a esperança traz alívio ao sofredor <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+É ali onde eu me encontro com a Fonte do amor <br>
+O melhor lugar do mundo é aos pés do Salvador <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+O melhor lugar do mundo <br>
+É aos pés do Salvador <br>
+</center>
