@@ -1,0 +1,101 @@
+---
+title: "Rumo ao Porto Seguro"
+title-slide-attributes:
+  data-background-image: mountains.jpg
+  data-background-position: cover
+  data-background-opacity: "0.8"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Meu barco navega no mar de águas revoltas, sem paz; <br>
+Terríveis trovões, tempestades de alto-mar. <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Eu vou confiante pois sei que o meu Redentor vai também, <br>
+E tem em suas mãos o controle da embarcação. <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Mas se tento o timão controlar quase deixo o barquinho afundar, <br>
+Pois meus braços não podem a força do mar suportar. <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Cristo então me estende sua mão e controla a embarcação, <br>
+Sorrindo pra mim, me oferece a salvação. <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+O meu barco vai firme ao porto seguro, <br>
+Pois seu rumo está sob as mãos de Jesus. <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Navegando nas águas geladas da Terra <br>
+Sinto o calor daquEle que a tudo liberta. <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Depois que entreguei a Jesus o rumo da embarcação <br>
+Não tive mais medo das ondas do alto-mar. <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Em breve irei atracar no mar onde a água é cristal, <br>
+E onde estarei para sempre liberto do mal. <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Só então saberei como foi que Jesus até ali me guiou, <br>
+Só então saberei como foi que ele o barco salvou. <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Finalmente atraco no cais, que alegria poder encontrar <br>
+Os barcos de irmãos que também chegaram ao lar. <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+O meu barco vai firme ao porto seguro, <br>
+Pois seu rumo está sob as mãos de Jesus. <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Navegando nas águas geladas da Terra <br>
+Sinto o calor daquEle que a tudo liberta. <br>
+</center>
