@@ -1,0 +1,91 @@
+---
+title: "Agradeça Ao Pai"
+title-slide-attributes:
+  data-background-image: mountains.jpg
+  data-background-position: cover
+  data-background-opacity: "0.8"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+(Rapazes) <br>
+Se o sol se põe lentamente ao findar <br>
+(Moças) <br>
+Mais um dia lindo em seu viver <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+(Todos) <br>
+Se a lua você vê clareando ao seu redor <br>
+E as estrelas brilham lá no céu <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+(Todos) <br>
+Agradeça ao Pai pelas coisas que Ele fez <br>
+E tudo que ainda irá fazer <br>
+<center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+(Rapazes) <br>
+E se alguém que você ama <br>
+(Moças) <br>
+lhe sorrir e compreender <br>
+(Todos) <br>
+Agradeça a Jesus pelo seu viver <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+(Rapazes) <br>
+Se honestamente o seu pão você ganhou <br>
+
+(Moças) <br>
+E alcançou seu alvo sem mentir <br>
+
+(Todos) <br>
+Se Jesus esteve todo o tempo com você <br>
+E a Sua meiga voz você ouviu <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+(Todos) <br>
+Agradeça ao Pai pelas coisas que Ele fez <br>
+E tudo que ainda irá fazer <br>
+(Rapazes) <br>
+E se alguém que você ama <br>
+(Moças) <br>
+Lhe sorrir e compreender <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+(Todos) <br>
+Agradeça, agradeça, agradeça <br>
+Agradeça ao Pai pelas coisas que Ele fez <br>
+E tudo que ainda irá fazer <br>
+E se alguém que você ama lhe sorrir e compreender <br>
+Agradeça, agradeça, agradeça <br>
+A Jesus pelo seu viver <br>
+</center>
