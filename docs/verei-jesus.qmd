@@ -1,18 +1,22 @@
 ---
 title: "Verei Jesus"
+title-slide-attributes:
+  data-background-image: parede.png
+  data-background-position: cover
+  data-background-opacity: "1"
 format: 
   revealjs:
-    theme: theme.scss
+    theme: theme-dj.scss
     width: 1600
     height: 900
-    footer: "#JOVENSCAHo"
-    fontsize: 80px
+    footer: "#JOVENSCAHo #DOMINGO JOVEM"
+    fontsize: 150px
     transition: slide
     background-transition: fade
 self-contained: true
 ---
 
-#
+# {background-image="parede.png"}
 
 <center>
 Almejo o dia em que verei <br>
@@ -21,18 +25,23 @@ E essa luz aumentará <br>
 Milhares de anjos surgirão <br>
 </center>
 
-#
+# {background-image="parede.png"}
 
 <center>
 Eu creio, sim, que Ele virá <br>
 E muito em breve eu subirei <br>
 Pra um novo lar, um novo céu <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
 Pra sempre eu estarei <br>
 Feliz eu viverei <br>
 Verei Jesus <br>
 </center>
 
-#
+# {background-image="parede.png"}
 
 <center>
 A voz de Deus irá soar <br>
@@ -41,33 +50,48 @@ Mil gerações se encontrarão <br>
 E para sempre louvarão <br>
 </center>
 
-#
+# {background-image="parede.png"}
 
 <center>
 Eu creio, sim, que Ele virá <br>
 E muito em breve eu subirei <br>
 Pra um novo lar, um novo céu <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
 Pra sempre eu estarei <br>
 Feliz eu viverei <br>
 Verei Jesus <br>
 </center>
 
-#
+# {background-image="parede.png"}
 
 <center>
 Eu creio, sim, que Ele virá <br>
 E muito em breve eu subirei <br>
 Pra um novo lar, um novo céu <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
 Pra sempre eu estarei <br>
 Feliz eu viverei <br>
 </center>
 
-#
+# {background-image="parede.png"}
 
 <center>
 Eu creio, sim, que Ele virá  <br>
 E muito em breve eu subirei  <br>
 Pra um novo lar, um novo céu  <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
 Pra sempre eu estarei  <br>
 Feliz eu viverei  <br>
 Verei Jesus  <br>
