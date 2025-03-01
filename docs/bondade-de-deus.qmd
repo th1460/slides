@@ -1,0 +1,114 @@
+---
+title: "Bondade de Deus"
+title-slide-attributes:
+  data-background-image: mountains.jpg
+  data-background-position: cover
+  data-background-opacity: "0.8"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Te amo, Deus <br>
+Tua graça nunca falha <br>
+Todos os dias <br>
+Eu estou em Tuas mãos <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Desde quando me levanto <br>
+Até eu me deitar <br>
+Eu cantarei da bondade de Deus <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+És fiel em todo tempo <br>
+Em todo tempo Tu és tão, tão bom <br>
+Com todo fôlego que tenho <br>
+Eu cantarei da bondade de Deus <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Tua doce voz <br>
+Que me guia em meio ao fogo <br>
+Na escuridão <br>
+Tua presença me conforta <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Sei que és meu Pai <br>
+Que amigo és <br>
+Eu vivo na bondade de Deus <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+És fiel em todo tempo <br>
+Em todo tempo Tu és tão, tão bom <br>
+Com todo fôlego que tenho <br>
+Eu cantarei da bondade de Deus <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Tua bondade me seguirá <br>
+Me seguirá, Senhor <br>
+Tua bondade me seguirá <br>
+Me seguirá, Senhor <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Eu me rendo a Ti, Te dou o meu ser <br>
+Entrego tudo a Ti <br>
+Tua bondade me seguirá <br>
+Me seguirá, Senhor <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Tua bondade me seguirá <br>
+Me seguirá, Senhor <br>
+Tua bondade me seguirá <br>
+Me seguirá, Senhor <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+Eu me rendo a Ti, te dou o meu ser <br>
+Entrego tudo a Ti <br>
+Tua bondade me seguirá <br>
+Me seguirá, Senhor <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.5"}
+
+<center>
+És fiel em todo tempo <br>
+Em todo tempo Tu és tão, tão bom <br>
+Com todo fôlego que tenho <br>
+Eu cantarei da bondade de Deus (3$\times$) <br>
+</center>
