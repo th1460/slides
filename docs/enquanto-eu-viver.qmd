@@ -1,0 +1,115 @@
+---
+title: "Enquanto eu Viver"
+title-slide-attributes:
+  data-background-image: parede.png
+  data-background-position: cover
+  data-background-opacity: "1"
+format: 
+  revealjs:
+    theme: theme-dj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo #DIA MUNDIAL DO JOVEM ADVENTISTA"
+    fontsize: 140px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="parede.png"}
+
+<center>
+Enquanto eu viver, Teu nome louvarei <br>
+Nada me impedirá de sempre O adorar, Senhor <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Os meus lábios dirão que Tu és Senhor <br>
+O mundo verá Teu poder <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Céus e terra irão Te adorar meu Deus <br>
+Teu nome exaltará <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Sejas louvado Senhor e meu Deus <br>
+Tu és a glória e Teu é o poder <br>
+Não haverá outro Rei, outro Deus <br>
+Com tanto amor, Deus vencedor <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Meu Senhor e meu Rei <br>
+O Deus que sempre me salvará <br>
+O Deus que sabe quem sou <br>
+Ele sempre me amará <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Tu és o Salvador, Teu sempre é o louvor <br>
+Meus lábios cantarão em Teu louvor Salvador <br>
+As vitórias que eu alcançar aqui <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Irão me lembrar quem Tu és <br>
+Pois vitória sem Ti não existirão <br>
+És o Deus que jamais perderá <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Sejas louvado Senhor e meu Deus <br>
+Tu és a glória e Teu é o poder <br>
+Não haverá outro Rei, outro Deus <br>
+Com tanto amor, Deus vencedor <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Meu Senhor e meu Rei <br>
+O Deus que sempre me salvará <br>
+O Deus que sabe quem sou <br>
+Ele sempre me amará <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Sejas louvado Senhor e meu Deus <br>
+Tu és a glória e Teu é o poder <br>
+Não haverá outro Rei, outro Deus <br>
+Com tanto amor, Deus vencedor <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Meu Senhor e meu Rei <br>
+O Deus que sempre me salvará <br>
+O Deus que sabe quem sou <br>
+Ele sempre me amará <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+O Deus que sabe quem sou <br>
+Ele sempre me amará <br>
+</center>

@@ -1,0 +1,91 @@
+---
+title: "Em Sua Prsença"
+title-slide-attributes:
+  data-background-image: parede.png
+  data-background-position: cover
+  data-background-opacity: "1"
+format: 
+  revealjs:
+    theme: theme-dj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo #DIA MUNDIAL DO JOVEM ADVENTISTA"
+    fontsize: 130px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="parede.png"}
+
+<center>
+Só falta pouco tempo para história terminar <br>
+Uma nova era nasce é hora de cantar <br>
+Em sua presença, em sua presença <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Pela terra se anuncia, vem o dia do senhor <br>
+É Jesus que se aproxima vamos dar louvor <br>
+Em sua presença, em sua presença <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+A sua presença é o que nos faz renascer <br>
+Seu santuário se abre pra nos receber <br>
+Vem derrama tua graça e teu poder <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Vem revela a glória do teu ser <br>
+Para louvar e cantar ao teu nome santo <br>
+Te buscamos neste lugar só queremos estar <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Só falta pouco tempo pra historia terminar <br>
+Jesus, o nosso mestre vem pra nos levar <br>
+A sua presença, a sua presença <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Os sinais da esperança enchem nosso coração <br>
+Nosso grito é de vitória, de celebração <br>
+A sua presença, a sua presença <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>Ao som de hosanas retorna nosso senhor <br>
+Este santuário se abre para o seu louvor <br>
+Vem derrama tua graça e teu poder <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Vem revela a glória do teu ser <br>
+Para louvar e cantar ao teu nome santo <br>
+Te buscamos neste lugar só queremos estar <br>
+Em sua presença
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Vem derrama tua graça e teu poder <br>
+Vem revela a glória do teu ser <br>
+Para louvar e cantar ao teu nome santo <br>
+Te buscamos neste lugar só queremos estar <br>
+Senhor, em sua presença <br>
+</center>

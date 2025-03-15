@@ -1,0 +1,172 @@
+---
+title: "Canção do Apocalipse"
+title-slide-attributes:
+  data-background-image: parede.png
+  data-background-position: cover
+  data-background-opacity: "1"
+format: 
+  revealjs:
+    theme: theme-dj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo #DIA MUNDIAL DO JOVEM ADVENTISTA"
+    fontsize: 130px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="parede.png"}
+
+<center>
+Digno é o cordeiro <br>
+Que foi morto <br>
+Santo, santo ele é <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Um novo cântico <br>
+Ao que se assenta <br>
+Sobre o trono do céu <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Digno é o cordeiro <br>
+Que foi morto <br>
+Santo, santo ele é <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Um novo cântico <br>
+Ao que se assenta <br>
+Sobre o trono do céu <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Santo, santo, santo <br>
+Deus todo poderoso <br>
+Que era, é e há de vir <br>
+
+# {background-image="parede.png"}
+
+<center>
+Com a criação eu canto <br>
+Louvores ao rei dos reis <br>
+És tudo para mim <br>
+E eu te adorarei <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Maravilhado, extasiado <br>
+Eu fico ao ouvir teu nome <br>
+Jesus, teu nome é força <br>
+É fôlego de vida <br>
+Misteriosa água viva <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Santo, santo, santo <br>
+Deus todo poderoso <br>
+Que era, é e há de vir <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Com a criação eu canto <br>
+Louvores ao rei dos reis <br>
+És tudo para mim <br>
+E eu te adorarei <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Maravilhado, extasiado <br>
+Eu fico ao ouvir teu nome <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Maravilhado, extasiado <br>
+Eu fico ao ouvir teu nome <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Maravilhado, extasiado <br>
+Eu fico ao ouvir teu nome <br>
+Jesus, teu nome é força <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+É fôlego de vida <br>
+Misteriosa água viva <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Santo, santo, santo <br>
+Deus todo poderoso <br>
+Que era, é e há de vir <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Com a criação eu canto <br>
+Louvores ao rei dos reis <br>
+És tudo para mim <br>
+E eu te adorarei <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Santo, santo, santo <br>
+Deus todo poderoso <br>
+Que era, é e há de vir <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Com a criação eu canto <br>
+Louvores ao rei dos reis <br>
+És tudo para mim <br>
+E eu te adorarei <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Santo, santo, santo <br>
+Deus todo poderoso <br>
+Que era, é e há de vir <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Com a criação eu canto <br>
+Louvores ao rei dos reis <br>
+És tudo para mim <br>
+E eu te adorarei <br>
+</center>

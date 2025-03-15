@@ -1,0 +1,116 @@
+---
+title: "Brilhar por Ti"
+title-slide-attributes:
+  data-background-image: parede.png
+  data-background-position: cover
+  data-background-opacity: "1"
+format: 
+  revealjs:
+    theme: theme-dj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo #DIA MUNDIAL DO JOVEM ADVENTISTA"
+    fontsize: 150px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="parede.png"}
+
+<center>
+Às vezes parece que ser um cristão <br>
+Não é fácil em meio à escuridão <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Ainda mais se eu pensar <br> que não é minha luz <br>
+Mas a união com Deus que o brilho produz. <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+E às vezes parece difícil entender <br>
+Que o cristão é exemplo <br> mesmo sem o querer <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+E por isso mesmo eu preciso orar <br>
+Pra que Deus me ilumine <br> e assim eu possa brilhar <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Senhor eu quero brilhar por Ti <br>
+Quando o mundo se apagar <br>
+Eu quero que através da minha vida <br>
+Alguém possa Te enxergar <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Faze com que mesmo sem palavras <br>
+Eu fale do Teu amor <br>
+Eu quero brilhar por Ti <br>
+Brilhar onde quer que for. <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Às vezes eu temo que vou fracassar <br>
+Pois eu sei que errei e continuo a errar <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Mas se a minha luz parece extinguir-se <br>
+Meu Deus me dá força pra prosseguir. <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Não importa o quanto eu tente me esforçar <br>
+Eu só posso vencer se Ele me ajudar <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+E é quando percebo, meu esforço é vão <br>
+E o que devo fazer é segurar Sua mão <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Senhor eu quero brilhar por Ti <br>
+Quando o mundo se apagar <br>
+Eu quero que através da minha vida <br>
+Alguém possa Te enxergar <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Faze com que, mesmo sem palavras <br>
+Eu fale do Teu amor <br>
+Eu quero brilhar por Ti <br>
+Brilhar onde quer que for <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Eu quero brilhar por Ti <br>
+Brilhar onde quer que for <br>
+</center>

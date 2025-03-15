@@ -1,22 +1,22 @@
 ---
-title: "Agradeça Ao Pai"
+title: "Agradeça ao Pai"
 title-slide-attributes:
-  data-background-image: mountains.jpg
+  data-background-image: parede.png
   data-background-position: cover
-  data-background-opacity: "0.8"
+  data-background-opacity: "1"
 format: 
   revealjs:
-    theme: theme.scss
+    theme: theme-dj.scss
     width: 1600
     height: 900
-    footer: "#JOVENSCAHo"
-    fontsize: 80px
+    footer: "#JOVENSCAHo #DIA MUNDIAL DO JOVEM ADVENTISTA"
+    fontsize: 100px
     transition: slide
     background-transition: fade
 self-contained: true
 ---
 
-# {background-image="mountains.jpg" background-opacity="0.5"}
+# {background-image="parede.png"}
 
 <center>
 (Rapazes) <br>
@@ -25,7 +25,7 @@ Se o sol se põe lentamente ao findar <br>
 Mais um dia lindo em seu viver <br>
 </center>
 
-# {background-image="mountains.jpg" background-opacity="0.5"}
+# {background-image="parede.png"}
 
 <center>
 (Todos) <br>
@@ -33,7 +33,7 @@ Se a lua você vê clareando ao seu redor <br>
 E as estrelas brilham lá no céu <br>
 </center>
 
-# {background-image="mountains.jpg" background-opacity="0.5"}
+# {background-image="parede.png"}
 
 <center>
 (Todos) <br>
@@ -41,7 +41,7 @@ Agradeça ao Pai pelas coisas que Ele fez <br>
 E tudo que ainda irá fazer <br>
 <center>
 
-# {background-image="mountains.jpg" background-opacity="0.5"}
+# {background-image="parede.png"}
 
 <center>
 (Rapazes) <br>
@@ -52,7 +52,7 @@ lhe sorrir e compreender <br>
 Agradeça a Jesus pelo seu viver <br>
 </center>
 
-# {background-image="mountains.jpg" background-opacity="0.5"}
+# {background-image="parede.png"}
 
 <center>
 (Rapazes) <br>
@@ -66,7 +66,7 @@ Se Jesus esteve todo o tempo com você <br>
 E a Sua meiga voz você ouviu <br>
 </center>
 
-# {background-image="mountains.jpg" background-opacity="0.5"}
+# {background-image="parede.png"}
 
 <center>
 (Todos) <br>
@@ -78,7 +78,7 @@ E se alguém que você ama <br>
 Lhe sorrir e compreender <br>
 </center>
 
-# {background-image="mountains.jpg" background-opacity="0.5"}
+# {background-image="parede.png"}
 
 <center>
 (Todos) <br>
