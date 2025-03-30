@@ -1,0 +1,163 @@
+---
+title: "Grande Deus"
+title-slide-attributes:
+  data-background-image: parede.png
+  data-background-position: cover
+  data-background-opacity: "1"
+format: 
+  revealjs:
+    theme: theme-dj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo #DOMINGO JOVEM"
+    fontsize: 150px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="parede.png"}
+
+<center>
+Em Tua presença quero estar <br>
+Completo quero me entregar <br>
+Dar graças e cantar <br>
+Dar graças e cantar <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Moças: <br>
+Em Tua presença quero estar <br>
+Rapazes: <br>
+Em Tua presença quero estar <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Moças: <br>
+Completo quero me entregar <br>
+Rapazes: <br>
+Completo quero me entregar <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Moças: <br>
+Dar graças e cantar <br>
+Rapazes: <br>
+Dar graças e cantar <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Moças: <br>
+Dar graças e cantar <br>
+Rapazes: <br>
+Dar graças e cantar <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Pois Tu, Senhor, És nosso Criador <br>
+Nas Tuas mãos estão a terra e o mar <br>
+O universo se ajoelha e louva <br>
+Teu nome exaltado é <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+No esplendor da Tua santidade <br>
+É onde eu preciso Te adorar <br>
+Ó Rei dos reis, grande Deus! <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Jesus eu quero Te aclamar <br>
+Com alegria Te louvar <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Enquanto eu viver <br>
+Enquanto eu viver <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Rapazes: <br>
+Jesus eu quero Te aclamar <br>
+Moças: <br>
+Jesus eu quero Te aclamar <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Rapazes: <br>
+Com alegria Te louvar <br>
+Moças: <br>
+Com alegria Te louvar <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Rapazes: <br>
+Enquanto eu viver <br>
+Moças: <br>
+Enquanto eu viver <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Rapazes: <br>
+Enquanto eu viver <br>
+Moças: <br>
+Enquanto eu viver <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Pois Tu, Senhor, És nosso Criador <br>
+Nas Tuas mãos estão a terra e o mar <br>
+O universo se ajoelha e louva <br>
+Teu nome exaltado é <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+No esplendor da Tua santidade <br>
+É onde eu preciso Te adorar <br>
+Ó Rei dos reis, grande Deus! <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Pois Tu, Senhor, És nosso Criador <br>
+Nas Tuas mãos estão a terra e o mar <br>
+O universo se ajoelha e louva <br>
+Teu nome exaltado é <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+No esplendor da Tua santidade <br>
+É onde eu preciso Te adorar <br>
+Ó Rei dos reis, grande Deus! <br>
+</center>

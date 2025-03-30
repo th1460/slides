@@ -1,0 +1,111 @@
+---
+title: "Ele vai agir"
+title-slide-attributes:
+  data-background-image: parede.png
+  data-background-position: cover
+  data-background-opacity: "1"
+format: 
+  revealjs:
+    theme: theme-dj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo #DOMINGO JOVEM"
+    fontsize: 150px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="parede.png"}
+
+<center>
+O meu Deus é especialista <br>
+Em fazer milagres <br>
+Fez o coxo caminhar <br>
+Fez o cego enxergar <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+O mar acalma ao seu mandar <br>
+É esse Deus que está aqui <br>
+E Ele vai cuidar de mim <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Ele vai agir, Ele vai agir <br>
+Não sei quando, não sei como <br>
+Mas sei que Ele vai agir <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Não sei quando, não sei como <br>
+Mas sei que Ele vai agir <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+O meu Deus é especialista <br>
+Em causas perdidas <br>
+Quando eu quase desisti <br>
+Me abraçou e disse assim <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Filho, Eu estou aqui <br>
+E hoje vou cuidar de ti <br>
+Pra sempre vou cuidar de ti <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Ele vai agir, Ele vai agir <br>
+Não sei quando, não sei como <br>
+Mas sei que Ele vai agir <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Não sei quando, não sei como <br>
+Mas sei que Ele vai agir <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Eu confio, eu confio <br>
+Eu confio, que Ele vai agir <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Eu confio, eu confio <br>
+Eu confio, que Ele vai agir <br>
+Ele vai agir
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Ele vai agir, Ele vai agir <br>
+Não sei quando, não sei como <br>
+Mas sei que Ele vai agir <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Não sei quando, não sei como <br>
+Mas sei que Ele vai agir <br>
+</center>
