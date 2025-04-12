@@ -1,0 +1,112 @@
+---
+title: "Intensamente"
+title-slide-attributes:
+  data-background-image: mountains.jpg
+  data-background-position: cover
+  data-background-opacity: "0.6"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Por tanto tempo vivi como escravo <br>
+Dos meus desejos e medos <br>
+Até que eu entendi, que Cristo é tudo pra mim <br>
+Só Nele sou completo e restaurado <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Eu fui comprado pelo Sangue do Cordeiro <br>
+Amor tão genuíno, amor tão verdadeiro <br>
+Se entregar levando a culpa que não era Sua <br>
+Só por me amar intensamente <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Eu fui comprado pelo Rei do Universo <br>
+Que enviou Seu Filho pra viver mais perto <br>
+E me mostrar o rumo, o caminho para casa <br>
+Só por me amar intensamente <br>
+<center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Por tanto tempo vivi dependente <br>
+Da aprovação de pessoas <br>
+Até que eu entendi, o que Jesus fez por mim <br>
+O meu valor foi estimado na cruz <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Eu fui comprado pelo Sangue do Cordeiro <br>
+Amor tão genuíno, amor tão verdadeiro <br>
+Se entregar levando a culpa que não era Sua <br>
+Só por me amar intensamente <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Eu fui comprado pelo Rei do Universo <br>
+Que enviou Seu Filho pra viver mais perto <br>
+E me mostrar o rumo, o caminho para casa <br>
+Só por me amar intensamente <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Na cruz entendo o Teu amor <br>
+Na cruz recebo o meu valor <br>
+Na cruz encontro o caminho para a eternidade <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Na cruz entendo o Teu amor <br>
+Na cruz recebo o meu valor <br>
+Na cruz encontro o caminho para a eternidade <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Eu fui comprado pelo Sangue do Cordeiro <br>
+Amor tão genuíno, amor tão verdadeiro <br>
+Se entregar levando a culpa que não era Sua <br>
+Só por me amar intensamente <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Eu fui comprado pelo Rei do Universo <br>
+Que enviou Seu Filho pra viver mais perto <br>
+E me mostrar o rumo, o caminho para casa <br>
+Só por me amar intensamente
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Me mostrar o rumo, o caminho para casa <br>
+Só por me amar intensamente <br>
+</center>

@@ -1,0 +1,68 @@
+---
+title: "Cada dia mais perto"
+title-slide-attributes:
+  data-background-image: mountains.jpg
+  data-background-position: cover
+  data-background-opacity: "0.6"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Quando o mundo chega ao fim de sua história <br>
+Já sem brilho, sem beleza e sem luz <br>
+Nossa vida já aguarda a nova glória, <br>
+A esperança está na volta de Jesus <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+A tristeza se transforma em alegria, <br>
+Ao sentir que vem do céu a eterna luz <br>
+Cada dia bem mais perto desse dia, <br>
+Cada dia bem mais perto de Jesus <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Quanto almejo ver Jesus naquele dia, <br>
+Pai querido, Rei eterno, Salvador <br>
+Toda luz que sua face irradia, <br>
+Mostra ao mundo o poder do seu amor <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+A tristeza se transforma em alegria, <br>
+ao sentir que vem do céu a eterna luz <br>
+Cada dia bem mais perto desse dia, <br>
+Cada dia bem mais perto de Jesus <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+A tristeza se transforma em alegria, <br>
+Ao sentir que vem do céu a eterna luz <br>
+Cada dia bem mais perto desse dia, <br>
+Cada dia bem mais perto de Jesus <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+A esperança está na volta de Jesus <br>
+</center>
