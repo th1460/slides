@@ -1,0 +1,104 @@
+---
+title: "Meu Refúgio"
+title-slide-attributes:
+  data-background-image: parede.png
+  data-background-position: cover
+  data-background-opacity: "1"
+format: 
+  revealjs:
+    theme: theme-dj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo #DOMINGOJOVEM"
+    fontsize: 145px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="parede.png"}
+
+<center>
+És o meu Refúgio <br>
+Minha Fortaleza <br>
+Meu socorro eterno <br>
+És o meu abrigo <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+(Rapazes) És o meu Refúgio<br>
+(Moças) És o meu Refúgio<br>
+(Rapazes) Minha Fortaleza<br>
+(Moças) Minha Fortaleza<br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+(Rapazes) Meu socorro eterno<br>
+(Moças) Meu socorro eterno<br>
+(Todos) És o meu abrigo<br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Quando o mar se agitar <br>
+Confiarei em Ti Senhor <br>
+E se a Terra se abrir <br>
+Confiarei em Ti meu Deus <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+(Moças) És o meu Refúgio<br>
+(Rapazes) É o meu Refúgio<br>
+(Moças) Minha Fortaleza<br>
+(Rapazes) Minha Fortaleza<br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+(Moças) Meu socorro eterno<br>
+(Rapazes) Meu socorro eterno<br>
+(Todos) És o meu abrigo<br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+(Rapazes) És o meu Refúgio<br>
+(Moças) És o meu Refúgio<br>
+(Rapazes) Minha Fortaleza<br>
+(Moças) Minha Fortaleza<br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+(Rapazes) Meu socorro eterno<br>
+(Moças) Meu socorro eterno<br>
+(Todos) És o meu abrigo<br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Quando o mar se agitar <br>
+Confiarei em Ti Senhor <br>
+E se a Terra se abrir <br>
+Confiarei em Ti meu Deus <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Quando o mar se agitar <br>
+Confiarei em Ti Senhor <br>
+E se a Terra se abrir <br>
+Confiarei em Ti meu Deus <br>
+</center>

@@ -9,7 +9,7 @@ format:
     theme: theme-dj.scss
     width: 1600
     height: 900
-    footer: "#JOVENSCAHo #DIA MUNDIAL DO JOVEM ADVENTISTA"
+    footer: "#JOVENSCAHo #DOMINGOJOVEM"
     fontsize: 130px
     transition: slide
     background-transition: fade
