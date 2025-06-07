@@ -1,0 +1,54 @@
+---
+title: "Renova-me"
+title-slide-attributes:
+  data-background-image: mountains.jpg
+  data-background-position: cover
+  data-background-opacity: "0.6"
+format: 
+  revealjs:
+    theme: theme.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 80px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Renova-me, Senhor Jesus <br>
+Já não quero ser igual <br>
+Renova-me, Senhor Jesus <br>
+Põe em mim Teu coração <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Porque tudo o que há dentro mim <br>
+Necessita ser mudado, Senhor <br>
+Porque tudo o que há dentro do meu coração <br>
+Necessita mais de Ti <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Renova-me, Senhor Jesus <br>
+Já não quero ser igual <br>
+Renova-me, Senhor Jesus <br>
+Põe em mim Teu coração <br>
+</center>
+
+# {background-image="mountains.jpg" background-opacity="0.25"}
+
+<center>
+Porque tudo o que há dentro mim <br>
+Necessita ser mudado, Senhor <br>
+Porque tudo o que há dentro do meu coração <br>
+Necessita mais de Ti <br>
+Necessita mais de Ti <br>
+</center>
