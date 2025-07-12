@@ -1,0 +1,50 @@
+/*-- scss:functions --*/
+
+/*-- scss:defaults --*/
+// fonts
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+$font-family-sans-serif: "Amatic SC", sans-serif !default;
+
+// colors
+$color-palette1: #fff;
+$color-palette2: #fff;
+$color-palette3: #fff;
+$color-palette4: #fff;
+$color-palette5: #fff;
+
+// body
+$body-color: $color-palette1;
+
+// link
+$link-color: $color-palette2;
+
+/*-- scss:rules --*/
+#title-slide {
+    .title {
+        font-size: 150px;
+        color: $color-palette1;
+    }
+    .subtitle {
+        font-size: 40px;
+        color: $color-palette1;
+    }
+    .quarto-title-author-name {
+        font-size: 40px;
+        color: $color-palette1;
+    }
+    .date {
+        font-size: 40px;
+        color: $color-palette1;
+    }
+}
+
+ul li {
+    list-style-type: "\2013";
+    padding-left: 0.5em;
+}
+
+.reveal .footer {
+    // text-align: left !important;
+    color: #fff;
+    // padding-left: 60px;
+}

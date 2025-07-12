@@ -1,0 +1,107 @@
+---
+title: "O Amor de Deus"
+title-slide-attributes:
+  data-background-image: parede.png
+  data-background-position: cover
+  data-background-opacity: "1"
+format: 
+  revealjs:
+    theme: theme-dj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 110px
+    background-transition: fade
+    transition: slide
+self-contained: true
+
+---
+
+# {background-image="parede.png"}
+
+<center>
+Joque: O amor de Deus perdoa todo o mal <br>
+Joque: Não importa o que se passou com você <br>
+Joque: Seus braços estão abertos pra ensinar <br>
+Joque: Que ainda é tempo de crescer e recomeçar. <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Adam: O amor de Deus transforma toda dor <br>
+Adam/Joque: Em lições de bondade, de fé e amor <br>
+Adam: Misericordioso é o Senhor, é o Senhor. <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Adam/Joque: Santo,Bondoso Deus <br>
+Adam/Joque: Limpa os pecados meus <br>
+Adam/Joque: Justo,sem igual <br>
+Adam/Joque: Eu sou teu. <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Todos: O amor de Deus perdoa todo o mal <br>
+Todos: Não importa o que se passou com você <br>
+Moças: Seus braços estão abertos pra ensinar (Rapazes: Aaaaaaaaaa) <br>
+Moças: Que ainda é tempo de crescer (Rapazes:Tempo de crescer) <br>
+Todos: E recomeçar. <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Rapazes: O amor de Deus transforma toooda dor <br>
+Todos: Em lições de bondade, de fé e amor <br>
+Adam: Misericordioso é o Senhor, (Coral) é o Senhor (Adam) é o Senhor, (Joque) 
+é o Senhor) <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Todos: Santo,Bondoso Deus <br>
+Todos: Limpa os pecados meus <br>
+Todos: Justo,sem igual <br>
+Todos: Eu sou teu. <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Adam: Todo o céu se enche de louvor (Coral: de louvor)<br>
+Adam/Joque: Quando Jesus <br>
+Todos: salva o pecador. <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Todos: Santo, Bondoso Deus <br>
+Todos: Limpa os pecados meus <br>
+Todos: Justo, sem igual <br>
+Todos: Eu sou teu. <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Adam/Joque: Ooouoou <br>
+Todos: Justo,sem igual Adam/Joque:(sem igual) <br>
+Adam/Joque: Eu sou teu. <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Coral: Santo, Bondoso Deus <br>
+Coral: Santo, Bondoso Deus <br>
+Adam/Joque : O amor de Deus perdoa todo o mal <br>
+Todos: Santo, Bondoso Deus. <br>
+Todos: Santo, Bondoso Deus. <br>
+</center>
