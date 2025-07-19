@@ -1,0 +1,147 @@
+---
+title: "Santo Espírito"
+title-slide-attributes:
+  data-background-image: sky.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo #SEMANA JOVEM"
+    fontsize: 150px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Nós pedimos Tua presença entre nós <br>
+
+::: {.fragment .fade-left}
+Santo Espírito de luz <br>
+:::
+
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Vem, restaura em nós o Teu fogo abrasador <br>
+Nos trazendo até Jesus <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Santo Espírito <br>
+Enche este lugar! <br>
+Enche este lugar <br>
+Vive em nós! <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Santo Espírito <br>
+Enche este lugar! <br>
+Enche este lugar <br>
+Vive em nós! <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Nós pedimos Tua presença entre nós <br>
+Santo Espírito de luz <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Vem, restaura em nós o Teu fogo abrasador <br>
+Nos trazendo até Jesus <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Santo Espírito <br>
+Enche este lugar! <br>
+Enche este lugar <br>
+Vive em nós! <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Santo Espírito <br>
+Enche este lugar! <br>
+Enche este lugar <br>
+Vive em nós! <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Venha a nós o Teu reino <br>
+Seja feito o Teu querer <br>
+Tua unção, Tua bênção <br>
+Nós queremos receber <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Venha a nós o Teu reino <br>
+Seja feito o Teu querer <br>
+Tua unção, Tua bênção <br>
+Nós queremos receber <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Venha a nós o Teu reino <br>
+Seja feito o Teu querer <br>
+Tua unção, Tua bênção <br>
+Nós queremos receber <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Venha a nós o Teu reino <br>
+Seja feito o Teu querer <br>
+Tua unção, Tua bênção <br>
+Nós queremos receber <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Santo Espírito <br>
+Enche este lugar! <br>
+Enche este lugar <br>
+Vive em nós! <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Santo Espírito <br>
+Enche este lugar! <br>
+Enche este lugar <br>
+Vive em nós! <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Enche este lugar! <br>
+Enche este lugar! <br>
+Enche este lugar <br>
+Vive em nós!
+</center>

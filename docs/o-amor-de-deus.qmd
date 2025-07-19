@@ -10,7 +10,7 @@ format:
     width: 1600
     height: 900
     footer: "#JOVENSCAHo"
-    fontsize: 110px
+    fontsize: 90px
     background-transition: fade
     transition: slide
 self-contained: true

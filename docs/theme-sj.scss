@@ -2,8 +2,8 @@
 
 /*-- scss:defaults --*/
 // fonts
-@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
-$font-family-sans-serif: "Amatic SC", sans-serif !default;
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+$font-family-sans-serif: "Bebas Neue", sans-serif !default;
 
 // colors
 $color-palette1: #fff;
@@ -21,7 +21,7 @@ $link-color: $color-palette2;
 /*-- scss:rules --*/
 #title-slide {
     .title {
-        font-size: 150px;
+        font-size: 350px;
         color: $color-palette1;
     }
     .subtitle {
