@@ -1,0 +1,193 @@
+---
+title: "Meu Pastor"
+title-slide-attributes:
+  data-background-image: sky.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo #SEMANA JOVEM"
+    fontsize: 150px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Contigo eu ando em segurança <br>
+
+::: {.fragment .fade-up}
+De mim, afastas todo mal <br>
+:::
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Eu sou ovelha que precisa <br>
+
+::: {.fragment .fade-up}
+Do cuidado do pastor <br>
+:::
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+E se eu andar pelo vale da sombra da morte <br>
+
+::: {.fragment .fade-left}
+Pelo vale da sombra da morte <br>
+:::
+::: {.fragment .fade-right}
+Eu mal algum temerei <br>
+:::
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+
+::: {.fragment .fade-left}
+Pois, sei que onde quer que eu for <br>
+:::
+::: {.fragment .fade-right}
+Tua bondade me seguirá <br>
+:::
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+
+::: {.fragment .fade-left}
+Onde eu for Tua bondade me seguirá <br>
+:::
+::: {.fragment .fade-right}
+De bênçãos me cercarás <br>
+:::
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Meu pastor me leva a lugares altos <br>
+De água limpa pra beber <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+E em pastos verdes vou descansar <br>
+E a jornada continuar, com Ele <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Contigo eu ando em segurança <br>
+De mim, afastas todo mal <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Eu sou ovelha que precisa <br>
+Do cuidado do pastor <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+E se eu andar pelo vale da sombra da morte <br>
+Pelo vale da sombra da morte <br>
+Eu mal algum temerei <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Pois, sei que onde quer que eu for <br>
+Tua bondade me seguirá <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Onde eu for Tua bondade me seguirá <br>
+De bênçãos me cercarás <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Meu pastor me leva a lugares altos <br>
+De água limpa pra beber <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+E em pastos verdes vou descansar <br>
+E a jornada continuar <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+E se eu andar pelo vale da sombra da morte <br>
+Pelo vale da sombra da morte <br>
+Eu mal algum temerei <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Pois, sei que onde quer que eu for <br>
+Tua bondade me seguirá <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Onde eu for Tua bondade me seguirá <br>
+De bênçãos me cercarás <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Meu pastor me leva a lugares altos <br>
+De água limpa pra beber <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+E em pastos verdes vou descansar <br>
+E a jornada continuar <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Meu pastor me leva a lugares altos <br>
+De água limpa pra beber <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+
+::: {.fragment .semi-fade-out fragment-index=2}
+E em pastos verdes vou descansar <br>
+E a jornada continuar <br>
+:::
+::: {.fragment .fade-right fragment-index=2}
+Com Ele, com Ele <br>
+:::
+</center>

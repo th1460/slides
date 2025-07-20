@@ -1,0 +1,175 @@
+---
+title: "Restauração"
+title-slide-attributes:
+  data-background-image: sky.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo #SEMANA JOVEM"
+    fontsize: 150px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Determinado carrega a Sua cruz
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Sobre Seus ombros <br>
+O preço do amor
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Ele foi julgado condenado a morrer
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Em sua face as marcas do sofrer
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Cravos pregados sangue a escorrer
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+O Rei da eternidade na cruz se humilhou
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Imenso é esse gesto traz vida ao pecador
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Se entregou em meu lugar <br>
+Me amou sem eu merecer
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Restaurou o que um dia quebrei <br>
+Mas ressuscitou e hoje vive
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Eu não sou digno <br>
+De ungir os Seus pés
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Mas hoje escolho <br>
+Sua vontade obedecer
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Toca em meus olhos <br>
+Pra que eu veja Sua luz
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Me guia no caminho <br>
+Onde encontro a Sua cruz
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Se entregou em meu lugar <br>
+Me amou sem eu merecer
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Restaurou o que um dia quebrei <br>
+Mas ressuscitou e hoje vive
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Sou restaurado em Cristo <br>
+Sou nova criatura
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+A infinita graça me alcançou
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Sou restaurado em Cristo <br>
+Sou nova criatura
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+A infinita graça me alcançou
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Se entregou em meu lugar <br>
+Me amou sem eu merecer
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Restaurou o que um dia quebrei <br>
+Mas ressuscitou e hoje vive
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Se entregou em meu lugar <br>
+Me amou sem eu merecer
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Restaurou o que um dia quebrei <br>
+Mas ressuscitou e hoje vive
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Mas ressuscitou e hoje vive
+</center>
