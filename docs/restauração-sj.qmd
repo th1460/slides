@@ -10,7 +10,7 @@ format:
     width: 1600
     height: 900
     footer: "#JOVENSCAHo #SEMANA JOVEM"
-    fontsize: 150px
+    fontsize: 170px
     background-transition: fade
 self-contained: true
 ---

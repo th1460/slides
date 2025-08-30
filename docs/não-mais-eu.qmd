@@ -1,0 +1,162 @@
+---
+title: "Não Mais Eu"
+title-slide-attributes:
+  data-background-image: sky.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 130px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Foi na cruz, foi na cruz, em que ao fim percebi <br>
+Meu pecado recaiu em Jesus <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Foi então, pela fé, que meus olhos abri <br>
+Que prazer sinto agora em sua luz <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Eu irei para a cruz, onde pude perceber <br>
+Esse amor que por mim foi pago <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Sua mão me curou, sua morte me salvou <br>
+Eu irei, eu irei para a cruz <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Quão perdido estou, quão vazio o coração <br>
+Não sou digno de tanto amor <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Foi então, pela fé, que meus olhos abri <br>
+Que prazer sinto agora em sua luz <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Eu irei para a cruz, onde pude perceber <br>
+Este amor que por mim foi pago <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Sua mão me curou sua morte me salvou <br>
+Eu irei, eu irei para a cruz <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Não mais eu, não mais eu <br>
+É Jesus que vive em mim <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Cristo vive em mim <br>
+Cristo vive em mim <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Não mais eu, não mais eu <br>
+É Jesus quem vive em mim <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Cristo vive em mim <br>
+Cristo vive em mim <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Não mais eu, não mais eu <br>
+É Jesus quem vive em mim <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Cristo vive em mim <br>
+Cristo vive em mim <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Não mais eu, não mais eu
+É Jesus quem vive em mim
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Cristo vive em mim <br>
+Cristo vive em mim <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Não mais eu, não mais eu <br>
+É Jesus quem vive em mim <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Cristo vive em mim <br>
+Cristo vive em mim <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Eu irei para cruz, onde pude perceber <br>
+Este amor que por mim foi pago <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Sua mão me curou, sua morte me salvou <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Eu irei, eu irei para a cruz <br>
+Eu irei, eu irei para a cruz <br>
+</center>

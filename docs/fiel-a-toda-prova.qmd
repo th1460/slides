@@ -1,0 +1,160 @@
+---
+title: "Fiel a toda prova"
+title-slide-attributes:
+  data-background-image: sky.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 150px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Paro pra pensar nos desafios deste meu viver
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Paro pra ouvir o que a voz de Deus quer me dizer
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+São tantas as pressões que tenho que enfrentar
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Mas bem acima delas sei que está meu Pai
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Quero ser fiel a toda prova
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Fiel em qualquer tempo, qualquer hora
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Quero ser fiel no que é pouco
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Para ser fiel no que é muito
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Quero ser fiel a toda prova
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Não por uma mera obrigação
+<center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Mas em resposta ao amor tão grande
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Que um dia inundou meu coração
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Posso triunfar, conheço alguém que já venceu por mim
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Posso me apegar à forte mão de um Deus tão grande assim
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Em meio à provação começo a louvar
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+E seu poder do alto vem me alcançar
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Deus Poderoso, Pai tão grandioso
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Envie em meu auxílio Seu anjo mais poderoso!
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Quero ser fiel a toda prova
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Não por uma mera obrigação
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Mas em resposta ao amor tão grande
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Ao amor tão grande
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Ao amor tão grande
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Que um dia inundou meu coração!
+</center>

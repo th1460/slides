@@ -1,0 +1,202 @@
+---
+title: "Canção do Apocalipse"
+title-slide-attributes:
+  data-background-image: sky.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo #SEMANA JOVEM"
+    fontsize: 180px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Digno é o cordeiro <br>
+Que foi morto <br>
+Santo, santo ele é <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Um novo cântico <br>
+Ao que se assenta <br>
+Sobre o trono do céu <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Digno é o cordeiro <br>
+Que foi morto <br>
+Santo, santo ele é <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Um novo cântico <br>
+Ao que se assenta <br>
+Sobre o trono do céu <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Santo, santo, santo <br>
+Deus todo poderoso <br>
+Que era, é e há de vir <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Com a criação eu canto <br>
+Louvores ao rei dos reis <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+És tudo para mim <br>
+E eu te adorarei <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Maravilhado, extasiado <br>
+Eu fico ao ouvir teu nome <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Jesus, teu nome é força <br>
+É fôlego de vida <br>
+Misteriosa água viva <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Santo, santo, santo <br>
+Deus todo poderoso <br>
+Que era, é e há de vir <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Com a criação eu canto <br>
+Louvores ao rei dos reis <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+És tudo para mim <br>
+E eu te adorarei <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Maravilhado, extasiado <br>
+Eu fico ao ouvir teu nome <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Maravilhado, extasiado <br>
+Eu fico ao ouvir teu nome <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Maravilhado, extasiado <br>
+Eu fico ao ouvir teu nome <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Jesus, teu nome é força <br>
+É fôlego de vida <br>
+Misteriosa água viva <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Santo, santo, santo <br>
+Deus todo poderoso <br>
+Que era, é e há de vir <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Com a criação eu canto <br>
+Louvores ao rei dos reis <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+És tudo para mim <br>
+E eu te adorarei <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Santo, santo, santo <br>
+Deus todo poderoso <br>
+Que era, é e há de vir <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Com a criação eu canto <br>
+Louvores ao rei dos reis <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+És tudo para mim <br>
+E eu te adorarei <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Santo, santo, santo <br>
+Deus todo poderoso <br>
+Que era, é e há de vir <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Com a criação eu canto <br>
+Louvores ao rei dos reis <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+És tudo para mim <br>
+E eu te adorarei <br>
+</center>
