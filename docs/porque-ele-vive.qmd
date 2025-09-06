@@ -1,0 +1,82 @@
+---
+title: "Porque Ele Vive"
+title-slide-attributes:
+  data-background-image: sky.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 130px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Deus enviou seu filho amado <br>
+Para morrer em meu lugar <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Na cruz sofreu, por meus pecados <br>
+Mas ressurgiu e vivo com o Pai está <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Porque Ele vive, posso crer no amanhã <br>
+Porque Ele vive, temor não há <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Mas eu bem sei, eu sei <br>
+Que  a minha vida <br>
+Está nas mãos de meu Jesus que vivo está <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+E quando enfim, chegar a hora <br>
+Em que a morte enfrentarei <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Sem medo então, terei vitória <br>
+Verei na glória, o meu Jesus, que vivo está <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Porque Ele vive, posso crer no amanhã <br>
+Porque Ele vive, temor não há <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Mas eu bem sei, eu sei <br>
+Que  a minha vida <br>
+Está nas mãos de meu Jesus que vivo está <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Mas eu bem sei, eu sei <br>
+Que  a minha vida <br>
+Está nas mãos de meu Jesus que vivo está <br>
+</center>

@@ -1,0 +1,181 @@
+---
+title: "Maranata"
+title-slide-attributes:
+  data-background-image: sky.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 130px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Tu és a minha luz <br>
+A minha salvação <br>
+E a Ti me renderei <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Se ao Teu lado estou <br>
+Seguro em Tuas mãos <br>
+Eu nada temerei <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Oh oh uoh Tu és santo, ó Senhor <br>
+Oh oh uoh Tu és digno de louvor <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Só em ti confiarei <br>
+Eu nada temerei <br>
+Em frente eu irei <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Pois eu sei que vivo estás <br>
+E um dia voltarás do céu pra nos buscar <br>
+Para sempre reinarás, aleluia <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Tu és a minha luz <br>
+A minha salvação <br>
+E a Ti me renderei  <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Se ao Teu lado estou <br>
+Seguro em Tuas mãos <br>
+Eu nada temerei <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Oh oh oh oh Tu és santo, ó Senhor <br>
+Oh uoh uoh uoh Tu és digno de louvor <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Só em Ti confiarei <br>
+Eu nada temerei <br>
+Em frente eu irei <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Pois eu sei que vivo estás <br>
+E um dia voltarás do céu pra nos buscar <br>
+Para sempre reinarás, aleluia <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Vem, Jesus <br>
+Vem, Jesus <br>
+Maranata, ora, vem, Senhor Jesus <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Vem, Jesus <br>
+Vem, Jesus <br>
+Maranata, ora, vem, Senhor Jesus <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Vem, Jesus <br>
+Vem, Jesus <br>
+Maranata, ora, vem, Senhor Jesus <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Vem, Jesus <br>
+Vem, Jesus <br>
+Maranata, ora, vem, Senhor Jesus <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Só em Ti confiarei <br>
+Eu nada temerei <br>
+Em frente eu irei <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Pois eu sei que vivo estás <br>
+E um dia voltarás do céu pra nos buscar <br>
+Para sempre reinarás, aleluia <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Só em Ti confiarei <br>
+Eu nada temerei <br>
+Em frente eu irei <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Pois eu sei que vivo estás <br>
+E um dia voltarás do céu pra nos buscar <br>
+Para sempre reinarás, aleluia <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Só em Ti confiarei <br>
+Eu nada temerei <br>
+Em frente eu irei <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Pois eu sei que vivo estás <br>
+E um dia voltarás do céu pra nos buscar <br>
+Para sempre reinarás, aleluia <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Aleluia <br>
+Aleluia
+</center>
