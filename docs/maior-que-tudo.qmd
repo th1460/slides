@@ -1,0 +1,91 @@
+---
+title: "Maior que tudo"
+title-slide-attributes:
+  data-background-image: parede.png
+  data-background-position: cover
+  data-background-opacity: "1"
+format: 
+  revealjs:
+    theme: theme-dj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo #DOMINGJOVEM"
+    fontsize: 120px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="parede.png"}
+
+<center>
+Maior que forças, maior que reis <br>
+Que a natureza e tudo que se fez <br>
+Maior que coisas que o homem inventar <br>
+No princípio Deus estava lá <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Maior que reinos e posições <br>
+Que as maravilhas de todas as nações <br>
+Maior que bens e o ouro que existir <br>
+Seu amor não pode se medir <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Mas na cruz, por amor de mim <br>
+Morreu Jesus, sozinho até o fim <br>
+Mesmo assim, em humilhação <br>
+Morrendo só pensando em mim <br>
+Foi maior <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Maior que forças, maior que reis <br>
+Que a natureza e tudo que se fez <br>
+Maior que coisas que o homem inventar <br>
+No princípio Deus estava lá <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Maior que reinos e posições <br>
+Que as maravilhas de todas as nações <br>
+Maior que bens e o ouro que existir <br>
+Seu amor não pode se medir! <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Mas na cruz, por amor de mim <br>
+Morreu Jesus, sozinho até o fim <br>
+Mesmo assim, em humilhação <br>
+Morrendo só pensando em mim <br>
+Foi maior <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Mas na cruz, por amor de mim <br>
+Morreu Jesus, sozinho até o fim <br>
+Mesmo assim, em humilhação <br>
+Morrendo só pensando em mim <br>
+Foi maior <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Mesmo assim, em humilhação <br>
+Morrendo só pensando em mim <br>
+Foi maior <br>
+</center>
