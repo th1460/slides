@@ -1,0 +1,142 @@
+---
+title: "Pra Teu Louvor"
+title-slide-attributes:
+  data-background-image: sky.jpg
+  data-background-position: cover
+  data-background-opacity: "1"
+format: 
+  revealjs:
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 120px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sky.jpg"}
+
+<center>
+Pra Teu louvor <br>
+Pra Teu louvor <br>
+Pra Teu louvor <br>
+Pra Teu louvor <br>
+</center>
+
+# {background-image="sky.jpg"}
+
+<center>
+Eu quero em todo tempo Te adorar <br>
+Com os meus atos Te glorificar <br>
+Eu quero um transformado coração <br>
+Menos discurso e muito mais ação <br>
+</center>
+
+# {background-image="sky.jpg"}
+
+<center>
+Pra Teu louvor <br>
+Pra Teu louvor <br>
+Pra Teu louvor <br>
+Pra Teu louvor <br>
+</center>
+
+# {background-image="sky.jpg"}
+
+<center>
+Que eu possa com palavras construir <br>
+E assim o Teu caráter refletir <br>
+Que eu traga cura e alívio à dor <br>
+Menos discurso e muito mais amor <br>
+</center>
+
+# {background-image="sky.jpg"}
+
+<center>
+Pra Teu louvor <br>
+Pra Teu louvor <br>
+Pra Teu louvor <br>
+Pra Teu louvor <br>
+</center>
+
+# {background-image="sky.jpg"}
+
+<center>
+Seja minha vida, inspiração <br>
+Haja em mim total consagração <br>
+Que seja o amor a minha missão <br>
+Que eu seja o evangelho que muitos lerão <br>
+</center>
+
+# {background-image="sky.jpg"}
+
+<center>
+Seja minha vida, inspiração <br>
+Haja em mim total consagração <br>
+Que seja o amor a minha missão <br>
+Que eu seja o evangelho que muitos lerão <br>
+</center>
+
+# {background-image="sky.jpg"}
+
+<center>
+Pra Teu louvor <br>
+Pra Teu louvor <br>
+Pra Teu louvor <br>
+Pra Teu louvor <br>
+</center>
+
+# {background-image="sky.jpg"}
+
+<center>
+A Ele toda honra <br>
+A Ele toda a glória <br>
+É dele toda majestade <br>
+E poder <br>
+</center>
+
+# {background-image="sky.jpg"}
+
+<center>
+Se manifeste aqui <br>
+A luz da Tua presença <br>
+E viva Cristo em mim <br>
+</center>
+
+# {background-image="sky.jpg"}
+
+<center>
+A Ele toda honra <br>
+A Ele toda a glória <br>
+É dele toda majestade <br>
+E poder <br>
+</center>
+
+# {background-image="sky.jpg"}
+
+<center>
+Se manifeste aqui <br>
+A luz da Tua presença <br>
+E viva Cristo em mim <br>
+Cristo em mim <br>
+</center>
+
+# {background-image="sky.jpg"}
+
+<center>
+Pra Teu louvor <br>
+Pra Teu louvor <br>
+Pra Teu louvor <br>
+Pra Teu louvor <br>
+</center>
+
+# {background-image="sky.jpg"}
+
+<center>
+Pra Teu louvor <br>
+Pra Teu louvor <br>
+Pra Teu louvor <br>
+Pra Teu louvor <br>
+</center>
