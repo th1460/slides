@@ -1,0 +1,109 @@
+---
+title: "Um Milagre"
+title-slide-attributes:
+  data-background-image: parede.png
+  data-background-position: cover
+  data-background-opacity: "1"
+format: 
+  revealjs:
+    theme: theme-dj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo #DOMINGJOVEM"
+    fontsize: 150px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="parede.png"}
+
+<center>
+Tu És o Deus que fez o céu <br>
+Senhor do impossível, Rei de Israel <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Porém confesso que pedi milagres que jamais me aconteceram
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Já li no salmo que És meu bom Pastor, nada vai me faltar
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Mas Pai, me ensine, por que o vale da sombra no salmo está?
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Eu Te peço, um milagre <br>
+De ter fé mesmo quando o milagre ali não está.
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Eu imploro, um milagre! <br>
+De aceitar que se faça a vontade do Pai
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Tu És o Deus que fez o céu <br>
+Senhor do impossível, Rei de Israel
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Porém confesso que pedi milagres que jamais me aconteceram
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Já li no salmo que És meu bom Pastor, nada vai me faltar
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Mas Pai, me ensine, por que o vale da sombra no salmo está?
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Eu Te peço, um milagre <br>
+De ter fé mesmo quando o milagre ali não está
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Eu imploro, um milagre! <br>
+De aceitar que se faça a vontade do Pai
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Eu Te peço, um milagre <br>
+De ter fé mesmo quando o milagre ali não está
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Eu imploro, um milagre! <br>
+De aceitar que se faça a vontade do Pai
+</center>

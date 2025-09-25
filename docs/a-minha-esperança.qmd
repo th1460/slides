@@ -1,0 +1,119 @@
+---
+title: "A Minha Esperança"
+title-slide-attributes:
+  data-background-image: parede.png
+  data-background-position: cover
+  data-background-opacity: "1"
+format: 
+  revealjs:
+    theme: theme-dj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo #DOMINGJOVEM"
+    fontsize: 150px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="parede.png"}
+
+<center>
+A minha esperança está no Senhor
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Se a vida apresenta motivos pra desanimar (Moças) <br>
+A minha esperança está no Senhor (Rapazes) <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Se as nuvens escuras não querem passar (Moças) <br>
+A minha esperança  está no Senhor <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Se alguém que eu amo vier me ferir (Moças) <br>
+A minha esperança está no Senhor <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Se às vezes me esqueço de amar ou sorrir (Moças) <br>
+A minha esperança está no Senhor <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Se existem motivos pra desanimar <br>
+Se as nuvens escuras espalham temor <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Preciso aprender a sorrir e cantar <br>
+A minha esperança está no Senhor <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Eu quero erguer minha voz em louvor e cantar (Rapazes) <br>
+A minha esperança está no Senhor (Moças) <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+De dia ou de noite em qualquer lugar (Rapazes) <br>
+A minha esperança está no Senhor (Moças) <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Em qualquer caminho por onde eu passar (Rapazes) <br>
+A minha esperança está no Senhor (Moças) <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Eu quero dizer: Vale a pena confiar (Rapazes) <br>
+A minha esperança está no Senhor (Moças) <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Se existem motivos pra desanimar <br>
+Se as nuvens escuras espalham temor <br>
+Preciso aprender a sorrir e cantar <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+A minha esperança está no Senhor <br>
+A minha esperança está no Senhor <br>
+A minha esperança está no Senhor <br>
+A minha esperança está no Senhor <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+A minha esperança está no Senhor <br>
+A minha esperança está no Senhor <br>
+A minha esperança está no Senhor <br>
+A minha esperança está no Senhor <br>
+</center>
