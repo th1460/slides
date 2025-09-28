@@ -10,7 +10,7 @@ format:
     width: 1600
     height: 900
     footer: "#JOVENSCAHo #DOMINGJOVEM"
-    fontsize: 150px
+    fontsize: 130px
     transition: slide
     background-transition: fade
 self-contained: true
@@ -19,40 +19,41 @@ self-contained: true
 # {background-image="parede.png"}
 
 <center>
-A minha esperança está no Senhor
+(Todos) A minha esperança está no Senhor
 </center>
 
 # {background-image="parede.png"}
 
 <center>
-Se a vida apresenta motivos pra desanimar (Moças) <br>
-A minha esperança está no Senhor (Rapazes) <br>
+(Moças) Se a vida apresenta motivos pra desanimar<br>
+(Rapazes) A minha esperança está no Senhor<br>
 </center>
 
 # {background-image="parede.png"}
 
 <center>
-Se as nuvens escuras não querem passar (Moças) <br>
-A minha esperança  está no Senhor <br>
+(Moças) Se as nuvens escuras não querem passar<br>
+(Rapazes) A minha esperança  está no Senhor <br>
 </center>
 
 # {background-image="parede.png"}
 
 <center>
-Se alguém que eu amo vier me ferir (Moças) <br>
-A minha esperança está no Senhor <br>
+(Moças) Se alguém que eu amo vier me ferir<br>
+(Rapazes) A minha esperança está no Senhor <br>
 </center>
 
 # {background-image="parede.png"}
 
 <center>
-Se às vezes me esqueço de amar ou sorrir (Moças) <br>
-A minha esperança está no Senhor <br>
+(Moças) Se às vezes me esqueço de amar ou sorrir<br>
+(Rapazes) A minha esperança está no Senhor<br>
 </center>
 
 # {background-image="parede.png"}
 
 <center>
+(Todos) <br>
 Se existem motivos pra desanimar <br>
 Se as nuvens escuras espalham temor <br>
 </center>
@@ -60,6 +61,7 @@ Se as nuvens escuras espalham temor <br>
 # {background-image="parede.png"}
 
 <center>
+(Todos)<br>
 Preciso aprender a sorrir e cantar <br>
 A minha esperança está no Senhor <br>
 </center>
@@ -67,53 +69,53 @@ A minha esperança está no Senhor <br>
 # {background-image="parede.png"}
 
 <center>
-Eu quero erguer minha voz em louvor e cantar (Rapazes) <br>
-A minha esperança está no Senhor (Moças) <br>
+(Rapazes) Eu quero erguer minha voz em louvor e cantar<br>
+(Moças) A minha esperança está no Senhor<br>
 </center>
 
 # {background-image="parede.png"}
 
 <center>
-De dia ou de noite em qualquer lugar (Rapazes) <br>
-A minha esperança está no Senhor (Moças) <br>
+(Rapazes) De dia ou de noite em qualquer lugar<br>
+(Moças) A minha esperança está no Senhor<br>
 </center>
 
 # {background-image="parede.png"}
 
 <center>
-Em qualquer caminho por onde eu passar (Rapazes) <br>
-A minha esperança está no Senhor (Moças) <br>
+(Rapazes) Em qualquer caminho por onde eu passar<br>
+(Moças) A minha esperança está no Senhor<br>
 </center>
 
 # {background-image="parede.png"}
 
 <center>
-Eu quero dizer: Vale a pena confiar (Rapazes) <br>
-A minha esperança está no Senhor (Moças) <br>
+(Rapazes) Eu quero dizer: Vale a pena confiar<br>
+(Moças) A minha esperança está no Senhor<br>
 </center>
 
 # {background-image="parede.png"}
 
 <center>
-Se existem motivos pra desanimar <br>
-Se as nuvens escuras espalham temor <br>
-Preciso aprender a sorrir e cantar <br>
+(Todos)<br>
+Se existem motivos pra desanimar<br>
+Se as nuvens escuras espalham temor<br>
+Preciso aprender a sorrir e cantar<br>
 </center>
 
 # {background-image="parede.png"}
 
 <center>
-A minha esperança está no Senhor <br>
-A minha esperança está no Senhor <br>
-A minha esperança está no Senhor <br>
-A minha esperança está no Senhor <br>
+(Todos)<br>
+A minha esperança está no Senhor<br>
 </center>
 
 # {background-image="parede.png"}
 
 <center>
-A minha esperança está no Senhor <br>
-A minha esperança está no Senhor <br>
-A minha esperança está no Senhor <br>
-A minha esperança está no Senhor <br>
+(Rapazes) A minha (Moças) A minha<br>
+(Rapazes) Esperança (Moças) Esperança<br>
+(Rapazes) Está (Moças) Está <br>
+(Rapazes) No Senhor (Moças) No Senhor<br>
+(Todos) Está no Senhor
 </center>
