@@ -1,0 +1,137 @@
+---
+title: "No Teu Altar"
+title-slide-attributes:
+  data-background-image: parede.png
+  data-background-position: cover
+  data-background-opacity: "1"
+format: 
+  revealjs:
+    theme: theme-dj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo #DOMINGJOVEM"
+    fontsize: 150px
+    transition: slide
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="parede.png"}
+
+<center>
+Mil vezes eu falhei, até que encontrei <br>
+Tua palavra, oh senhor <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+E hoje se eu cair, não vou mais me ferir <br>
+Tua graça me cobre, Senhor <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Majestoso Deus, é desejo meu <br>
+Prosseguir em te buscar <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Sempre me perder, na arte de trazer <br>
+Louvores a ti, Senhor <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+O meu coração coloco em tuas mãos, e tudo o que eu sou <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Com vestes de louvor, eu vim, oh Senhor <br>
+Oferecer o meu melhor <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+No teu altar, na sala do trono <br>
+Sentado à mesa, contemplando tua beleza <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Além do véu, do santo dos santos <br>
+Sou só um súdito, mas ouço tua voz <br>
+Me chamar
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Majestoso Deus, é desejo meu <br>
+Prosseguir em te buscar <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Sempre me perder, na arte de trazer <br>
+Louvores a ti, Senhor <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+O meu coração coloco em tuas mãos, e tudo o que eu sou <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Com vestes de louvor, eu vim, oh Senhor <br>
+Oferecer o meu melhor <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+No teu altar, na sala do trono <br>
+Sentado à mesa, contemplando tua beleza <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Além do véu, do santo dos santos <br>
+Sou só um súdito, mas ouço tua voz <br>
+Me chamar <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+No teu altar, na sala do trono <br>
+Sentado à mesa, contemplando tua beleza <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Além do véu, do santo dos santos <br>
+Sou só um súdito, mas ouço tua voz <br>
+Me chamar <br>
+</center>
+
+# {background-image="parede.png"}
+
+<center>
+Mas ouço tua voz <br>
+Me chamar <br>
+</center>
