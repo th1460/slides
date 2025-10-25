@@ -1,0 +1,191 @@
+---
+title: "Josué 1"
+title-slide-attributes:
+  data-background-image: sky2.jpeg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 170px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Vai agora e atravessa o Jordão
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Vai agora e atravessa o Jordão
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Todo lugar que pisar o teu pé vou te dar
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Até o horizonte onde o sol se esconde herdarás
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+E ninguém te poderá resistir
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Assim como fui com Moisés, serei contigo, serei contigo
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Sê forte e corajoso, não temas nem te espantes
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Porque o Senhor teu Deus é contigo onde andares
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Sê forte e corajoso, não temas nem te espantes
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Porque o Senhor teu Deus é contigo onde andares
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Todo lugar que pisar o teu pé vou te dar
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Até o horizonte onde o sol se esconde herdarás
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+E ninguém te poderá resistir
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Assim como fui com Moisés, serei contigo, serei contigo
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Sê forte e corajoso, não temas nem te espantes
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Porque o Senhor teu Deus é contigo onde andares
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Sê forte e corajoso, não temas nem te espantes
+<center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Porque o Senhor teu Deus é contigo onde andares
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+E não haverá rio profundo,
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Exército ou muralhas pra te impedir
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+De entrar em Canaã
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+De entrar em Canaã
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Sê forte e corajoso, não temas nem te espantes
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Porque o Senhor teu Deus é contigo onde andares
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Sê forte e corajoso, não temas nem te espantes
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Porque o Senhor teu Deus é contigo onde andares
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Sê forte e corajoso, não temas nem te espantes
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Porque o Senhor teu Deus é contigo onde andares
+</center>
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+<center>
+Vai agora entra em Canaã <br>
+Vai agora entra em Canaã
+</center>
