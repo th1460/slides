@@ -1,28 +1,28 @@
 ---
 title: "Pés na Terra, Olhos no Céu"
 title-slide-attributes:
-  data-background-image: background02.jpg
+  data-background-image: parede.png
   data-background-position: cover
 format: 
   revealjs:
-    theme: theme.scss
+    theme: theme-dj.scss
     width: 1600
     height: 900
-    footer: "#JOVENSCAHo"
-    fontsize: 80px
+    footer: "#JOVENSCAHo #DOMINGO JOVEM"
+    fontsize: 120px
     transition: slide
     background-transition: fade
 self-contained: true
 ---
 
-# {background-image="background02.jpg" background-opacity="0.5"} 
+# {background-image="parede.png"} 
 
 <center>
 Nós almejamos outro lar, <br> um novo Éden pra morar <br>
 Pois ficaremos por aqui <br> somente um pouco mais <br>
 </center>
 
-# {background-image="background02.jpg" background-opacity="0.5"}
+# {background-image="parede.png"}
 
 <center>
 Esta promessa quero <br> alcançar custe o que custar <br>
@@ -30,7 +30,7 @@ E enquanto espero sigo confiando <br>
 No poder que vai me salvar <br>
 </center>
 
-# {background-image="background02.jpg" background-opacity="0.5"}
+# {background-image="parede.png"}
 
 <center>
 Com os pés na Terra e os olhos no céu <br> eu vou, eu vou <br>
@@ -38,14 +38,14 @@ Com os pés na Terra e os olhos no céu <br>
 Eu vou seguindo até encontrar meu Jesus
 </center>
 
-# {background-image="background02.jpg" background-opacity="0.5"}
+# {background-image="parede.png"}
 
 <center>
 Um novo dia surgirá <br> quando Jesus aqui voltar <br>
 Todo o pranto findará, <br> só alegria haverá <br>
 </center>
 
-# {background-image="background02.jpg" background-opacity="0.5"}
+# {background-image="parede.png"}
 
 <center>
 Não mais tristeza, <br> não mais a dor <br>
