@@ -1,0 +1,118 @@
+---
+title: "Nas Mãos do Oleiro"
+title-slide-attributes:
+  data-background-image: sky.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 130px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Em Tuas mãos <br>
+Eu sou pó <br>
+Nenhum valor <br>
+Barro sou <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Quem sou eu <br>
+Pra questionar <br>
+Tuas mãos a me moldar? <br>
+Tu és Deus <br>
+Artesão de mim <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Nas mãos do Oleiro <br>
+Me entrego inteiro pra ser <br>
+Quebrado e refeito <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Nas mãos do Oleiro <br>
+Sou restaurado <br>
+Pra ser um novo vaso <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Em Tuas mãos <br>
+Eu sou pó <br>
+Nenhum valor <br>
+Barro sou <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Quem sou eu <br>
+Pra questionar <br>
+Tuas mãos a me moldar? <br>
+Tu és Deus <br>
+Artesão de mim <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Nas mãos do Oleiro <br>
+Me entrego inteiro pra ser <br>
+Quebrado e refeito <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Nas mãos do Oleiro <br>
+Sou restaurado <br>
+Pra ser um novo vaso <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Nas mãos do Oleiro <br>
+Me entrego inteiro pra ser <br>
+Quebrado e refeito <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Nas mãos do Oleiro <br>
+Sou restaurado <br>
+Pra ser um novo vaso <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Nas mãos do Oleiro <br>
+Me entrego inteiro pra ser <br>
+Quebrado e refeito <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Nas mãos do Oleiro <br>
+Sou restaurado <br>
+Pra ser um novo vaso <br>
+</center>

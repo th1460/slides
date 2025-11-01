@@ -1,0 +1,122 @@
+---
+title: "Ao Pé da Cruz"
+title-slide-attributes:
+  data-background-image: sky.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 130px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Senhor, conheces meu coração <br>
+Mesmo quando erro, sei que me amas <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Vem envolver-me com Teu perdão <br>
+E em todo o tempo, sei que me amas <br>
+Sei que me amas <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Me ajoelho aos pés da cruz <br>
+Onde o sangue de Jesus <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Foi vertido em amor <br>
+Toda a morte e todo mal <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Seu amor venceu ali <br>
+Nada vai nos separar <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+O meu caminho seguro está <br>
+Sei que vais à frente, sei que me amas <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Me ajoelho aos pés da cruz <br>
+Onde o sangue de Jesus <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Foi vertido em amor <br>
+Toda a morte e todo mal <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Seu amor venceu ali <br>
+Nada vai nos separar <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Já posso ver o céu se abrir <br>
+Cristo vem pra me buscar <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Já posso ver o céu se abrir <br>
+Cristo vem pra me buscar <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Me ajoelho aos pés da cruz <br>
+Onde o Sangue de Jesus <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Foi vertido em amor <br>
+Toda a morte e todo mal <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+Seu amor venceu ali <br>
+Nada vai nos separar <br>
+</center>
+
+# {background-image="sky.jpg" auto-animate=true}
+
+<center>
+E quando o mundo chegar ao fim, eu verei Seu rosto <br>
+Sei que me amas, sei que me amas <br>
+</center>
