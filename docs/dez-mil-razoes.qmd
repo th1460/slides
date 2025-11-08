@@ -1,0 +1,194 @@
+---
+title: "Dez Mil Razões"
+title-slide-attributes:
+  data-background-image: sunset.gif
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 200px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Com minha alma e meu ser
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Eu irei cantar
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Santo é teu nome, Pai
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Como nunca cantei
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Vou louvar
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Santo é teu nome, Pai
+
+# {background-image="sunset.gif" auto-animate=true}
+
+O sol raiou é um novo dia
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Tua canção eu vou cantar
+
+# {background-image="sunset.gif" auto-animate=true}
+
+E seja o que for que comigo aconteça
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Vou estar cantando quando o sol se por
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Com minha alma e meu ser
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Eu irei cantar
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Santo é teu nome, Pai
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Como nunca cantei
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Vou louvar
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Santo é teu nome, Pai
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Um Deus de amor e misericórdia
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Um coração pronto a perdoar
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Por tudo isso eu estarei cantando
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Dez mil razões eu posso encontrar
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Com minha alma e meu ser
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Eu irei cantar
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Santo é teu nome, Pai
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Como nunca cantei
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Vou louvar
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Santo é teu nome, Pai
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Eu sei que um dia estarei bem fraco
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Aguardando minha hora chegar
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Ainda assim eu estarei cantando
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Por dez mil anos e por muito mais
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Com minha alma e meu ser
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Eu irei cantar
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Santo é teu nome, Pai
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Como nunca cantei
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Vou louvar
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Santo é teu nome, Pai
+
+# {background-image="sunset.gif" auto-animate=true}
+
+
+
+Com minha alma e meu ser
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Eu irei cantar
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Santo é teu nome, Pai
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Como nunca cantei
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Vou louvar
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Santo é teu nome, Pai
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Santo é teu nome, Pai
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Santo é teu nome, Pai

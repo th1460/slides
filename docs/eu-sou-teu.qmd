@@ -1,0 +1,160 @@
+---
+title: "Eu Sou Teu"
+title-slide-attributes:
+  data-background-image: sunset.gif
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 200px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Onde me mandares ir eu sigo
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Tudo o que o Senhor disser repito
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Já não vivo eu, sou inteiramente Teu
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Se não for o Teu querer eu nego
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Cada plano em Tuas mãos entrego
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Já não vivo eu, sou inteiramente Teu
+
+# {background-image="sunset.gif" auto-animate=true}
+
+E nada vai me afastar
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Estou seguro em Tuas mãos, Jesus
+
+# {background-image="sunset.gif" auto-animate=true}
+
+E eu sou Teu
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Não sou de mais ninguém
+
+# {background-image="sunset.gif" auto-animate=true}
+
+O Teu amor me alcançou
+
+# {background-image="sunset.gif" auto-animate=true}
+
+E devolveu o meu valor
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Eu volto a dizer
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Sou Teu e pra sempre assim serei
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Onde me mandares ir eu sigo
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Tudo o que o Senhor disser repito
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Já não vivo eu, sou inteiramente Teu
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Se não for o Teu querer eu nego
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Cada plano em Tuas mãos entrego
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Já não vivo eu, sou inteiramente Teu
+
+# {background-image="sunset.gif" auto-animate=true}
+
+E nada vai me afastar
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Estou seguro em Tuas mãos, Jesus
+
+# {background-image="sunset.gif" auto-animate=true}
+
+E eu sou Teu
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Não sou de mais ninguém
+
+# {background-image="sunset.gif" auto-animate=true}
+
+O Teu amor me alcançou
+
+# {background-image="sunset.gif" auto-animate=true}
+
+E devolveu o meu valor!
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Eu volto a dizer
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Sou Teu e pra sempre assim serei
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Não sou de mais ninguém
+
+# {background-image="sunset.gif" auto-animate=true}
+
+O Teu amor me alcançou
+
+# {background-image="sunset.gif" auto-animate=true}
+
+E devolveu o meu valor
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Eu volto a dizer
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Sou Teu e pra sempre assim serei
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Onde me mandares ir
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Tudo que o Senhor disser
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Já não vivo eu, sou inteiramente Teu
