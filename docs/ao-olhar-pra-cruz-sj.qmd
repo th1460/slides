@@ -1,7 +1,7 @@
 ---
 title: "Ao Olhar Pra Cruz"
 title-slide-attributes:
-  data-background-image: sky.jpg
+  data-background-image: sunset.gif
   data-background-position: cover
 format: 
   revealjs:
@@ -9,164 +9,140 @@ format:
     theme: theme-sj.scss
     width: 1600
     height: 900
-    footer: "#JOVENSCAHo #SEMANA JOVEM"
+    footer: "#JOVENSCAHo"
     fontsize: 150px
     background-transition: fade
 self-contained: true
 ---
 
-# {background-image="sky.jpg" auto-animate=true}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
 Andei tão cego, sem rumo certo <br>
 Buscando a paz e descanso <br>
-</center>
 
-# {background-image="sky.jpg" auto-animate=true}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
 Eu procurei por tantos meios <br>
 Justificar meus erros <br>
-</center>
 
-# {background-image="sky.jpg" auto-animate=true}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
 Mas ao clamar, meus olhos abri <br>
-</center>
 
-# {background-image="sky.jpg" auto-animate=true}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
 E ao olhar pra cruz eu entendo o amor <br>
 Derramado ali por mim <br>
-</center>
 
-# {background-image="sky.jpg" auto-animate=true}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
 Sacrifício de sangue por um pecador <br>
 Não sou merecedor, Tua graça me alcançou <br>
-</center>
 
-# {background-image="sky.jpg" auto-animate=true}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
 E ao ver tua glória, naquele dia <br>
 Me alegrarei em gratidão <br>
-</center>
 
-# {background-image="sky.jpg" auto-animate=true}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
 Tocarei as marcas, marcas de vitória <br>
 Vencido é o pecado <br>
-</center>
 
-# {background-image="sky.jpg" auto-animate=true}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
 Perante Ti me prostrarei <br>
-</center>
 
-# {background-image="sky.jpg" auto-animate=true}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
 E ao olhar pra cruz eu entendo o amor <br>
 Derramado ali por mim <br>
-</center>
 
-# {background-image="sky.jpg" auto-animate=true}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
 Sacrifício de sangue por um pecador <br>
 Não sou merecedor, Tua graça me alcançou <br>
-</center>
 
-# {background-image="sky.jpg" auto-animate=true}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
 Reconheço <br>
 Não sou digno <br>
 Pela graça <br>
 Eu fui salvo <br>
-</center>
 
-# {background-image="sky.jpg" auto-animate=true}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
 Reconheço <br>
 Não sou digno <br>
 Pela graça <br>
 Eu fui salvo <br>
-</center>
 
-# {background-image="sky.jpg" auto-animate=true}
 
-<center>
+# {background-image="sunrise.jpg" auto-animate=true}
+
+
 Reconheço <br>
 Não sou digno <br>
 Pela graça <br>
 Eu fui salvo <br>
-</center>
 
-# {background-image="sky.jpg" auto-animate=true}
 
-<center>
+# {background-image="sunrise.jpg" auto-animate=true}
+
+
 Reconheço <br>
 Não sou digno <br>
 Pela graça <br>
 Eu fui salvo <br>
-</center>
 
-# {background-image="sky.jpg" auto-animate=true}
 
-<center>
+# {background-image="sunrise.jpg" auto-animate=true}
+
+
 E ao olhar pra cruz eu entendo o amor <br>
 Derramado ali por mim <br>
-</center>
 
-# {background-image="sky.jpg" auto-animate=true}
 
-<center>
+# {background-image="sunrise.jpg" auto-animate=true}
+
+
 Sacrifício de sangue por um pecador <br>
 Não sou merecedor <br>
-</center>
 
-# {background-image="sky.jpg" auto-animate=true}
 
-<center>
+# {background-image="sunrise.jpg" auto-animate=true}
+
+
 E ao olhar pra cruz eu entendo o amor <br>
 Derramado ali por mim <br>
-</center>
 
-# {background-image="sky.jpg" auto-animate=true}
 
-<center>
+# {background-image="sunrise.jpg" auto-animate=true}
+
+
 Sacrifício de sangue por um pecador <br>
 Não sou merecedor <br>
-</center>
 
-# {background-image="sky.jpg" auto-animate=true}
 
-<center>
+# {background-image="sunrise.jpg" auto-animate=true}
+
+
 Não sou merecedor, Tua graça me alcançou <br>
-</center>
 
-# {background-image="sky.jpg" auto-animate=true}
 
-<center>
+# {background-image="sunrise.jpg" auto-animate=true}
+
+
 Reconheço <br>
 Não sou digno <br>
 Pela graça <br>
 Eu fui salvo <br>
-</center>
 
-# {background-image="sky.jpg" auto-animate=true}
 
-<center>
+# {background-image="sunrise.jpg" auto-animate=true}
+
+
 Reconheço <br>
 Não sou digno <br>
 Pela graça <br>
 Eu fui salvo <br>
-</center>

@@ -1,124 +1,144 @@
 ---
 title: "Ao Olhar Pra Cruz"
 title-slide-attributes:
-  data-background-image: sunset.jpg
+  data-background-image: landscape01.gif
   data-background-position: cover
-  data-background-opacity: "0.6"
 format: 
   revealjs:
-    theme: theme.scss
+    menu: false
+    theme: theme-sj.scss
     width: 1600
     height: 900
     footer: "#JOVENSCAHo"
-    fontsize: 80px
-    transition: slide
+    fontsize: 200px
     background-transition: fade
 self-contained: true
 ---
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="landscape01.gif" auto-animate=true}
 
-<center>
-Andei tão cego, sem rumo certo <br>
-Buscando a paz e descanso <br>
-Eu procurei por tantos meios <br>
-Justificar meus erros <br>
-Mas ao clamar, meus olhos abri <br>
+Andei tão cego, sem rumo certo
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="landscape01.gif" auto-animate=true}
 
-<center>
-E ao olhar pra cruz eu entendo o amor <br>
-Derramado ali por mim <br>
-Sacrifício de sangue por um pecador <br>
-Não sou merecedor, Tua graça me alcançou <br>
+Buscando a paz e descanso
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="landscape01.gif" auto-animate=true}
 
-<center>
-E ao ver tua glória, naquele dia <br>
-Me alegrarei em gratidão <br>
-Tocarei as marcas, marcas de vitória <br>
-Vencido é o pecado <br>
-Perante Ti me prostrarei <br>
+Eu procurei por tantos meios
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="landscape01.gif" auto-animate=true}
 
-<center>
-E ao olhar pra cruz eu entendo o amor <br>
-Derramado ali por mim <br>
-Sacrifício de sangue por um pecador <br>
-Não sou merecedor, Tua graça me alcançou <br>
+Justificar meus erros
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="landscape01.gif" auto-animate=true}
 
-<center>
-Reconheço <br>
-Não sou digno <br>
-Pela graça <br>
-Eu fui salvo <br>
-</center>
+Mas ao clamar, meus olhos abri
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="landscape01.gif" auto-animate=true}
 
-<center>
-Reconheço <br>
-Não sou digno <br>
-Pela graça <br>
-Eu fui salvo <br>
-</center>
+E ao olhar pra cruz eu entendo o amor
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="landscape01.gif" auto-animate=true}
 
-<center>
-Reconheço <br>
-Não sou digno <br>
-Pela graça <br>
-Eu fui salvo <br>
-</center>
+Derramado ali por mim
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="landscape01.gif" auto-animate=true}
 
-<center>
-Reconheço <br>
-Não sou digno <br>
-Pela graça <br>
-Eu fui salvo <br>
-</center>
+Sacrifício de sangue por um pecador
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="landscape01.gif" auto-animate=true}
 
-<center>
-E ao olhar pra cruz eu entendo o amor <br>
-Derramado ali por mim <br>
-Sacrifício de sangue por um pecador <br>
-Não sou merecedor <br>
-</center>
+Não sou merecedor, Tua graça me alcançou
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="landscape01.gif" auto-animate=true}
 
-<center>
-E ao olhar pra cruz eu entendo o amor <br>
-Derramado ali por mim <br>
-Sacrifício de sangue por um pecador <br>
-Não sou merecedor <br>
-Não sou merecedor, Tua graça me alcançou <br>
-</center>
+E ao ver Tua glória naquele dia
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="landscape01.gif" auto-animate=true}
 
-<center>
-Reconheço <br>
-Não sou digno <br>
-Pela graça <br>
-Eu fui salvo <br>
-</center>
+Me alegrarei em gratidão
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="landscape01.gif" auto-animate=true}
 
-<center>
-Reconheço <br>
-Não sou digno <br>
-Pela graça <br>
-Eu fui salvo <br>
-</center>
+Tocarei as marcas, marcas de vitória
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Vencido é o pecado
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Perante Ti me prostrarei
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+E ao olhar pra cruz eu entendo o amor
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Derramado ali por mim
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Sacrifício de sangue por um pecador
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Não sou merecedor, Tua graça me alcançou
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+E ao olhar pra cruz eu entendo o amor
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Derramado ali por mim
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Sacrifício de sangue por um pecador
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Não sou merecedor
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+E ao olhar pra cruz eu entendo o amor
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Derramado ali por mim
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Sacrifício de sangue por um pecador
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Não sou merecedor, não sou merecedor
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Tua graça me alcançou
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+E ao olhar pra cruz eu entendo o amor
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Derramado ali por mim
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Sacrifício de sangue por um pecador
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Não sou merecedor, não sou merecedor
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Tua graça me alcançou

@@ -161,8 +161,6 @@ Santo é teu nome, Pai
 
 # {background-image="sunset.gif" auto-animate=true}
 
-
-
 Com minha alma e meu ser
 
 # {background-image="sunset.gif" auto-animate=true}

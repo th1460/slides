@@ -1,121 +1,127 @@
 ---
 title: "A Minha Esperança"
 title-slide-attributes:
-  data-background-image: parede.png
+  data-background-image: sunrise.jpg
   data-background-position: cover
-  data-background-opacity: "1"
 format: 
   revealjs:
-    theme: theme-dj.scss
+    menu: false
+    theme: theme-sj.scss
     width: 1600
     height: 900
-    footer: "#JOVENSCAHo #DOMINGJOVEM"
-    fontsize: 130px
-    transition: slide
+    footer: "#JOVENSCAHo"
+    fontsize: 150px
     background-transition: fade
 self-contained: true
 ---
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
 (Todos) A minha esperança está no Senhor
-</center>
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-(Moças) Se a vida apresenta motivos pra desanimar<br>
-(Rapazes) A minha esperança está no Senhor<br>
-</center>
+(Moças) Se a vida apresenta motivos pra desanimar
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-(Moças) Se as nuvens escuras não querem passar<br>
-(Rapazes) A minha esperança  está no Senhor <br>
-</center>
+(Rapazes) A minha esperança está no Senhor
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-(Moças) Se alguém que eu amo vier me ferir<br>
-(Rapazes) A minha esperança está no Senhor <br>
-</center>
+(Moças) Se as nuvens escuras não querem passar
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-(Moças) Se às vezes me esqueço de amar ou sorrir<br>
-(Rapazes) A minha esperança está no Senhor<br>
-</center>
+(Rapazes) A minha esperança  está no Senhor
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-(Todos) <br>
-Se existem motivos pra desanimar <br>
-Se as nuvens escuras espalham temor <br>
-</center>
+(Moças) Se alguém que eu amo vier me ferir
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-(Todos)<br>
-Preciso aprender a sorrir e cantar <br>
-A minha esperança está no Senhor <br>
-</center>
+(Rapazes) A minha esperança está no Senhor
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-(Rapazes) Eu quero erguer minha voz em louvor e cantar<br>
-(Moças) A minha esperança está no Senhor<br>
-</center>
+(Moças) Se às vezes me esqueço de amar ou sorrir
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-(Rapazes) De dia ou de noite em qualquer lugar<br>
-(Moças) A minha esperança está no Senhor<br>
-</center>
+(Rapazes) A minha esperança está no Senhor
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-(Rapazes) Em qualquer caminho por onde eu passar<br>
-(Moças) A minha esperança está no Senhor<br>
-</center>
+Se existem motivos pra desanimar
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-(Rapazes) Eu quero dizer: Vale a pena confiar<br>
-(Moças) A minha esperança está no Senhor<br>
-</center>
+Se as nuvens escuras espalham temor
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-(Todos)<br>
-Se existem motivos pra desanimar<br>
-Se as nuvens escuras espalham temor<br>
-Preciso aprender a sorrir e cantar<br>
-</center>
+Preciso aprender a sorrir e cantar
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-(Todos)<br>
-A minha esperança está no Senhor<br>
-</center>
+A minha esperança está no Senhor
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-(Rapazes) A minha (Moças) A minha<br>
-(Rapazes) Esperança (Moças) Esperança<br>
+(Rapazes) Eu quero erguer minha voz em louvor e cantar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+(Moças) A minha esperança está no Senhor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+(Rapazes) De dia ou de noite em qualquer lugar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+(Moças) A minha esperança está no Senhor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+(Rapazes) Em qualquer caminho por onde eu passar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+(Moças) A minha esperança está no Senhor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+(Rapazes) Eu quero dizer: Vale a pena confiar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+(Moças) A minha esperança está no Senhor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Se existem motivos pra desanimar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Se as nuvens escuras espalham temor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Preciso aprender a sorrir e cantar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A minha esperança está no Senhor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+(Rapazes) A minha (Moças) A minha <br>
+(Rapazes) Esperança (Moças) Esperança
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
 (Rapazes) Está (Moças) Está <br>
-(Rapazes) No Senhor (Moças) No Senhor<br>
+(Rapazes) No Senhor (Moças) No Senhor <br>
 (Todos) Está no Senhor
-</center>
