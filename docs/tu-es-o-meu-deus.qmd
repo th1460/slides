@@ -1,95 +1,168 @@
 ---
 title: "Tu és o meu Deus"
 title-slide-attributes:
-  data-background-image: mountains.jpg
+  data-background-image: landscape01.gif
   data-background-position: cover
-  data-background-opacity: "0.6"
 format: 
   revealjs:
-    theme: theme.scss
+    menu: false
+    theme: theme-sj.scss
     width: 1600
     height: 900
     footer: "#JOVENSCAHo"
-    fontsize: 80px
-    transition: slide
+    fontsize: 200px
     background-transition: fade
 self-contained: true
 ---
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="landscape01.gif" auto-animate=true}
 
-<center>
-A Tua graça me satisfaz <br>
-Tua presença restaura a paz <br>
-A Tua graça me satisfaz <br>
-Tua presença restaura a paz <br>
-</center>
+A Tua graça me satisfaz
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="landscape01.gif" auto-animate=true}
 
-<center>
-A Tua força me sustenta <br>
-És meu refúgio na tormenta <br>
-Por isso eu Te louvo <br>
-Tu és o meu Deus <br>
-</center>
+Tua presença restaura a paz
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="landscape01.gif" auto-animate=true}
 
-<center>
-Rei dos reis, meu Senhor <br>
-Pai eterno, Deus de amor <br>
-Eu te exalto, eu me entrego em Tuas mãos <br>
-Rei dos reis, Criador <br>
-Não há outro igual a Ti <br>
-Por isso eu Te louvo <br>
-Tu és o meu Deus <br>
-</center>
+A Tua graça me satisfaz
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="landscape01.gif" auto-animate=true}
 
-<center>
-A Tua graça me satisfaz <br>
-Tua presença restaura a paz <br>
-A Tua graça me satisfaz <br>
-Tua presença restaura a paz <br>
-<center>
+Tua presença restaura a paz
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="landscape01.gif" auto-animate=true}
 
-<center>
-A Tua força me sustenta <br>
-És meu refúgio na tormenta <br>
-Por isso eu Te louvo <br>
-Tu és o meu Deus <br>
-</center>
+A Tua força me sustenta
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="landscape01.gif" auto-animate=true}
 
-<center>
-Rei dos reis, meu Senhor <br>
-Pai eterno, Deus de amor <br>
-Eu Te exalto, eu me entrego em Tuas mãos <br>
-Rei dos reis, Criador <br>
-Não há outro igual a Ti <br>
-Por isso eu Te louvo <br>
-Tu és o meu Deus <br>
-</center>
+És meu refúgio na tormenta
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="landscape01.gif" auto-animate=true}
 
-<center>
-Rei dos reis, meu Senhor <br>
-Pai eterno, Deus de amor <br>
-Eu Te exalto, eu me entrego em Tuas mãos <br>
-Rei dos reis, Criador <br>
-Não há outro igual a Ti <br>
-Por isso eu Te louvo <br>
-Tu és o meu Deus <br>
-</center>
+Por isso eu Te louvo
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="landscape01.gif" auto-animate=true}
 
-<center>
 Tu és o meu Deus
-</center>
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Rei dos reis, meu Senhor
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Pai eterno, Deus de amor
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Eu te exalto, eu me entrego em Tuas mãos
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Rei dos reis, Criador
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Não há outro igual a Ti
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Por isso eu Te louvo
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Tu és o meu Deus
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+A Tua graça me satisfaz
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Tua presença restaura a paz
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+A Tua graça me satisfaz
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Tua presença restaura a paz
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+A Tua força me sustenta
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+És meu refúgio na tormenta
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Por isso eu Te louvo
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Tu és o meu Deus
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Rei dos reis, meu Senhor
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Pai eterno, Deus de amor
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Eu Te exalto, eu me entrego em Tuas mãos
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Rei dos reis, Criador
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Não há outro igual a Ti
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Por isso eu Te louvo
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Tu és o meu Deus
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Rei dos reis, meu Senhor
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Pai eterno, Deus de amor
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Eu Te exalto, eu me entrego em Tuas mãos
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Rei dos reis, Criador
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Não há outro igual a Ti
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Por isso eu Te louvo
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Tu és o meu Deus
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Tu és o meu Deus

@@ -1,0 +1,196 @@
+---
+title: "Vitória"
+title-slide-attributes:
+  data-background-image: sky2.jpeg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 200px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Vitória, vitória em nome de Jesus
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Vitória, vitória em nome de Jesus
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Ninguém sabe o que eu vivi
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Pra chegar até aqui
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+As batalhas que enfrentei
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+As que perdi, as que ganhei
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Eu jamais desistirei
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Pois eu sei quem é por mim
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Mesmo em meio a provação
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Eu sei, ainda não é o fim
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Eu ergo as mãos em louvor e adoração
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Eu olho para os montes de onde meu socorro vem
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Enquanto eu canto e adoro, os gigantes vou vencer
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Pois eu confio na promessa de quem tem todo poder
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Eu confio na promessa de quem tem todo poder
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Vitória, vitória em nome de Jesus
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Vitória, vitória em nome de Jesus
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Vitória, vitória em nome de Jesus
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Vitória, vitória em nome de Jesus
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Ninguém sabe o que eu passei
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+E quantas vezes tropecei
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Foi a mão do meu Senhor
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Que da morte me livrou
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Eu jamais esquecerei
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+O que a graça fez por mim
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Eu sei bem claro de onde vim
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+E também sei pra onde vou
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Eu ergo as mãos em louvor e adoração
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Eu olho para os montes de onde meu socorro vem
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Enquanto eu canto e adoro, os gigantes vou vencer
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Pois eu confio na promessa de quem tem todo poder
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Eu confio na promessa de quem tem todo poder
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Vitória, vitória em nome de Jesus
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Vitória, vitória em nome de Jesus
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Vitória, vitória em nome de Jesus
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Vitória, vitória em nome de Jesus
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Eu ergo as mãos em louvor e adoração
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Eu olho para os montes de onde meu socorro vem
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Enquanto eu canto e adoro, os gigantes vou vencer
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Pois eu confio na promessa de quem tem todo poder
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Eu confio na promessa de quem tem todo poder
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Vitória, vitória em nome de Jesus
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Vitória, vitória em nome de Jesus
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Vitória, vitória em nome de Jesus
+
+# {background-image="sky2.jpeg" auto-animate=true}
+
+Vitória, vitória em nome de Jesus
