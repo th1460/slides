@@ -1,0 +1,190 @@
+---
+title: "Meu Lugar no Mundo"
+title-slide-attributes:
+  data-background-image: sunrise.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 150px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Fui alcançado por Teu amor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sou testemunha por onde for
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Em cada rua cada nação
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Levo Tua graça, Tua salvação
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ôh Ôh Ôh Ôh Ôh <br>
+Ôh Ôh Ôh Ôh Ôh <br>
+Ôh Ôh Ôh Ôh Ôh Ôh
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Onde houver trevas quero chegar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Com a palavra pra libertar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Onde houver ódio que eu leve amor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Vivendo sempre pra Ti Senhor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O meu lugar no mundo é Te anunciar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+É ser o sal da terra, Teu nome exaltar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Tu és a minha vida, minha inspiração
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Te revelar ao mundo é minha missão
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ôh Ôh Ôh Ôh Ôh <br>
+Ôh Ôh Ôh Ôh Ôh <br>
+Ôh Ôh Ôh Ôh Ôh Ôh
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Fui alcançado por Teu amor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sou testemunha por onde for
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Em cada rua cada nação
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Levo Tua graça, Tua salvação
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ôh Ôh Ôh Ôh Ôh <br>
+Ôh Ôh Ôh Ôh Ôh <br>
+Ôh Ôh Ôh Ôh Ôh Ôh
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Onde houver trevas <br>
+Onde houver trevas
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Quero chegar <br>
+Quero chegar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Com a palavra <br>
+Com a palavra
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Pra libertar <br>
+Pra libertar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Onde houver ódio <br>
+Onde houver ódio
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Que eu leve amor <br>
+Que eu leve amor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Vivendo sempre pra Ti Senhor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O meu lugar no mundo é Te anunciar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+É ser o sal da terra, Teu nome exaltar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Tu és a minha vida, minha inspiração
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Te revelar ao mundo é minha missão
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Maranata, Maranata muito em breve Jesus voltará
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O meu lugar no mundo é Te anunciar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+É ser o sal da terra, Teu nome exaltar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Tu és a minha vida, minha inspiração
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Te revelar ao mundo é minha missão
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O meu lugar no mundo é Te anunciar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+É ser o sal da terra, Teu nome exaltar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Tu és a minha vida, minha inspiração
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Te revelar ao mundo é minha missão
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ôh Ôh Ôh Ôh Ôh <br>
+Ôh Ôh Ôh Ôh Ôh <br>
+Ôh Ôh Ôh Ôh Ôh Ôh
