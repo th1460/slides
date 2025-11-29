@@ -1,115 +1,168 @@
 ---
-title: "Enquanto eu Viver"
+title: "Enquanto eu viver"
 title-slide-attributes:
-  data-background-image: parede.png
+  data-background-image: sunrise.jpg
   data-background-position: cover
-  data-background-opacity: "1"
 format: 
   revealjs:
-    theme: theme-dj.scss
+    menu: false
+    theme: theme-sj.scss
     width: 1600
     height: 900
-    footer: "#JOVENSCAHo #DIA MUNDIAL DO JOVEM ADVENTISTA"
-    fontsize: 140px
-    transition: slide
+    footer: "#JOVENSCAHo"
+    fontsize: 200px
     background-transition: fade
 self-contained: true
 ---
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Enquanto eu viver, Teu nome louvarei <br>
-Nada me impedirá de sempre O adorar, Senhor <br>
-</center>
+Enquanto eu viver, Teu nome louvarei
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Os meus lábios dirão que Tu és Senhor <br>
-O mundo verá Teu poder <br>
-</center>
+Nada me impedirá de sempre O adorar, Senhor 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Céus e terra irão Te adorar meu Deus <br>
-Teu nome exaltará <br>
-</center>
+Os meus lábios dirão que Tu és Senhor 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Sejas louvado Senhor e meu Deus <br>
-Tu és a glória e Teu é o poder <br>
-Não haverá outro Rei, outro Deus <br>
-Com tanto amor, Deus vencedor <br>
-</center>
+O mundo verá Teu poder 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Meu Senhor e meu Rei <br>
-O Deus que sempre me salvará <br>
-O Deus que sabe quem sou <br>
-Ele sempre me amará <br>
-</center>
+Céus e terra irão Te adorar meu Deus 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Tu és o Salvador, Teu sempre é o louvor <br>
-Meus lábios cantarão em Teu louvor Salvador <br>
-As vitórias que eu alcançar aqui <br>
-</center>
+Teu nome exaltará 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Irão me lembrar quem Tu és <br>
-Pois vitória sem Ti não existirão <br>
-És o Deus que jamais perderá <br>
-</center>
+Sejas louvado Senhor e meu Deus 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Sejas louvado Senhor e meu Deus <br>
-Tu és a glória e Teu é o poder <br>
-Não haverá outro Rei, outro Deus <br>
-Com tanto amor, Deus vencedor <br>
-</center>
+Tu és a glória e Teu é o poder 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Meu Senhor e meu Rei <br>
-O Deus que sempre me salvará <br>
-O Deus que sabe quem sou <br>
-Ele sempre me amará <br>
-</center>
+Não haverá outro Rei, outro Deus 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Sejas louvado Senhor e meu Deus <br>
-Tu és a glória e Teu é o poder <br>
-Não haverá outro Rei, outro Deus <br>
-Com tanto amor, Deus vencedor <br>
-</center>
+Com tanto amor, Deus vencedor 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Meu Senhor e meu Rei <br>
-O Deus que sempre me salvará <br>
-O Deus que sabe quem sou <br>
-Ele sempre me amará <br>
-</center>
+Meu Senhor e meu Rei 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-O Deus que sabe quem sou <br>
-Ele sempre me amará <br>
-</center>
+O Deus que sempre me salvará 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O Deus que sabe quem sou 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ele sempre me amará 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Tu és o Salvador, Teu sempre é o louvor 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Meus lábios cantarão em Teu louvor Salvador 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+As vitórias que eu alcançar aqui 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Irão me lembrar quem Tu és 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Pois vitória sem Ti não existirão 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+És o Deus que jamais perderá 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sejas louvado Senhor e meu Deus 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Tu és a glória e Teu é o poder 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Não haverá outro Rei, outro Deus 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Com tanto amor, Deus vencedor 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Meu Senhor e meu Rei 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O Deus que sempre me salvará 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O Deus que sabe quem sou 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ele sempre me amará 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sejas louvado Senhor e meu Deus 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Tu és a glória e Teu é o poder 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Não haverá outro Rei, outro Deus 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Com tanto amor, Deus vencedor 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Meu Senhor e meu Rei 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O Deus que sempre me salvará 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O Deus que sabe quem sou 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ele sempre me amará 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O Deus que sabe quem sou 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ele sempre me amará 

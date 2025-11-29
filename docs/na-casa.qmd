@@ -1,147 +1,236 @@
 ---
-title: "Na casa"
+title: "Na Casa"
 title-slide-attributes:
-  data-background-image: parede.png
+  data-background-image: sunrise.jpg
   data-background-position: cover
-  data-background-opacity: "1"
 format: 
   revealjs:
-    theme: theme-dj.scss
+    menu: false
+    theme: theme-sj.scss
     width: 1600
     height: 900
-    footer: "#JOVENSCAHo #DOMINGJOVEM"
-    fontsize: 150px
-    transition: slide
+    footer: "#JOVENSCAHo"
+    fontsize: 200px
     background-transition: fade
 self-contained: true
 ---
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Fui convidado à mesa <br>
-Larguei minhas defesas <br>
-E vim reconhecer <br>
-Não merecia estar aqui <br>
-</center>
+Fui convidado à mesa 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Comigo eu trouxe amigos <br>
-Felizes ou feridos <br>
-Gente que escutou <br>
-Esse chamado e aceitou <br>
-</center>
+Larguei minhas defesas 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-E é tão bom saber que há lugar aqui <br>
-A graça nos chamou à mesa do senhor <br>
-</center>
+E vim reconhecer 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Há lugar na casa <br>
-Há perdão na casa <br>
-Quando estamos juntos <br>
-Nosso encontro é casa de Deus pai <br>
-</center>
+Não merecia estar aqui 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Há esperança na casa <br>
-Recomeço na casa <br>
-Reunidos nele <br>
-Nosso encontro é casa de Deus pai <br>
-De Deus Pai, De Deus Pai <br>
-</center>
+Comigo eu trouxe amigos 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-O som da sua palavra <br>
-Curou a nossa alma <br>
-O Verbo nos amou <br>
-Da solidão nos resgatou <br>
-</center>
+Felizes ou feridos 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-E é tão bom saber que há lugar aqui <br>
-A graça nos chamou à mesa do senhor <br>
-</center>
+Gente que escutou 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Há lugar na casa <br>
-Há perdão na casa <br>
-Quando estamos juntos <br>
-Nosso encontro é casa de Deus pai <br>
-</center>
+Esse chamado e aceitou 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Há esperança na casa <br>
-Recomeço na casa <br>
-Reunidos nele <br>
-Nosso encontro é casa de Deus pai <br>
-</center>
+E é tão bom saber que há lugar aqui 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Há lugar na casa <br>
-Há perdão na casa <br>
-Quando estamos juntos <br>
-Nosso encontro é casa de Deus pai <br>
-</center>
+A graça nos chamou à mesa do senhor 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Há esperança na casa <br>
-Recomeço na casa <br>
-Reunidos nele <br>
-Nosso encontro é casa de Deus pai <br>
-</center>
+Há lugar na casa 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-De Deus pai, De Deus pai <br>
-Do meu pai, Do teu pai <br>
-Do nosso pai <br>
-</center>
+Há perdão na casa 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Há lugar na casa <br>
-Há perdão na casa <br>
-Quando estamos juntos <br>
-Nosso encontro é casa de Deus pai <br>
-</center>
+Quando estamos juntos 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Há esperança na casa <br>
-Recomeço na casa <br>
-Reunidos nele <br>
-Nosso encontro é casa de Deus pai <br>
-</center>
+Nosso encontro é casa de Deus pai 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-De Deus pai, De Deus pai <br>
-Do meu pai, Do teu pai <br>
-Do nosso pai <br>
-</center>
+Há esperança na casa 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Recomeço na casa 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Reunidos nele 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Nosso encontro é casa de Deus pai 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+De Deus Pai, De Deus Pai 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O som da sua palavra 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Curou a nossa alma 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O Verbo nos amou 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Da solidão nos resgatou 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E é tão bom saber que há lugar aqui 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A graça nos chamou à mesa do senhor 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Há lugar na casa 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Há perdão na casa 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Quando estamos juntos 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Nosso encontro é casa de Deus pai 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Há esperança na casa 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Recomeço na casa 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Reunidos nele 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Nosso encontro é casa de Deus pai 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Há lugar na casa 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Há perdão na casa 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Quando estamos juntos 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Nosso encontro é casa de Deus pai 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Há esperança na casa 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Recomeço na casa 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Reunidos nele 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Nosso encontro é casa de Deus pai 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+De Deus pai, De Deus pai 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Do meu pai, Do teu pai 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Do nosso pai 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Há lugar na casa 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Há perdão na casa 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Quando estamos juntos 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Nosso encontro é casa de Deus pai 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Há esperança na casa 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Recomeço na casa 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Reunidos nele 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Nosso encontro é casa de Deus pai 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+De Deus pai, De Deus pai 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Do meu pai, Do teu pai 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Do nosso pai 
