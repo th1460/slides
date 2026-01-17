@@ -1,0 +1,176 @@
+---
+title: "Levanto a Cruz"
+title-slide-attributes:
+  data-background-image: landscape01.gif
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 200px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Levanto a cruz
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+A cruz de Jesus
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Proclamo seu nome
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Para que toda terra conheça o Pai
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Me prosto aos teus pés
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Cristo um dia se fez homem
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Vencendo a morte com poder
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+E com seus braços estendidos
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Sobre uma cruz nos deu vida outra vez
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Rei vitorioso
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Cristo Jesus
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Filho de Deus nós estamos aqui
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Não por direito ou mérito algum
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Na cruz nos somos resgatados
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Levanto a cruz
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+A cruz de Jesus
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Proclamo seu nome
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Para que toda terra conheça o Pai
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Me prosto aos teus pés
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Cristo um dia se fez homem
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Vencendo a morte com poder
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+E com seus braços estendidos
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Sobre uma cruz nos deu vida outra vez
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Rei vitorioso
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Cristo Jesus
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Filho de Deus nós estamos aqui
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Não por direito ou mérito algum
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Na cruz nos somos resgatados
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Rei vitorioso
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Cristo Jesus
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Filho de Deus nós estamos aqui
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Não por direito nem mérito algum
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Na cruz nos somos resgatados
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Santo, Santo, Santo Deus
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Santo, Santo, Santo Deus
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Santo, Santo, Santo Deus
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Santo, Santo, Santo Deus
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Levanto a cruz
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+A cruz de Jesus
+
+# {background-image="landscape01.gif" auto-animate=true}
+
+Proclamo Seu nome
