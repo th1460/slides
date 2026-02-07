@@ -1,0 +1,160 @@
+---
+title: "Mi Pastor"
+title-slide-attributes:
+  data-background-image: sunrise.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 150px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Contigo ando muy seguro
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+El mal alejas con amor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Soy una oveja y procuro
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Los cuidados del Pastor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Y si yo ando en el valle de sombra y de muerte
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Por el valle de sombra y de muerte, no temeré ningún mal
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Pues sé que donde yo esté tu bondad me seguirá
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Donde esté tu bondad me seguirá, tu bendición me darás
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Mi Pastor me lleva a lugares altos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Agua limpia beberé
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Y en pastos verdes descansaré
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+La jornada seguiré, con Él
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Contigo ando muy seguro
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+El mal alejas con amor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Soy una oveja y procuro
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Los cuidados del Pastor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Y si yo ando en el valle de sombra y de muerte
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Por el valle de sombra y de muerte, no temeré ningún mal
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Pues sé que donde yo esté tu bondad me seguirá
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Donde esté tu bondad me seguirá, tu bendición me darás
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Mi Pastor me lleva a lugares altos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Agua limpia beberé
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Y en pastos verdes descansaré
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+La jornada seguiré
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Y si yo ando en el valle de sombra y de muerte
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Por el valle de sombra y de muerte, no temeré ningún mal
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Pues sé que donde yo esté tu bondad me seguirá
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Donde esté tu bondad me seguirá, tu bendición me darás
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Mi Pastor me lleva a lugares altos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Agua limpia beberé
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Y en pastos verdes descansaré
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+La jornada seguiré
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Mi Pastor me lleva a lugares altos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Agua limpia beberé
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Y en pastos verdes descansaré
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+La jornada seguiré, con Él, con Él

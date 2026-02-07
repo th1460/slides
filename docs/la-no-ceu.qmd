@@ -1,0 +1,128 @@
+---
+title: "Lá no Céu"
+title-slide-attributes:
+  data-background-image: sunset.gif
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 200px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Eu almejo o dia
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Em que entrarei em Jerusalém
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Lá não haverá noite
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Só a luz que vem do trono de Deus
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Eis que todas as coisas
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Serão novas lá em Jerusalém
+
+# {background-image="sunset.gif" auto-animate=true}
+
+E não mais terei sede
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Pois da Água Viva eu beberei
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Lá no céu não haverá mais lágrimas
+
+# {background-image="sunset.gif" auto-animate=true}
+
+E a morte já não mais existirá
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Lá não haverá o pranto e a dor
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Lá, enfim, verei a glória de meu Deus
+
+# {background-image="sunset.gif" auto-animate=true}
+
+É preciso ser puro
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Para entrar na santa Jerusalém
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Ter as vestes lavadas
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Pelo sangue do Cordeiro de Deus
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Eis que logo Ele vem
+
+# {background-image="sunset.gif" auto-animate=true}
+
+E a recompensa Ele trará
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Estarei face a face
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Com o eterno Deus de Israel
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Lá no céu não haverá mais lágrimas
+
+# {background-image="sunset.gif" auto-animate=true}
+
+E a morte já não mais existirá
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Lá não haverá o pranto e a dor
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Lá, enfim, verei a glória de meu Deus
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Lá no céu não haverá mais lágrimas
+
+# {background-image="sunset.gif" auto-animate=true}
+
+E a morte já não mais existirá
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Lá não haverá o pranto e a dor
+
+# {background-image="sunset.gif" auto-animate=true}
+
+Lá, enfim, verei a glória de meu Deus
