@@ -1,0 +1,128 @@
+---
+title: "Não Há o Que Temer"
+title-slide-attributes:
+  data-background-image: sunrise.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 200px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Eu sou o Senhor, Rei de Israel
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Santo Redentor, começo e o fim
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sou o Criador, o verdadeiro Deus
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Eu sou a cura, sou o Poder
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Eu sou o amém, estrela da manhã
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Eu morri na cruz, trouxe salvação
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Conheço a tua dor, ouço o teu clamor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E minha destra não falhará
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Não há o que temer
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Contigo eu estou
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Não te assombres
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Porque eu sou o teu Deus
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Te fortalecerei, te sustentarei
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Com minha mão eu serei fiel
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Eu sou o Senhor, Rei de Israel
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Santo Redentor, começo e o fim
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sou o Criador, o verdadeiro Deus
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Eu sou a cura, sou o Poder
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Eu sou o amém, estrela da manhã
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Eu morri na cruz, trouxe salvação
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Conheço a tua dor, ouço o teu clamor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E minha destra não falhará
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Não há o que temer
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Contigo eu estou
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Não te assombres
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Porque eu sou o teu Deus
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Te fortalecerei, te sustentarei
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Com minha mão eu serei fiel

@@ -9,7 +9,7 @@ format:
     theme: theme-sj.scss
     width: 1600
     height: 900
-    footer: "#JOVENSCAHo #SEMANA JOVEM"
+    footer: "#JOVENSCAHo"
     fontsize: 200px
     background-transition: fade
 self-contained: true
@@ -17,120 +17,80 @@ self-contained: true
 
 # {background-image="sky.jpg" auto-animate=true}
 
-<center>
 Aquele que em Suas mãos detêm a força e todo o poder
-</center>
 
 # {background-image="sky.jpg" auto-animate=true}
 
-<center>
 Aquele que promete a vida eterna a todo o que nele crê
-</center>
 
 # {background-image="sky.jpg" auto-animate=true}
 
-<center>
 É Ele quem nos guarda e que operando, quem impedirá?
-</center>
 
 # {background-image="sky.jpg" auto-animate=true}
 
-<center>
 Ao guarda de Israel clamamos: Ouça nossa voz aqui
-</center>
 
 # {background-image="sky.jpg" auto-animate=true}
 
-<center>
 Reine em nós, venha a nós Seu reino
-</center>
 
 # {background-image="sky.jpg" auto-animate=true}
 
-<center>
 Reine em nós, venha a nós Sua glória, Deus
-</center>
 
 # {background-image="sky.jpg" auto-animate=true}
 
-<center>
 Seja o centro, seja tudo a todos nós
-</center>
 
 # {background-image="sky.jpg" auto-animate=true}
 
-<center>
 Seja o centro, seja tudo a todos nós
-</center>
 
 # {background-image="sky.jpg" auto-animate=true}
 
-<center>
 Aquele que em Suas mãos detêm a força e todo o poder
-</center>
 
 # {background-image="sky.jpg" auto-animate=true}
 
-<center>
 Aquele que promete a vida eterna a todo o que nele crê
-</center>
 
 # {background-image="sky.jpg" auto-animate=true}
 
-<center>
 É Ele quem nos guarda e que operando, quem impedirá?
-</center>
 
 # {background-image="sky.jpg" auto-animate=true}
 
-<center>
 Ao guarda de Israel clamamos: Ouça nossa voz aqui
-</center>
 
 # {background-image="sky.jpg" auto-animate=true}
 
-<center>
 Reine em nós, venha a nós Seu reino
-</center>
 
 # {background-image="sky.jpg" auto-animate=true}
 
-<center>
 Reine em nós, venha a nós Sua glória, Deus
-</center>
 
 # {background-image="sky.jpg" auto-animate=true}
 
-<center>
 Seja o centro, seja tudo a todos nós
-</center>
 
 # {background-image="sky.jpg" auto-animate=true}
 
-<center>
 Seja o centro, seja tudo a todos nós
-</center>
 
 # {background-image="sky.jpg" auto-animate=true}
 
-<center>
 Reine em nós, venha a nós Seu reino
-</center>
 
 # {background-image="sky.jpg" auto-animate=true}
 
-<center>
 Reine em nós, venha a nós Sua glória, Deus
-</center>
 
 # {background-image="sky.jpg" auto-animate=true}
 
-<center>
 Seja o centro, seja tudo a todos nós
-</center>
 
 # {background-image="sky.jpg" auto-animate=true}
 
-<center>
 Seja o centro, seja tudo a todos nós
-</center>
