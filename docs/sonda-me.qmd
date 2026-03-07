@@ -1,0 +1,250 @@
+---
+title: "Sonda-me"
+title-slide-attributes:
+  data-background-image: sunrise.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 200px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Senhor, Tu me sondas
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E me conheces
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sabes quando me assento
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sabes quando me levanto
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Esquadrinhas meu andar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E o meu deitar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Conheces meus caminhos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Conheces meus caminhos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ainda a palavra
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Não me chegou à boca
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E Tu já a conheces toda
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Com teu poder me cercas
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Por trás e por diante
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E sobre mim pões Tua mão
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E sobre mim pões Tua mão
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sonda-me, ó Deus
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sonda-me, ó Deus
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Conhece o meu coração
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Prova-me os pensamentos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Vê se há em mim algum caminho mal
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E guia-me
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Pra onde me ausentarei
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Do Teu Espírito
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Pra onde fugirei eu da Tua face
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Se subo aos céus (se subo aos céus)
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ou vou mais profundo
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Tu também estás lá
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Tu também estás lá
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Se eu tomar as asas
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Asas da alvorada
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Pra habitar além do mar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ali Tua mão vai me guiar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Teus olhos me encontraram
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+No ventre ainda informe
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Meus dias no Teu livro
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ali já foram escritos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sonda-me, ó Deus
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sonda-me, ó Deus
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Conhece o meu coração
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Prova-me os pensamentos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Vê se há em mim algum caminho mal
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E guia-me
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sonda-me, ó Deus
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sonda-me, ó Deus
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Conhece o meu coração
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Prova-me os pensamentos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Vê se há em mim algum caminho mal
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E guia-me
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Conhece o meu coração
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Prova-me os pensamentos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Vê se há em mim algum caminho mal
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E guia-me
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sonda-me, ó Deus
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sonda-me, ó Deus
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Conhece o meu coração
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Prova-me os pensamentos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Vê se há em mim algum caminho mal
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E guia-me
+
+

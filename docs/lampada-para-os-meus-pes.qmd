@@ -1,0 +1,112 @@
+---
+title: "Lâmpada Para Os Meus Pés"
+title-slide-attributes:
+  data-background-image: sunrise.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 180px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Desvenda os meus olhos pra que eu possa contemplar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+As maravilhas de tua lei.
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Como são felizes os que seguem
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Os seus mandamentos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Guardo no coração, as tuas palavras,
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Pra não pecar contra ti.
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Lâmpada para os meus pés é a tua palavra,
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E luz pro meu caminho.
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Lâmpada para os meus pés é a tua palavra,
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Não ando sem destino.
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Desvenda os meus olhos pra que eu possa contemplar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+As maravilhas de tua lei.
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Como são felizes os que seguem
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Os seus mandamentos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Guardo no coração, as tuas palavras,
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Pra não pecar contra ti.
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Lâmpada para os meus pés é a tua palavra,
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E luz pro meu caminho.
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Lâmpada para os meus pés é a tua palavra,
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Não ando sem destino.
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Lâmpada para os meus pés é a tua palavra,
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E luz pro meu caminho.
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Lâmpada para os meus pés é a tua palavra,
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Não ando sem destino.
