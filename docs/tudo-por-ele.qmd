@@ -1,92 +1,158 @@
 ---
 title: "Tudo por Ele"
 title-slide-attributes:
-  data-background-image: mountains.jpg
+  data-background-image: sunrise.jpg
   data-background-position: cover
-  data-background-opacity: "0.6"
 format: 
   revealjs:
-    theme: theme.scss
+    menu: false
+    theme: theme-sj.scss
     width: 1600
     height: 900
     footer: "#JOVENSCAHo"
-    fontsize: 80px
-    transition: slide
+    fontsize: 200px
     background-transition: fade
 self-contained: true
 ---
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Os Céus proclamam as obras do Eterno <br>
-Galáxias cantam de Sua imensidão <br>
-E uma voz com sons de glória <br>
-Ecoa em toda a criação <br>
-</center>
+Os Céus proclamam as obras do Eterno
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Do grão que faz a vida irromper <br>
-O esplendor, o invisível faz nascer <br>
-E uma voz com sons de glória <br>
-Ecoa em nosso coração <br>
-</center>
+Galáxias cantam de Sua imensidão
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Diante dEle nos rendemos <br>
-É tudo por Ele, tudo por Ele <br>
-A Ele, a glória e para sempre <br>
-É tudo por Ele, tudo por Ele <br>
-</center>
+E uma voz com sons de glória
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Em oração e na Palavra seguiremos <br>
-Em um só corpo rendido à missão <br>
-E nossa voz com sons de glória <br>
-Irá romper a escuridão <br>
-</center>
+Ecoa em toda a criação
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Diante dEle nos rendemos <br>
-Tudo por Ele, tudo por Ele <br>
-A Ele, a glória e para sempre <br>
-É tudo por Ele, tudo por Ele <br>
-</center>
+Do grão que faz a vida irromper
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-A Ele, a honra, a glória e o louvor <br>
-Que o reino seja em nós <br>
-E nossa vida só por Ele <br>
-A Ele, a honra, a glória e o louvor <br>
-Que o reino seja em nós <br>
-E nossa vida só por Ele <br>
-</center>
+O esplendor, o invisível faz nascer
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Diante dEle nos rendemos <br>
-É tudo por Ele, tudo por Ele <br>
-A Ele, a glória e para sempre <br>
-É tudo por Ele, tudo por Ele <br>
-<center>
+E uma voz com sons de glória
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-A Ele, a glória e para sempre <br>
-É tudo por Ele, tudo por Ele <br>
-A Ele, a honra, a glória e o louvor <br>
-Que o reino seja em nós <br>
-E nossa vida só por Ele <br>
-</center>
+Ecoa em nosso coração
+
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Diante dEle nos rendemos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+É tudo por Ele, tudo por Ele
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A Ele, a glória e para sempre
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+É tudo por Ele, tudo por Ele
+
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Em oração e na Palavra seguiremos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Em um só corpo rendido à missão
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E nossa voz com sons de glória
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Irá romper a escuridão
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Diante dEle nos rendemos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Tudo por Ele, tudo por Ele
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A Ele, a glória e para sempre
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+É tudo por Ele, tudo por Ele
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A Ele, a honra, a glória e o louvor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Que o reino seja em nós
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E nossa vida só por Ele
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A Ele, a honra, a glória e o louvor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Que o reino seja em nós
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E nossa vida só por Ele
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Diante dEle nos rendemos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+É tudo por Ele, tudo por Ele
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A Ele, a glória e para sempre
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+É tudo por Ele, tudo por Ele
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A Ele, a glória e para sempre
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+É tudo por Ele, tudo por Ele
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A Ele, a honra, a glória e o louvor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Que o reino seja em nós
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E nossa vida só por Ele

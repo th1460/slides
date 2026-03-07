@@ -1,91 +1,152 @@
 ---
-title: "Maior que tudo"
+title: "Maior que Tudo"
 title-slide-attributes:
-  data-background-image: parede.png
+  data-background-image: sunrise.jpg
   data-background-position: cover
-  data-background-opacity: "1"
 format: 
   revealjs:
-    theme: theme-dj.scss
+    menu: false
+    theme: theme-sj.scss
     width: 1600
     height: 900
-    footer: "#JOVENSCAHo #DOMINGJOVEM"
-    fontsize: 120px
-    transition: slide
+    footer: "#JOVENSCAHo"
+    fontsize: 200px
     background-transition: fade
 self-contained: true
 ---
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Maior que forças, maior que reis <br>
-Que a natureza e tudo que se fez <br>
-Maior que coisas que o homem inventar <br>
-No princípio Deus estava lá <br>
-</center>
+Maior que forças, maior que reis 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Maior que reinos e posições <br>
-Que as maravilhas de todas as nações <br>
-Maior que bens e o ouro que existir <br>
-Seu amor não pode se medir <br>
-</center>
+Que a natureza e tudo que se fez 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Mas na cruz, por amor de mim <br>
-Morreu Jesus, sozinho até o fim <br>
-Mesmo assim, em humilhação <br>
-Morrendo só pensando em mim <br>
-Foi maior <br>
-</center>
+Maior que coisas que o homem inventar 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Maior que forças, maior que reis <br>
-Que a natureza e tudo que se fez <br>
-Maior que coisas que o homem inventar <br>
-No princípio Deus estava lá <br>
-</center>
+No princípio Deus estava lá 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Maior que reinos e posições <br>
-Que as maravilhas de todas as nações <br>
-Maior que bens e o ouro que existir <br>
-Seu amor não pode se medir! <br>
-</center>
+Maior que reinos e posições 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Mas na cruz, por amor de mim <br>
-Morreu Jesus, sozinho até o fim <br>
-Mesmo assim, em humilhação <br>
-Morrendo só pensando em mim <br>
-Foi maior <br>
-</center>
+Que as maravilhas de todas as nações 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Mas na cruz, por amor de mim <br>
-Morreu Jesus, sozinho até o fim <br>
-Mesmo assim, em humilhação <br>
-Morrendo só pensando em mim <br>
-Foi maior <br>
-</center>
+Maior que bens e o ouro que existir 
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Mesmo assim, em humilhação <br>
-Morrendo só pensando em mim <br>
-Foi maior <br>
-</center>
+Seu amor não pode se medir 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Mas na cruz, por amor de mim 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Morreu Jesus, sozinho até o fim 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Mesmo assim, em humilhação 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Morrendo só pensando em mim 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Foi maior 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Maior que forças, maior que reis 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Que a natureza e tudo que se fez 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Maior que coisas que o homem inventar 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+No princípio Deus estava lá 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Maior que reinos e posições 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Que as maravilhas de todas as nações 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Maior que bens e o ouro que existir 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Seu amor não pode se medir! 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Mas na cruz, por amor de mim 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Morreu Jesus, sozinho até o fim 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Mesmo assim, em humilhação 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Morrendo só pensando em mim 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Foi maior 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Mas na cruz, por amor de mim 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Morreu Jesus, sozinho até o fim 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Mesmo assim, em humilhação 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Morrendo só pensando em mim 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Foi maior 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Mesmo assim, em humilhação 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Morrendo só pensando em mim 
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Foi maior 

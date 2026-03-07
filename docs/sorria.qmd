@@ -1,0 +1,132 @@
+---
+title: "Sorria"
+title-slide-attributes:
+  data-background-image: sunrise.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 200px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Se na vida falta um sorriso
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+É porque você não cantou
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Pois quando juntos cantamos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A alegria tira a dor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Se os problemas são infinitos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E não há razão pra cantar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Olhe a Cristo e sua vida vai mudar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Então sorria
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Partilhando esta alegria
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E assim transmita
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Muita força, muita união
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Se os problemas são infinitos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E não há razão pra cantar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Olhe a Cristo e sua vida vai mudar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Se os amigos vivem tão tristes
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Você deve sempre cantar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Pois quando juntos cantamos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A alegria vai começar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E sentimos que fomos feitos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Pra sorrir e sempre amar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Tenha sempre um sorriso para dar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Então sorria
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Partilhando esta alegria
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E assim transmita
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Muita força, muita união
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Se os problemas são infinitos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E não há razão pra cantar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Olhe a Cristo e sua vida vai mudar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Olhe a Cristo e sua vida vai mudar
