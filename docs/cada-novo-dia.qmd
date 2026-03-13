@@ -1,0 +1,144 @@
+---
+title: "Cada Novo Dia"
+title-slide-attributes:
+  data-background-image: sunrise.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 200px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+É tão bom acordar e sentir o calor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Como é bom levantar, ter na voz o louvor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+É tão bom perceber que o Sol já brilhou
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sou feliz com Jesus, minha vida mudou
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Deus ama cantar, Ele ama compor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Cada nota um som, todas têm seu valor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O compasso da fé só existe canção
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Se Jesus estiver dentro do coração
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Cada novo dia, cada nova manhã
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Com minha vida vou louvar ao Senhor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Cada novo dia, sinto Seu amor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O Autor da existência
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Poeta da história
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ele é meu Criador
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A pausa é um espaço, uma ausência de som
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Se sua voz silencia, não perca o tom
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A canção de sua vida não é sem valor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Tenha fé no Maestro, erga a voz em louvor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Se te falta harmonia na canção do viver
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O Autor de sua vida quer reger o seu ser
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E nas horas de dor não precisa chorar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+É Jesus que nos guia, é só confiar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Cada novo dia, cada nova manhã
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Com minha vida vou louvar ao Senhor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Cada novo dia, sinto Seu amor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O Autor da existência
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Poeta da história
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ele é meu Criador
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O Autor da existência
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Poeta da história
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ele é meu Criador
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ele é meu Criador

@@ -1,65 +1,108 @@
 ---
 title: "Mensageiro"
 title-slide-attributes:
-  data-background-image: mountains.jpg
+  data-background-image: sunrise.jpg
   data-background-position: cover
-  data-background-opacity: "0.6"
 format: 
   revealjs:
-    theme: theme.scss
+    menu: false
+    theme: theme-sj.scss
     width: 1600
     height: 900
     footer: "#JOVENSCAHo"
-    fontsize: 80px
-    transition: slide
+    fontsize: 200px
     background-transition: fade
 self-contained: true
 ---
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Tem dias que nem sei dizer <br>
-Não tenho motivação <br>
-Eu sinto em mim uma dor sem fim <br>
-Não sei dizer a razão <br>
-</center>
+Tem dias que nem sei dizer
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Consigo ainda Jesus buscar <br>
-Os meus joelhos dobrar e orar <br>
-Perante Deus, me inclinar, chorar <br>
-E abrir o meu coração <br>
-E abrir o meu coração <br>
-</center>
+Não tenho motivação
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Já posso ver o sol brilhar <br>
-O vento a paz vem soprar <br>
-Sem hesitar, irei sair <br>
-De meu Jesus vou falar <br>
-</center>
+Eu sinto em mim uma dor sem fim
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Sou mensageiro do Rei Senhor <br>
-Sou testemunha do Seu amor <br>
-Ao mundo inteiro vou proclamar <br>
-Que Jesus vai aqui voltar <br>
-Que Jesus vai aqui voltar <br>
-</center>
+Não sei dizer a razão
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Sou mensageiro do Rei Senhor <br>
-Sou testemunha do Seu amor <br>
-Ao mundo inteiro vou proclamar <br>
-Que Jesus vai aqui voltar <br>
-Que Jesus vai aqui voltar <br>
-</center>
+Consigo ainda Jesus buscar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Os meus joelhos dobrar e orar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Perante Deus, me inclinar, chorar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E abrir o meu coração
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E abrir o meu coração
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Já posso ver o sol brilhar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O vento a paz vem soprar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sem hesitar, irei sair
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+De meu Jesus vou falar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sou mensageiro do Rei Senhor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sou testemunha do Seu amor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ao mundo inteiro vou proclamar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Que Jesus vai aqui voltar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Que Jesus vai aqui voltar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sou mensageiro do Rei Senhor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sou testemunha do Seu amor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ao mundo inteiro vou proclamar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Que Jesus vai aqui voltar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Que Jesus vai aqui voltar
