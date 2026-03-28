@@ -1,0 +1,192 @@
+---
+title: "O Meu Lugar no Mundo"
+title-slide-attributes:
+  data-background-image: sunrise.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 200px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Fui alcançado por Teu amor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sou testemunha por onde for
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Em cada rua, cada nação
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Levo Tua graça, Tua salvação
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Oh-oh-oh-oh-oh-oh <br>
+Oh-oh-oh-oh-oh <br>
+Oh-oh-oh-oh-oh-oh <br>
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Onde houver trevas, quero chegar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Com a Palavra, pra libertar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Onde houver ódio, que eu leve amor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Vivendo sempre pra Ti, Senhor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O meu lugar no mundo é Te anunciar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+É ser o sal da terra, Teu nome exaltar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Tu és a minha vida, minha inspiração
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Te revelar ao mundo é minha missão
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Oh-oh-oh-oh-oh-oh <br>
+Oh-oh-oh-oh-oh <br>
+Oh-oh-oh-oh-oh-oh <br>
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Fui alcançado por Teu amor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sou testemunha por onde for (oh-oh)
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Em cada rua, cada nação
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Levo Tua graça, Tua salvação
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Oh-oh-oh-oh-oh-oh <br>
+Oh-oh-oh-oh-oh <br>
+Oh-oh-oh-oh-oh-oh <br>
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Onde houver trevas (onde houver trevas)
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Quero chegar (quero chegar)
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Com a Palavra (com a Palavra)
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Pra libertar (pra libertar)
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Onde houver ódio (onde houver ódio)
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Que eu leve amor (que eu leve amor)
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Vivendo sempre pra Ti, Senhor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O meu lugar no mundo é Te anunciar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+É ser o sal da terra, Teu nome exaltar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Tu és a minha vida, minha inspiração
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Te revelar ao mundo é minha missão
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Maranata, Maranata
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Muito em breve Jesus voltará
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O meu lugar no mundo é Te anunciar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+É ser o sal da terra, Teu nome exaltar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Tu és a minha vida, minha inspiração
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Te revelar ao mundo é minha missão
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O meu lugar no mundo é Te anunciar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+É ser o sal da terra, Teu nome exaltar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Tu és a minha vida, minha inspiração
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Te revelar ao mundo é minha missão
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Oh-oh-oh-oh-oh-oh <br>
+Oh-oh-oh-oh-oh <br>
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Oh-oh-oh-oh-oh-oh <br>
+Oh-oh-oh-oh-oh-oh <br>
