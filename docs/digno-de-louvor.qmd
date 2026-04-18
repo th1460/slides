@@ -1,83 +1,134 @@
 ---
 title: "Digno de Louvor"
 title-slide-attributes:
-  data-background-image: sunset.jpg
+  data-background-image: sunrise.jpg
   data-background-position: cover
-  data-background-opacity: "0.8"
 format: 
   revealjs:
-    theme: theme.scss
+    menu: false
+    theme: theme-sj.scss
     width: 1600
     height: 900
     footer: "#JOVENSCAHo"
-    fontsize: 80px
-    transition: slide
+    fontsize: 200px
     background-transition: fade
 self-contained: true
 ---
 
-# {background-image="sunset.jpg" background-opacity="0.5"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-De eternidade em eternidade <br>
-Exaltado seja em Tua beleza <br>
-Digno de louvor, digno de louvor <br>
-</center>
+De eternidade <br> em eternidade
 
-# {background-image="sunset.jpg" background-opacity="0.5"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-De eternidade em eternidade <br>
-Exaltado seja em Tua beleza <br>
-Digno de louvor, digno de louvor <br>
-</center>
+Exaltado seja em Tua beleza
 
-# {background-image="sunset.jpg" background-opacity="0.5"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-De eternidade em eternidade <br>
-Exaltado seja em Tua beleza <br>
-Digno de louvor, digno de louvor <br>
-</center>
+Digno de louvor, <br> digno de louvor
 
-# {background-image="sunset.jpg" background-opacity="0.5"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Diante de Tua face <br>
-O que me resta fazer? <br>
-Voltar ao pó da terra <br>
-E a Tua glória temer <br>
-</center>
+De eternidade <br> em eternidade
 
-# {background-image="sunset.jpg" background-opacity="0.5"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-De eternidade em eternidade <br>
-Exaltado seja em Tua beleza <br>
-Digno de louvor, digno de louvor <br>
-</center>
+Exaltado seja em Tua beleza
 
-# {background-image="sunset.jpg" background-opacity="0.5"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Diante de Tua face <br>
-O que me resta fazer? <br>
-Voltar ao pó da terra <br>
-E a Tua glória temer <br>
-</center>
+Digno de louvor, <br> digno de louvor
 
-# {background-image="sunset.jpg" background-opacity="0.5"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-De eternidade em eternidade <br>
-Exaltado seja em Tua beleza <br>
-Digno de louvor, digno de louvor <br>
-</center>
+De eternidade <br> em eternidade
 
-# {background-image="sunset.jpg" background-opacity="0.5"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-De eternidade em eternidade <br>
-Exaltado seja em Tua beleza <br>
-Digno de louvor, digno de louvor <br>
-</center>
+Exaltado seja em Tua beleza
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Digno de louvor, <br> digno de louvor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+De eternidade <br> em eternidade
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Exaltado seja em Tua beleza
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Digno de louvor, <br> digno de louvor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Diante de Tua face
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O que me resta fazer
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Voltar ao pó da terra
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E a Tua glória temer
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+De eternidade <br> em eternidade
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Exaltado seja em Tua beleza
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Digno de louvor, <br> digno de louvor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Diante de Tua face
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O que me resta fazer
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Voltar ao pó da terra
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E a Tua glória temer
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+De eternidade <br> em eternidade
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Exaltado seja em Tua beleza
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Digno de louvor, <br> digno de louvor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+De eternidade <br> em eternidade
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Exaltado seja em Tua beleza
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Digno de louvor, <br> digno de louvor
+
+
