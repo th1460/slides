@@ -1,134 +1,144 @@
 ---
 title: "Santo Espírito"
 title-slide-attributes:
-  data-background-image: parede.png
+  data-background-image: sky.jpg
   data-background-position: cover
-  data-background-opacity: "1"
 format: 
   revealjs:
-    theme: theme-dj.scss
+    menu: false
+    theme: theme-sj.scss
     width: 1600
     height: 900
-    footer: "#JOVENSCAHo #DOMINGO JOVEM"
-    fontsize: 120px
-    transition: slide
+    footer: "#JOVENSCAHo"
+    fontsize: 200px
     background-transition: fade
 self-contained: true
 ---
 
-# {background-image="parede.png"}
+# {background-image="sky.jpg" auto-animate=true"}
 
-<center>
-Nós pedimos Tua presença entre nós <br>
-Santo Espírito de luz <br>
-Vem, restaura em nós o Teu fogo abrasador <br>
-Nos trazendo até Jesus <br>
-</center>
+Nós pedimos Tua presença entre nós
 
-# {background-image="parede.png"}
+# {background-image="sky.jpg" auto-animate=true"}
 
-<center>
-Santo Espírito <br>
-Enche este lugar! <br>
-Enche este lugar <br>
-Vive em nós! <br>
-</center>
+Santo Espírito de luz
 
-# {background-image="parede.png"}
+# {background-image="sky.jpg" auto-animate=true"}
 
-<center>
-Santo Espírito <br>
-Enche este lugar! <br>
-Enche este lugar <br>
-Vive em nós! <br>
-</center>
+Vem, restaura em nós o Teu fogo abrasador
 
-# {background-image="parede.png"}
+# {background-image="sky.jpg" auto-animate=true"}
 
-<center>
-Nós pedimos Tua presença entre nós <br>
-Santo Espírito de luz <br>
-Vem, restaura em nós o Teu fogo abrasador <br>
-Nos trazendo até Jesus <br>
-</center>
+Nos trazendo até Jesus
 
-# {background-image="parede.png"}
+# {background-image="sky.jpg" auto-animate=true"}
 
-<center>
-Santo Espírito <br>
-Enche este lugar! <br>
-Enche este lugar <br>
-Vive em nós! <br>
-</center>
+Santo Espírito, enche este lugar
 
-# {background-image="parede.png"}
+# {background-image="sky.jpg" auto-animate=true"}
 
-<center>
-Santo Espírito <br>
-Enche este lugar! <br>
-Enche este lugar <br>
-Vive em nós! <br>
-</center>
+Enche este lugar, vive em nós
 
-# {background-image="parede.png"}
+# {background-image="sky.jpg" auto-animate=true"}
 
-<center>
-Venha a nós o Teu reino <br>
-Seja feito o Teu querer <br>
-Tua unção, Tua bênção <br>
-Nós queremos receber <br>
-</center>
+Santo Espírito, enche este lugar
 
-# {background-image="parede.png"}
+# {background-image="sky.jpg" auto-animate=true"}
 
-<center>
-Venha a nós o Teu reino <br>
-Seja feito o Teu querer <br>
-Tua unção, Tua bênção <br>
-Nós queremos receber <br>
-</center>
+Enche este lugar, vive em nós
 
-# {background-image="parede.png"}
+# {background-image="sky.jpg" auto-animate=true"}
 
-<center>
-Venha a nós o Teu reino <br>
-Seja feito o Teu querer <br>
-Tua unção, Tua bênção <br>
-Nós queremos receber <br>
-</center>
+Nós pedimos Tua presença entre nós
 
-# {background-image="parede.png"}
+# {background-image="sky.jpg" auto-animate=true"}
 
-<center>
-Venha a nós o Teu reino <br>
-Seja feito o Teu querer <br>
-Tua unção, Tua bênção <br>
-Nós queremos receber <br>
-</center>
+Santo Espírito de luz
 
-# {background-image="parede.png"}
+# {background-image="sky.jpg" auto-animate=true"}
 
-<center>
-Santo Espírito <br>
-Enche este lugar! <br>
-Enche este lugar <br>
-Vive em nós! <br>
-</center>
+Vem, restaura em nós o Teu fogo abrasador
 
-# {background-image="parede.png"}
+# {background-image="sky.jpg" auto-animate=true"}
 
-<center>
-Santo Espírito <br>
-Enche este lugar! <br>
-Enche este lugar <br>
-Vive em nós! <br>
-</center>
+Nos trazendo até Jesus
 
-# {background-image="parede.png"}
+# {background-image="sky.jpg" auto-animate=true"}
 
-<center>
-Enche este lugar! <br>
-Enche este lugar! <br>
-Enche este lugar <br>
-Vive em nós!
-</center>
+Santo Espírito, enche este lugar
+
+# {background-image="sky.jpg" auto-animate=true"}
+
+Enche este lugar, vive em nós
+
+# {background-image="sky.jpg" auto-animate=true"}
+
+Santo Espírito, enche este lugar
+
+# {background-image="sky.jpg" auto-animate=true"}
+
+Enche este lugar, vive em nós
+
+# {background-image="sky.jpg" auto-animate=true"}
+
+Venha a nós o Teu reino, seja feito o Teu querer
+
+# {background-image="sky.jpg" auto-animate=true"}
+
+Tua unção, Tua bênção nós queremos receber
+
+# {background-image="sky.jpg" auto-animate=true"}
+
+Venha a nós o Teu reino, seja feito o Teu querer
+
+# {background-image="sky.jpg" auto-animate=true"}
+
+Tua unção, Tua bênção nós queremos receber
+
+# {background-image="sky.jpg" auto-animate=true"}
+
+Venha a nós o Teu reino, seja feito o Teu querer
+
+# {background-image="sky.jpg" auto-animate=true"}
+
+Tua unção, Tua bênção nós queremos receber
+
+# {background-image="sky.jpg" auto-animate=true"}
+
+Venha a nós o Teu reino, seja feito o Teu querer
+
+# {background-image="sky.jpg" auto-animate=true"}
+
+Tua unção, Tua bênção nós queremos receber
+
+# {background-image="sky.jpg" auto-animate=true"}
+
+Santo Espírito, enche este lugar
+
+# {background-image="sky.jpg" auto-animate=true"}
+
+Enche este lugar, vive em nós
+
+# {background-image="sky.jpg" auto-animate=true"}
+
+Santo Espírito, enche este lugar
+
+# {background-image="sky.jpg" auto-animate=true"}
+
+Enche este lugar, vive em nós
+
+# {background-image="sky.jpg" auto-animate=true"}
+
+Enche este lugar
+
+# {background-image="sky.jpg" auto-animate=true"}
+
+Enche este lugar
+
+# {background-image="sky.jpg" auto-animate=true"}
+
+Enche este lugar
+
+# {background-image="sky.jpg" auto-animate=true"}
+
+Vive em nós

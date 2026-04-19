@@ -1,0 +1,164 @@
+---
+title: "Os Meus Lábios de Louvam"
+title-slide-attributes:
+  data-background-image: sunrise.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 200px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ó Deus, Tu és o meu Deus forte
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Eu Te busco ansiosamente
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A minha alma tem sede de Ti
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Meu corpo Te almeja como terra árida
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Exausta, sem água
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Assim, eu Te contemplo no santuário
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Para ver Tua força e Tua glória
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Porque a Tua graça é melhor do que a vida
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Os meus lábios Te louvam
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Assim, eu Te contemplo no santuário
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Para ver Tua força e Tua glória
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Porque a Tua graça é melhor do que a vida
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Os meus lábios Te louvam
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Os meus lábios Te louvam
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ó Deus, Tu és o meu Deus forte
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Eu Te busco ansiosamente
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A minha alma tem sede de Ti
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Meu corpo Te almeja como terra árida
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Exausta, sem água
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Assim, eu Te contemplo no santuário
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Para ver Tua força e Tua glória
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Porque a Tua graça é melhor do que a vida
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Os meus lábios Te louvam
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Assim, eu Te contemplo no santuário
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Para ver Tua força e Tua glória
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Porque a Tua graça é melhor do que a vida
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Os meus lábios Te louvam
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Os meus lábios Te louvam
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Assim, eu Te contemplo no santuário
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Para ver Tua força e Tua glória
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Porque a Tua graça é melhor do que a vida
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Os meus lábios Te louvam
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Assim, eu Te contemplo no santuário
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Para ver Tua força e Tua glória
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Porque a Tua graça é melhor do que a vida
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Os meus lábios Te louvam
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Os meus lábios Te louvam
