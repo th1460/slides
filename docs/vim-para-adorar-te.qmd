@@ -1,0 +1,118 @@
+---
+title: "Vim para adorar te"
+title-slide-attributes:
+  data-background-image: sunrise.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 200px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Luz do mundo, vieste a Terra
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Pra que eu pudesse te ver
+
+# {background-image="sunrise.jpg" auto-animate=true}
+Tua beleza me leva a adorar-te
+
+# {background-image="sunrise.jpg" auto-animate=true}
+Quero contigo viver
+
+# {background-image="sunrise.jpg" auto-animate=true}
+Vim para adorar-te
+
+# {background-image="sunrise.jpg" auto-animate=true}
+Vim para prostrar-me
+
+# {background-image="sunrise.jpg" auto-animate=true}
+Vim para dizer que és meu Deus
+
+# {background-image="sunrise.jpg" auto-animate=true}
+És totalmente amável
+
+# {background-image="sunrise.jpg" auto-animate=true}
+Totalmente digno
+
+# {background-image="sunrise.jpg" auto-animate=true}
+Tão maravilhoso para mim
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Eterno rei, exaltado nas alturas
+
+# {background-image="sunrise.jpg" auto-animate=true}
+Glorioso nos céus
+
+# {background-image="sunrise.jpg" auto-animate=true}
+Humilde vieste à Terra que criaste
+
+# {background-image="sunrise.jpg" auto-animate=true}
+Por amor, pobre se fez
+
+# {background-image="sunrise.jpg" auto-animate=true}
+Vim para adorar-te
+# {background-image="sunrise.jpg" auto-animate=true}
+Vim para prostrar-me
+# {background-image="sunrise.jpg" auto-animate=true}
+Vim para dizer que és meu Deus
+# {background-image="sunrise.jpg" auto-animate=true}
+És totalmente amável
+# {background-image="sunrise.jpg" auto-animate=true}
+Totalmente digno
+# {background-image="sunrise.jpg" auto-animate=true}
+Tão maravilhoso para mim
+# {background-image="sunrise.jpg" auto-animate=true}
+Vim para adorar-te
+# {background-image="sunrise.jpg" auto-animate=true}
+Vim para prostrar-me
+# {background-image="sunrise.jpg" auto-animate=true}
+Vim para dizer que és meu Deus
+# {background-image="sunrise.jpg" auto-animate=true}
+És totalmente amável
+# {background-image="sunrise.jpg" auto-animate=true}
+Totalmente digno
+# {background-image="sunrise.jpg" auto-animate=true}
+Tão maravilhoso para mim
+# {background-image="sunrise.jpg" auto-animate=true}
+Eu nunca saberei o preço
+# {background-image="sunrise.jpg" auto-animate=true}
+Dos meus pecados lá na cruz
+# {background-image="sunrise.jpg" auto-animate=true}
+Eu nunca saberei o preço
+# {background-image="sunrise.jpg" auto-animate=true}
+Dos meus pecados lá na cruz
+# {background-image="sunrise.jpg" auto-animate=true}
+Vim para adorar-te
+# {background-image="sunrise.jpg" auto-animate=true}
+Vim para prostrar-me
+# {background-image="sunrise.jpg" auto-animate=true}
+Vim para dizer que és meu Deus
+# {background-image="sunrise.jpg" auto-animate=true}
+És totalmente amável
+# {background-image="sunrise.jpg" auto-animate=true}
+Totalmente digno
+# {background-image="sunrise.jpg" auto-animate=true}
+Tão maravilhoso para mim
+# {background-image="sunrise.jpg" auto-animate=true}
+Vim para adorar-te
+# {background-image="sunrise.jpg" auto-animate=true}
+Vim para prostrar-me
+# {background-image="sunrise.jpg" auto-animate=true}
+Vim para dizer que és meu Deus
+# {background-image="sunrise.jpg" auto-animate=true}
+És totalmente amável
+# {background-image="sunrise.jpg" auto-animate=true}
+Totalmente digno
+# {background-image="sunrise.jpg" auto-animate=true}
+Tão maravilhoso para mim
