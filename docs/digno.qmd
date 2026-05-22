@@ -1,0 +1,172 @@
+---
+title: "Digno"
+title-slide-attributes:
+  data-background-image: sunrise.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 200px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Logo estaremos num lindo lugar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Com jardins e um rio de cristal
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Onde andaremos na presença do Senhor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Logo da terra se levantarão
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Os que dormem o sono dos justos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A eternidade ali começou
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E ao entrar pelas portas do céu O verei
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Correrei pra abraçá-lo e então cantarei
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Digno, é o Cordeiro bendito
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Digno, toda honra e glória a Ti
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Tanto esperei por este momento
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Digno, o conflito encerrado está
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Digno, em Teus braços achei meu lugar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Pra sempre irei Te adorar, digno
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Logo da terra se levantarão
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Os que dormem o sono dos justos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A eternidade ali começou
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E ao entrar pelas portas do céu O verei
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Correrei pra abraçá-lo e então cantarei
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Digno, é o Cordeiro bendito
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Digno, toda honra e glória a Ti
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Tanto esperei por este momento
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Digno, o conflito encerrado está
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Digno, em Teus braços achei meu lugar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Pra sempre irei Te adorar, digno
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Cantaremos aleluia, cantaremos aleluia
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Cantaremos aleluia (aleluia, aleluia, aleluia, aleluia)
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Cantaremos aleluia (aleluia, aleluia, aleluia, aleluia)
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Cantaremos aleluia (aleluia, aleluia, aleluia, aleluia)
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Cantaremos (aleluia, aleluia)
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Nós cantaremos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Digno, é o Cordeiro bendito
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Digno, toda honra e glória a Ti
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Tanto esperei por este momento
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Digno, o conflito encerrado está
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Digno, em Teus braços achei meu lugar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Pra sempre irei Te adorar, digno
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Aleluia, aleluia, aleluia, digno
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Aleluia, aleluia, aleluia, digno
