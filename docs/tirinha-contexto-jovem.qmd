@@ -1,0 +1,23 @@
+---
+title: "Classe <br> Jovem"
+title-slide-attributes:
+  data-background-image: florest.gif
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: tirinha.scss
+    width: 1600
+    height: 900
+    fontsize: 80px
+self-contained: true
+---
+
+#
+
+<center>
+![](tirinha-09.jpg)
+</center>
+
+
+Lição 9: Pecado, evangelho e lei

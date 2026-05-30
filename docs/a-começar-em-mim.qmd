@@ -1,0 +1,172 @@
+---
+title: "A Começar em Mim"
+title-slide-attributes:
+  data-background-image: sunrise.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 200px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Cedo me acordo, a oração
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+É o coração que tá apertado
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Para ver um mundo diferente da notícia repetida da televisão
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Eu me pergunto onde é que foi
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Alguém me explica, por favor, onde é que foi
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Que nós desaprendemos a viver em união
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Quero ver mudar, mas se eu aqui só esperar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Eu sou um deles, sou só um deles
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Minha oração só é real transformação se começar em mim
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Haja mais amor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A começar em mim
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Amor que eu tanto quero ver, a começar em mim
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A começar em mim
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Quem me perceber, que antes possa me reconhecer
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Me descrever em teu amor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E se tivesse mais perdão
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Se no lugar de apontarem tantos erros
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Fossem estendidos mais abraços, mais olhares de aceitação
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Se não mais tanto tempo em vão
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Se nosso bem mais precioso não faltasse quando pra ouvir
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Pra entender o meu irmão
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Posso até sonhar, mas se eu aqui só esperar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Eu sou um deles, sou só um deles
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Minha oração só é real transformação se começar em mim
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Haja mais amor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A começar em mim
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Amor que eu tanto quero ver, a começar em mim
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A começar em mim
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Quem me perceber, que antes possa me reconhecer
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Me descrever em teu amor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Lalalara, lalalalara, lala, mais amor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A começar em mim, haja mais amor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Lalalara, lalalalara, mais amor a começar em mim
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Haja mais amor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A começar em mim
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Amor que eu tanto quero ver, a começar em mim
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A começar em mim
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Quem me perceber, que antes possa me reconhecer
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Me descrever, em teu amor

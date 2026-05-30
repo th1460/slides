@@ -1,75 +1,124 @@
 ---
 title: "Descansar"
 title-slide-attributes:
-  data-background-image: mountains.jpg
+  data-background-image: sunrise.jpg
   data-background-position: cover
-  data-background-opacity: "0.6"
 format: 
   revealjs:
-    theme: theme.scss
+    menu: false
+    theme: theme-sj.scss
     width: 1600
     height: 900
     footer: "#JOVENSCAHo"
-    fontsize: 80px
-    transition: slide
+    fontsize: 200px
     background-transition: fade
 self-contained: true
 ---
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Não quero viver pensando no amanhã <br>
-Eu quero ser feliz <br>
-Dias vem e vão não irei temer <br>
-Posso confiar em Ti <br>
-Se o futuro incerto é, basta olhar com os olhos da fé <br>
-E descansar nos braços do Pai <br>
-</center>
+Não quero viver pensando no amanhã
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Descansar, confiando em Tua proteção <br>
-Descansar, vou me entregar em tuas mãos <br>
-Descansar, sei que cuidará de mim Senhor <br>
-Ensina-me a descansar <br>
-</center>
+Eu quero ser feliz
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Cada passo que eu der seja aonde estiver <br>
-Quero entregar a Ti <br>
-Cada decisão vou depor em<br>
- Tuas mãos e esperar <br>
-Se das aves Deus cuida <br>
-Sei que tenho muito mais valor <br>
-Posso esperar e descansar<br> 
-nos braços do Pai <br>
-</center>
+Dias vem e vão não irei temer
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Descansar, confiando em Tua proteção <br>
-Descansar, vou me entregar em Tuas mãos <br>
-Descansar, sei que cuidará de mim Senhor <br>
-Ensina-me a descansar <br>
-</center>
+Posso confiar em Ti
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Só em Teus braços encontro paz pra repousar <br>
-Mesmo que os temores me vençam, vou descansar <br>
-</center>
+Se o futuro incerto é, basta olhar com os olhos da fé
 
-# {background-image="mountains.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Confiando em Tua proteção <br>
-Vou me entregar em Tuas mãos <br>
-Sei que cuidará de mim Senhor <br>
-Ensina-me a descansar <br>
-</center>
+E descansar nos braços do Pai
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Descansar, confiando em Tua proteção
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Descansar, vou me entregar em tuas mãos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Descansar, sei que cuidará de mim Senhor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ensina-me a descansar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Cada passo que eu der seja aonde estiver
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Quero entregar a Ti
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Cada decisão vou depor em
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Tuas mãos e esperar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Se das aves Deus cuida
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sei que tenho muito mais valor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Posso esperar e descansar nos braços do Pai
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Descansar, confiando em Tua proteção
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Descansar, vou me entregar em Tuas mãos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Descansar, sei que cuidará de mim Senhor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ensina-me a descansar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Só em Teus braços encontro paz pra repousar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Mesmo que os temores me vençam, vou descansar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Confiando em Tua proteção
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Vou me entregar em Tuas mãos
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Sei que cuidará de mim Senhor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ensina-me a descansar

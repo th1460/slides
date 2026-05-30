@@ -1,0 +1,37 @@
+/*-- scss:functions --*/
+
+/*-- scss:defaults --*/
+// fonts
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+$font-family-sans-serif: "Bebas Neue", sans-serif !default;
+
+// colors
+$color-palette1: #33c97eba;
+$color-palette2: #fff;
+$color-palette3: #fff;
+$color-palette4: #fff;
+$color-palette5: #fff;
+
+// body
+$body-color: $color-palette1;
+
+// link
+$link-color: $color-palette2;
+
+/*-- scss:rules --*/
+#title-slide {
+    .title {
+        font-size: 400px;
+        color: $color-palette1;
+    }
+}
+
+ul li {
+    list-style-type: "\2013";
+    padding-left: 0.5em;
+}
+
+.reveal p {
+    color: #090014;
+    text-align: center;
+}
