@@ -15,9 +15,8 @@ self-contained: true
 
 #
 
+Lição 10: Arrependimento e Perdão
+
 <center>
-![](tirinha-09.jpg)
+![](tirinha-10.jpg)
 </center>
-
-
-Lição 9: Pecado, evangelho e lei
