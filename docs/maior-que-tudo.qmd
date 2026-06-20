@@ -17,136 +17,104 @@ self-contained: true
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Maior que forças, maior que reis 
+Maior que forças, maior que reis
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Que a natureza e tudo que se fez 
+Que a natureza e tudo que Ele fez
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Maior que coisas que o homem inventar 
+Maior que coisas que o homem inventar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-No princípio Deus estava lá 
+No princípio Deus estava lá
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Maior que reinos e posições 
+Maior que reinos e posições
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Que as maravilhas de todas as nações 
+Que as maravilhas de todas as nações
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Maior que bens e o ouro que existir 
+Maior que bens e o ouro que existir
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Seu amor não pode se medir 
+Seu amor não pode se medir
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Mas na cruz, por amor de mim 
+Mas na cruz, por amor de mim
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Morreu Jesus, sozinho até o fim 
+Morreu Jesus, sozinho até o fim
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Mesmo assim, em humilhação 
+Mesmo assim, em humilhação
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Morrendo só pensando em mim 
+Morrendo só, pensando em mim
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Foi maior 
+Foi maior
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Maior que forças, maior que reis 
+Maior que forças, maior que reis
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Que a natureza e tudo que se fez 
+Que a natureza e tudo que Ele fez
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Maior que coisas que o homem inventar 
+Maior que coisas que o homem inventar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-No princípio Deus estava lá 
+No princípio Deus estava lá
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Maior que reinos e posições 
+Maior que reinos e posições
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Que as maravilhas de todas as nações 
+Que as maravilhas de todas as nações
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Maior que bens e o ouro que existir 
+Maior que bens e o ouro que existir
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Seu amor não pode se medir! 
+Seu amor não pode se medir
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Mas na cruz, por amor de mim 
+Mas na cruz, por amor de mim
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Morreu Jesus, sozinho até o fim 
+Morreu Jesus, sozinho até o fim
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Mesmo assim, em humilhação 
+Mesmo assim, em humilhação
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Morrendo só pensando em mim 
+Morrendo só, pensando em mim
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Foi maior 
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
-Mas na cruz, por amor de mim 
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
-Morreu Jesus, sozinho até o fim 
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
-Mesmo assim, em humilhação 
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
-Morrendo só pensando em mim 
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
-Foi maior 
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
-Mesmo assim, em humilhação 
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
-Morrendo só pensando em mim 
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
-Foi maior 
+Foi maior

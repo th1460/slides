@@ -15,8 +15,8 @@ self-contained: true
 
 #
 
-Lição 10: Arrependimento e Perdão
+Lição 12: Testemunhando de Cristo
 
 <center>
-![](tirinha-10.jpg)
+![](tirinha-12.png)
 </center>

@@ -2,7 +2,7 @@
 
 /*-- scss:defaults --*/
 // fonts
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
 $font-family-sans-serif: "Bebas Neue", sans-serif !default;
 
 // colors
@@ -23,6 +23,7 @@ $link-color: $color-palette2;
     .title {
         font-size: 300px;
         color: $color-palette1;
+        text-shadow: #090014 2px 0 10px;
     }
     .subtitle {
         font-size: 40px;
