@@ -1,79 +1,128 @@
 ---
 title: "Deus de Israel"
 title-slide-attributes:
-  data-background-image: background01.jpg
+  data-background-image: sunrise.jpg
   data-background-position: cover
 format: 
   revealjs:
-    theme: theme.scss
+    menu: false
+    theme: theme-sj.scss
     width: 1600
     height: 900
     footer: "#JOVENSCAHo"
-    fontsize: 80px
-    transition: slide
+    fontsize: 200px
     background-transition: fade
 self-contained: true
 ---
 
-# {background-image="background01.jpg" background-opacity="0.5"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Deus de Israel <br>
-Cristo Jesus <br>
-Habita em mim <br>
-Espírito luz <br>
-</center>
+Deus de Israel
 
-# {background-image="background01.jpg" background-opacity="0.5"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Grande é o teu nome o Deus de Israel <br>
-Pois tu criaste a terra e o céu <br>
-Hoje tua glória invade o meu ser <br>
-Aleluia, aleluia, aleluia, aleluia! <br>
-</center>
+Cristo Jesus
 
-# {background-image="background01.jpg" background-opacity="0.5"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Grande é o teu nome o Deus de Israel <br>
-Pois tu criaste a terra e o céu <br>
-Hoje tua glória invade o meu ser <br>
-Aleluia, aleluia, aleluia, aleluia! <br>
-</center>
+Habita em mim
 
-# {background-image="background01.jpg" background-opacity="0.5"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Grande é o teu nome o Deus de Israel <br>
-Pois tu criaste a terra e o céu <br>
-Hoje tua glória invade o meu ser <br>
-Aleluia, aleluia, aleluia, aleluia! <br>
-</center>
-
-# {background-image="background01.jpg" background-opacity="0.5"}
-
-<center>
-Grande é o teu nome o Deus de Israel <br>
-Pois tu criaste a terra e o céu <br>
-Hoje tua glória invade o meu ser <br>
-Aleluia, aleluia, aleluia, aleluia! <br>
-</center>
-
-# {background-image="background01.jpg" background-opacity="0.5"}
-
-<center>
-Deus de Israel <br>
-Cristo Jesus <br>
-Habita em mim <br>
-Espírito luz <br>
-</center>
-
-# {background-image="background01.jpg" background-opacity="0.5"}
-
-<center>
-Deus de Israel <br>
-Cristo Jesus <br>
-Habita em mim <br>
 Espírito luz
-</center>
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Grande é o teu nome o Deus de Israel
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Pois tu criaste a terra e o céu
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Hoje tua glória invade o meu ser
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Aleluia, aleluia, aleluia, aleluia!
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Grande é o teu nome o Deus de Israel
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Pois tu criaste a terra e o céu
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Hoje tua glória invade o meu ser
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Aleluia, aleluia, aleluia, aleluia!
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Grande é o teu nome o Deus de Israel
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Pois tu criaste a terra e o céu
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Hoje tua glória invade o meu ser
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Aleluia, aleluia, aleluia, aleluia!
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Grande é o teu nome o Deus de Israel
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Pois tu criaste a terra e o céu
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Hoje tua glória invade o meu ser
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Aleluia, aleluia, aleluia, aleluia!
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Deus de Israel
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Cristo Jesus
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Habita em mim
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Espírito luz
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Deus de Israel
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Cristo Jesus
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Habita em mim
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Espírito luz

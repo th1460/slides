@@ -1,0 +1,76 @@
+---
+title: "Eu Te Louvarei, Senhor"
+title-slide-attributes:
+  data-background-image: sunrise.jpg
+  data-background-position: cover
+format: 
+  revealjs:
+    menu: false
+    theme: theme-sj.scss
+    width: 1600
+    height: 900
+    footer: "#JOVENSCAHo"
+    fontsize: 200px
+    background-transition: fade
+self-contained: true
+---
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Eu te louvarei Senhor, de todo o coração
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Cantarei a minha adoração
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Eu te louvarei Senhor, com toda devoção
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Cantarei em Tua adoração
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A Ti toda honra, Rei do universo
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A Ti eu exalto, Criador da Natureza
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A Ti todo o nosso louvor para todo o sempre
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Eu te louvarei, Senhor de todo o coração
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Cantarei a minha adoração
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Eu te louvarei, Senhor, com toda devoção
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Cantarei em Tua adoração
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A Ti toda honra, Rei do universo
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A Ti eu exalto, Criador da Natureza
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+A Ti todo o nosso louvor para todo o sempre
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Eu te louvarei Senhor

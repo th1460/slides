@@ -1,163 +1,166 @@
 ---
 title: "Grande Deus"
 title-slide-attributes:
-  data-background-image: parede.png
+  data-background-image: sunrise.jpg
   data-background-position: cover
-  data-background-opacity: "1"
 format: 
   revealjs:
-    theme: theme-dj.scss
+    menu: false
+    theme: theme-sj.scss
     width: 1600
     height: 900
-    footer: "#JOVENSCAHo #DOMINGO JOVEM"
+    footer: "#JOVENSCAHo"
     fontsize: 150px
-    transition: slide
     background-transition: fade
 self-contained: true
 ---
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
+Em Tua presença quero estar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Completo quero me entregar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Dar graças e cantar <br>
+Dar graças e cantar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
 Em Tua presença quero estar <br>
+Em Tua presença quero estar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
 Completo quero me entregar <br>
+Completo quero me entregar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
 Dar graças e cantar <br>
+Dar graças e cantar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
 Dar graças e cantar <br>
-</center>
+Dar graças e cantar
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Moças: <br>
-Em Tua presença quero estar <br>
-Rapazes: <br>
-Em Tua presença quero estar <br>
-</center>
+Pois Tu, Senhor, És nosso Criador
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Moças: <br>
-Completo quero me entregar <br>
-Rapazes: <br>
-Completo quero me entregar <br>
-</center>
+Nas Tuas mãos estão a terra e o mar
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Moças: <br>
-Dar graças e cantar <br>
-Rapazes: <br>
-Dar graças e cantar <br>
-</center>
+O universo se ajoelha e louva
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Moças: <br>
-Dar graças e cantar <br>
-Rapazes: <br>
-Dar graças e cantar <br>
-</center>
+Teu nome exaltado é
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Pois Tu, Senhor, És nosso Criador <br>
-Nas Tuas mãos estão a terra e o mar <br>
-O universo se ajoelha e louva <br>
-Teu nome exaltado é <br>
-</center>
+No esplendor da Tua santidade
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-No esplendor da Tua santidade <br>
-É onde eu preciso Te adorar <br>
-Ó Rei dos reis, grande Deus! <br>
-</center>
+É onde eu preciso Te adorar
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
+Ó Rei dos reis, grande Deus!
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Jesus eu quero Te aclamar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Com alegria Te louvar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Enquanto eu viver <br>
+Enquanto eu viver
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
 Jesus eu quero Te aclamar <br>
+Jesus eu quero Te aclamar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
 Com alegria Te louvar <br>
-</center>
+Com alegria Te louvar
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
 Enquanto eu viver <br>
+Enquanto eu viver
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
 Enquanto eu viver <br>
-</center>
+Enquanto eu viver
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Rapazes: <br>
-Jesus eu quero Te aclamar <br>
-Moças: <br>
-Jesus eu quero Te aclamar <br>
-</center>
+Pois Tu, Senhor, És nosso Criador
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Rapazes: <br>
-Com alegria Te louvar <br>
-Moças: <br>
-Com alegria Te louvar <br>
-</center>
+Nas Tuas mãos estão a terra e o mar
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Rapazes: <br>
-Enquanto eu viver <br>
-Moças: <br>
-Enquanto eu viver <br>
-</center>
+O universo se ajoelha e louva
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Rapazes: <br>
-Enquanto eu viver <br>
-Moças: <br>
-Enquanto eu viver <br>
-</center>
+Teu nome exaltado é
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Pois Tu, Senhor, És nosso Criador <br>
-Nas Tuas mãos estão a terra e o mar <br>
-O universo se ajoelha e louva <br>
-Teu nome exaltado é <br>
-</center>
+No esplendor da Tua santidade
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-No esplendor da Tua santidade <br>
-É onde eu preciso Te adorar <br>
-Ó Rei dos reis, grande Deus! <br>
-</center>
+É onde eu preciso Te adorar
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Pois Tu, Senhor, És nosso Criador <br>
-Nas Tuas mãos estão a terra e o mar <br>
-O universo se ajoelha e louva <br>
-Teu nome exaltado é <br>
-</center>
+Ó Rei dos reis, grande Deus!
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-No esplendor da Tua santidade <br>
-É onde eu preciso Te adorar <br>
-Ó Rei dos reis, grande Deus! <br>
-</center>
+Pois Tu, Senhor, És nosso Criador
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Nas Tuas mãos estão a terra e o mar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+O universo se ajoelha e louva
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Teu nome exaltado é
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+No esplendor da Tua santidade
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+É onde eu preciso Te adorar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Ó Rei dos reis, grande Deus!
