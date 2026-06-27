@@ -15,8 +15,8 @@ self-contained: true
 
 #
 
-Lição 12: Testemunhando de Cristo
+Lição 13: Por toda a eternidade
 
 <center>
-![](tirinha-12.png)
+![](tirinha-13.png)
 </center>

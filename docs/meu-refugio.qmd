@@ -1,104 +1,138 @@
 ---
 title: "Meu Refúgio"
 title-slide-attributes:
-  data-background-image: parede.png
+  data-background-image: sunrise.jpg
   data-background-position: cover
-  data-background-opacity: "1"
 format: 
   revealjs:
-    theme: theme-dj.scss
+    menu: false
+    theme: theme-sj.scss
     width: 1600
     height: 900
-    footer: "#JOVENSCAHo #DOMINGOJOVEM"
-    fontsize: 145px
-    transition: slide
+    footer: "#JOVENSCAHo"
+    fontsize: 150px
     background-transition: fade
 self-contained: true
 ---
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-És o meu Refúgio <br>
-Minha Fortaleza <br>
-Meu socorro eterno <br>
-És o meu abrigo <br>
-</center>
+És o meu Refúgio
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-(Rapazes) És o meu Refúgio<br>
-(Moças) És o meu Refúgio<br>
-(Rapazes) Minha Fortaleza<br>
-(Moças) Minha Fortaleza<br>
-</center>
+Minha Fortaleza
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-(Rapazes) Meu socorro eterno<br>
-(Moças) Meu socorro eterno<br>
-(Todos) És o meu abrigo<br>
-</center>
+Meu socorro eterno
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Quando o mar se agitar <br>
-Confiarei em Ti Senhor <br>
-E se a Terra se abrir <br>
-Confiarei em Ti meu Deus <br>
-</center>
+És o meu abrigo
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-(Moças) És o meu Refúgio<br>
-(Rapazes) É o meu Refúgio<br>
-(Moças) Minha Fortaleza<br>
-(Rapazes) Minha Fortaleza<br>
-</center>
+(Rapazes) És o meu Refúgio <br>
+(Moças) És o meu Refúgio
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-(Moças) Meu socorro eterno<br>
-(Rapazes) Meu socorro eterno<br>
-(Todos) És o meu abrigo<br>
-</center>
+(Rapazes) Minha Fortaleza <br>
+(Moças) Minha Fortaleza
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-(Rapazes) És o meu Refúgio<br>
-(Moças) És o meu Refúgio<br>
-(Rapazes) Minha Fortaleza<br>
-(Moças) Minha Fortaleza<br>
-</center>
+(Rapazes) Meu socorro eterno <br>
+(Moças) Meu socorro eterno
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-(Rapazes) Meu socorro eterno<br>
-(Moças) Meu socorro eterno<br>
-(Todos) És o meu abrigo<br>
-</center>
+(Todos) És o meu abrigo
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Quando o mar se agitar <br>
-Confiarei em Ti Senhor <br>
-E se a Terra se abrir <br>
-Confiarei em Ti meu Deus <br>
-</center>
+Quando o mar se agitar
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true}
 
-<center>
-Quando o mar se agitar <br>
-Confiarei em Ti Senhor <br>
-E se a Terra se abrir <br>
-Confiarei em Ti meu Deus <br>
-</center>
+Confiarei em Ti Senhor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E se a Terra se abrir
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Confiarei em Ti meu Deus
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+(Moças) És o meu Refúgio <br>
+(Rapazes) É o meu Refúgio
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+(Moças) Minha Fortaleza <br>
+(Rapazes) Minha Fortaleza
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+(Moças) Meu socorro eterno <br>
+(Rapazes) Meu socorro eterno
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+(Todos) És o meu abrigo
+
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+(Rapazes) És o meu Refúgio <br>
+(Moças) És o meu Refúgio
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+(Rapazes) Minha Fortaleza <br>
+(Moças) Minha Fortaleza
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+(Rapazes) Meu socorro eterno <br>
+(Moças) Meu socorro eterno
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+(Todos) És o meu abrigo
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Quando o mar se agitar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Confiarei em Ti Senhor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E se a Terra se abrir
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Confiarei em Ti meu Deus
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Quando o mar se agitar
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Confiarei em Ti Senhor
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E se a Terra se abrir
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Confiarei em Ti meu Deus
