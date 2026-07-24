@@ -1,116 +1,152 @@
 ---
 title: "Brilhar por Ti"
 title-slide-attributes:
-  data-background-image: parede.png
+  data-background-image: sunrise.jpg
   data-background-position: cover
-  data-background-opacity: "1"
 format: 
   revealjs:
-    theme: theme-dj.scss
+    menu: false
+    theme: theme-sj.scss
     width: 1600
     height: 900
-    footer: "#JOVENSCAHo #DIA MUNDIAL DO JOVEM ADVENTISTA"
-    fontsize: 150px
-    transition: slide
+    footer: "#JOVENSCAHo"
+    fontsize: 200px
     background-transition: fade
 self-contained: true
 ---
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Às vezes parece que ser um cristão <br>
-Não é fácil em meio à escuridão <br>
-</center>
+Às vezes parece que ser um cristão
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Ainda mais se eu pensar <br> que não é minha luz <br>
-Mas a união com Deus que o brilho produz. <br>
-</center>
+Não é fácil em meio à escuridão
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-E às vezes parece difícil entender <br>
-Que o cristão é exemplo <br> mesmo sem o querer <br>
-</center>
+Ainda mais se eu pensar que não é minha luz
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-E por isso mesmo eu preciso orar <br>
-Pra que Deus me ilumine <br> e assim eu possa brilhar <br>
-</center>
+Mas a união com Deus que o brilho produz.
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Senhor eu quero brilhar por Ti <br>
-Quando o mundo se apagar <br>
-Eu quero que através da minha vida <br>
-Alguém possa Te enxergar <br>
-</center>
+E às vezes parece difícil entender
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Faze com que mesmo sem palavras <br>
-Eu fale do Teu amor <br>
-Eu quero brilhar por Ti <br>
-Brilhar onde quer que for. <br>
-</center>
+Que o cristão é exemplo mesmo sem o querer
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Às vezes eu temo que vou fracassar <br>
-Pois eu sei que errei e continuo a errar <br>
-</center>
+E por isso mesmo eu preciso orar
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Mas se a minha luz parece extinguir-se <br>
-Meu Deus me dá força pra prosseguir. <br>
-</center>
+Pra que Deus me ilumine e assim eu possa brilhar
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Não importa o quanto eu tente me esforçar <br>
-Eu só posso vencer se Ele me ajudar <br>
-</center>
+Senhor eu quero brilhar por Ti
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-E é quando percebo, meu esforço é vão <br>
-E o que devo fazer é segurar Sua mão <br>
-</center>
+Quando o mundo se apagar
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Senhor eu quero brilhar por Ti <br>
-Quando o mundo se apagar <br>
-Eu quero que através da minha vida <br>
-Alguém possa Te enxergar <br>
-</center>
+Eu quero que através da minha vida
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Faze com que, mesmo sem palavras <br>
-Eu fale do Teu amor <br>
-Eu quero brilhar por Ti <br>
-Brilhar onde quer que for <br>
-</center>
+Alguém possa Te enxergar
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Eu quero brilhar por Ti <br>
-Brilhar onde quer que for <br>
-</center>
+Faze com que mesmo sem palavras
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Eu fale do Teu amor
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Eu quero brilhar por Ti
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Brilhar onde quer que for
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Às vezes eu temo que vou fracassar
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Pois eu sei que errei e continuo a errar
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Mas se a minha luz parece extinguir-se
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Meu Deus me dá força pra prosseguir
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Não importa o quanto eu tente me esforçar
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Eu só posso vencer se Ele me ajudar
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+E é quando percebo, meu esforço é vão
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+E o que devo fazer é segurar Sua mão
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Senhor eu quero brilhar por Ti
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Quando o mundo se apagar
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Eu quero que através da minha vida
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Alguém possa Te enxergar
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Faze com que, mesmo sem palavras
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Eu fale do Teu amor
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Eu quero brilhar por Ti
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Brilhar onde quer que for
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Eu quero brilhar por Ti
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Brilhar onde quer que for

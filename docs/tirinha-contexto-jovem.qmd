@@ -9,14 +9,12 @@ format:
     theme: tirinha.scss
     width: 1600
     height: 900
-    fontsize: 80px
+    fontsize: 70px
 self-contained: true
 ---
 
 #
 
-Lição 13: Por toda a eternidade
-
 <center>
-![](tirinha-13.png)
+![](tirinha-03.jpg)
 </center>

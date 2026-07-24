@@ -1,115 +1,128 @@
 ---
 title: "Sou de Jesus"
 title-slide-attributes:
-  data-background-image: sunset.jpg
+  data-background-image: sunrise.jpg
   data-background-position: cover
-  data-background-opacity: "0.6"
 format: 
   revealjs:
-    theme: theme.scss
+    menu: false
+    theme: theme-sj.scss
     width: 1600
     height: 900
     footer: "#JOVENSCAHo"
-    fontsize: 70px
-    transition: slide
+    fontsize: 200px
     background-transition: fade
 self-contained: true
 ---
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Dois caminhos a seguir, dois senhores a lutar <br>
-Qual dos dois irei servir? Há só uma decisão <br>
-</center>
+Dois caminhos a seguir, dois senhores a lutar
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Quantas vezes procurei os prazeres deste mundo <br>
-Encontrei mil motivos pra chorar <br>
-</center>
+Qual dos dois irei servir? Há só uma decisão
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-O inimigo sempre vem, disfarçando as intenções <br>
-Com ciladas ao redor ele quer me destruir <br>
-</center>
+Quantas vezes procurei os prazeres deste mundo
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Só Jesus pode me dar a real felicidade <br>
-E poder para ser um vencedor <br>
-</center>
+Encontrei mil motivos pra chorar
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Sou de Jesus, o Senhor da vitória <br>
-O alimento a vida, Rocha eterna da salvação <br>
-</center>
+O inimigo sempre vem, disfarçando as intenções
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Seu amor me atraiu, deu-me paz e alegria <br>
-Eu já fiz minha escolha: Sou de Jesus <br>
-</center>
+Com ciladas ao redor ele quer me destruir
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Decidi testemunhar mesmo em forte provação <br>
-Rejeitando pela fé o pecado e seu sabor <br>
-</center>
+Só Jesus pode me dar a real felicidade
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-No caminho de Jesus estarei sempre seguro <br>
-E assim, eu prossigo rumo ao céu <br>
-</center>
+E poder para ser um vencedor
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Sou de Jesus, o Senhor da vitória <br>
-O alimento a vida, Rocha eterna da salvação <br>
-</center>
+Sou de Jesus, o Senhor da vitória
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Seu amor me atraiu, deu-me paz e alegria <br>
-Eu já fiz minha escolha: Sou de Jesus <br>
-</center>
+O alimento a vida, Rocha eterna da salvação
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Mais do que em qualquer outro tempo <br>
-O momento é de escolher <br>
-Sem temer, sem hesitar, eu escolho Jesus <br>
-</center>
+Seu amor me atraiu, deu-me paz e alegria
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Sou de Jesus, o Senhor da vitória <br>
-O alimento a vida, Rocha eterna da salvação <br>
-</center>
+Eu já fiz minha escolha: Sou de Jesus
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Seu amor me atraiu, deu-me paz e alegria <br>
-Eu já fiz minha escolha: Sou de Jesus <br>
-</center>
+Decidi testemunhar mesmo em forte provação
 
-# {background-image="sunset.jpg" background-opacity="0.25"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Eu já fiz minha escolha: Sou de Jesus <br>
-</center>
+Rejeitando pela fé o pecado e seu sabor
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+No caminho de Jesus estarei sempre seguro
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+E assim, eu prossigo rumo ao céu
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Sou de Jesus, o Senhor da vitória
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+O alimento a vida, Rocha eterna da salvação
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Seu amor me atraiu, deu-me paz e alegria
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Eu já fiz minha escolha: Sou de Jesus
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Mais do que em qualquer outro tempo
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+O momento é de escolher
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Sem temer, sem hesitar, eu escolho Jesus
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Sou de Jesus, o Senhor da vitória
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+O alimento a vida, Rocha eterna da salvação
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Seu amor me atraiu, deu-me paz e alegria
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Eu já fiz minha escolha: Sou de Jesus
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Eu já fiz minha escolha: Sou de Jesus

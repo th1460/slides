@@ -1,137 +1,96 @@
 ---
 title: "Seja o Centro"
 title-slide-attributes:
-  data-background-image: parede.png
+  data-background-image: sunrise.jpg
   data-background-position: cover
-  data-background-opacity: "1"
 format: 
   revealjs:
-    theme: theme-dj.scss
+    menu: false
+    theme: theme-sj.scss
     width: 1600
     height: 900
-    footer: "#JOVENSCAHo #DIA MUNDIAL DO JOVEM ADVENTISTA"
-    fontsize: 180px
-    transition: slide
+    footer: "#JOVENSCAHo"
+    fontsize: 200px
     background-transition: fade
 self-contained: true
 ---
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
 Aquele que em Suas mãos detêm a força e todo o poder
-</center>
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
 Aquele que promete a vida eterna a todo o que nele crê
-</center>
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
 É Ele quem nos guarda e que operando, quem impedirá?
-</center>
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
 Ao guarda de Israel clamamos: Ouça nossa voz aqui
-</center>
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
 Reine em nós, venha a nós Seu reino
-</center>
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
 Reine em nós, venha a nós Sua glória, Deus
-</center>
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
 Seja o centro, seja tudo a todos nós
-</center>
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
 Seja o centro, seja tudo a todos nós
-</center>
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
 Aquele que em Suas mãos detêm a força e todo o poder
-</center>
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
 Aquele que promete a vida eterna a todo o que nele crê
-</center>
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
 É Ele quem nos guarda e que operando, quem impedirá?
-</center>
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
 Ao guarda de Israel clamamos: Ouça nossa voz aqui
-</center>
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
 Reine em nós, venha a nós Seu reino
-</center>
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
 Reine em nós, venha a nós Sua glória, Deus
-</center>
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
 Seja o centro, seja tudo a todos nós
-</center>
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
 Seja o centro, seja tudo a todos nós
-</center>
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
 Reine em nós, venha a nós Seu reino
-</center>
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
 Reine em nós, venha a nós Sua glória, Deus
-</center>
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
 Seja o centro, seja tudo a todos nós
-</center>
 
-# {background-image="parede.png"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
 Seja o centro, seja tudo a todos nós
-</center>

@@ -1,7 +1,7 @@
 ---
 title: "Santo Espírito"
 title-slide-attributes:
-  data-background-image: sky.jpg
+  data-background-image: sunrise.jpg
   data-background-position: cover
 format: 
   revealjs:
@@ -15,130 +15,130 @@ format:
 self-contained: true
 ---
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Nós pedimos Tua presença entre nós
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Santo Espírito de luz
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Vem, restaura em nós o Teu fogo abrasador
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Nos trazendo até Jesus
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Santo Espírito, enche este lugar
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Enche este lugar, vive em nós
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Santo Espírito, enche este lugar
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Enche este lugar, vive em nós
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Nós pedimos Tua presença entre nós
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Santo Espírito de luz
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Vem, restaura em nós o Teu fogo abrasador
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Nos trazendo até Jesus
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Santo Espírito, enche este lugar
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Enche este lugar, vive em nós
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Santo Espírito, enche este lugar
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Enche este lugar, vive em nós
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Venha a nós o Teu reino, seja feito o Teu querer
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Tua unção, Tua bênção nós queremos receber
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Venha a nós o Teu reino, seja feito o Teu querer
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Tua unção, Tua bênção nós queremos receber
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Venha a nós o Teu reino, seja feito o Teu querer
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Tua unção, Tua bênção nós queremos receber
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Venha a nós o Teu reino, seja feito o Teu querer
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Tua unção, Tua bênção nós queremos receber
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Santo Espírito, enche este lugar
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Enche este lugar, vive em nós
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Santo Espírito, enche este lugar
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Enche este lugar, vive em nós
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Enche este lugar
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Enche este lugar
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Enche este lugar
 
-# {background-image="sky.jpg" auto-animate=true"}
+# {background-image="sunrise.jpg" auto-animate=true"}
 
 Vive em nós

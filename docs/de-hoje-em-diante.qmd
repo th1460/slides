@@ -1,93 +1,120 @@
 ---
-title: "De Hoje Em Diante"
+title: "De Hoje em Diante"
+title-slide-attributes:
+  data-background-image: sunrise.jpg
+  data-background-position: cover
 format: 
   revealjs:
-    theme: theme.scss
+    menu: false
+    theme: theme-sj.scss
     width: 1600
     height: 900
     footer: "#JOVENSCAHo"
-    fontsize: 80px
-    transition: slide
+    fontsize: 200px
     background-transition: fade
 self-contained: true
 ---
 
-#
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-De hoje em diante escolho viver com Jesus <br>
-Como um barco que alcança o porto <br>
-Eu encontrei Sua Luz <br>
-</center>
+De hoje em diante escolho viver com Jesus
 
-#
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-De hoje em diante escolho amar <br>
-Pois eu tenho paz <br>
-Que só Jesus que pode dar  <br>
-De hoje em diante <br>
-</center>
+Como um barco que alcança o porto
 
-#
+# {background-image="sunrise.jpg" auto-animate=true"}
 
+Eu encontrei Sua Luz
 
-<center>
-Senhor do Universo, és minha esperança <br>
-Santifica os propósitos do meu coração <br>
-Contigo ao meu lado <br>
- não tenho mais o que temer <br>
-Pois Tu és a razão do meu viver <br>
-</center>
+# {background-image="sunrise.jpg" auto-animate=true"}
 
+De hoje em diante escolho amar
 
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-#
+Pois eu tenho paz
 
-<center>
-Acima de tudo escolho viver com Jesus <br>
-Em resposta ao grande preço que <br>
- já foi pago na cruz <br>
-</center>
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-#
+Que só Jesus que pode dar 
 
-<center>
-Eu sigo Teus passos pra não me perder <br>
-Descobri que és minha razão de viver <br>
-De hoje em diante <br>
-</center>
+# {background-image="sunrise.jpg" auto-animate=true"}
 
+De hoje em diante
 
+# {background-image="sunrise.jpg" auto-animate=true"}
 
+Senhor do Universo, és minha esperança
 
-#
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Senhor do Universo, és minha esperança <br>
-Santifica os propósitos do meu coração <br>
-Contigo ao meu lado <br>
- não tenho mais o que temer <br>
-Pois Tu és a razão do meu viver <br>
-</center>
+Santifica os propósitos do meu coração
 
-#
+# {background-image="sunrise.jpg" auto-animate=true"}
 
+Contigo ao meu lado, não tenho mais o que temer
 
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Senhor do Universo, és minha esperança <br>
-Santifica os propósitos do meu coração <br>
-Contigo ao meu lado <br>
-não tenho mais o que temer <br>
-Pois Tu és a razão do meu viver <br>
-</center>
+Pois Tu és a razão do meu viver
 
+# {background-image="sunrise.jpg" auto-animate=true"}
 
+Acima de tudo escolho viver com Jesus
 
-#
+# {background-image="sunrise.jpg" auto-animate=true"}
 
-<center>
-Pois Tu és a razão do meu viver <br>
-Tu és a razão do meu viver <br>
-</center>
+Em resposta ao grande preço que já foi pago na cruz
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Eu sigo Teus passos pra não me perder
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Descobri que és minha razão de viver
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+De hoje em diante
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Senhor do Universo, és minha esperança
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Santifica os propósitos do meu coração
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Contigo ao meu lado não, tenho mais o que temer
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Pois Tu és a razão do meu viver
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Senhor do Universo, és minha esperança
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Santifica os propósitos do meu coração
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Contigo ao meu lado, não tenho mais o que temer
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Pois Tu és a razão do meu viver
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Pois Tu és a razão do meu viver
+
+# {background-image="sunrise.jpg" auto-animate=true"}
+
+Tu és a razão do meu viver
