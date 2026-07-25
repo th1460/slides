@@ -10,25 +10,19 @@ format:
     width: 1600
     height: 900
     footer: "#JOVENSCAHo"
-    fontsize: 200px
+    fontsize: 150px
     background-transition: fade
 self-contained: true
 ---
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Fui alcançado por Teu amor
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
+Fui alcançado por Teu amor <br>
 Sou testemunha por onde for
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Em cada rua, cada nação
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
+Em cada rua, cada nação <br>
 Levo Tua graça, Tua salvação
 
 # {background-image="sunrise.jpg" auto-animate=true}
@@ -39,34 +33,22 @@ Oh-oh-oh-oh-oh-oh <br>
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Onde houver trevas, quero chegar
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
+Onde houver trevas, quero chegar <br>
 Com a Palavra, pra libertar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Onde houver ódio, que eu leve amor
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
+Onde houver ódio, que eu leve amor <br>
 Vivendo sempre pra Ti, Senhor
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-O meu lugar no mundo é Te anunciar
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
+O meu lugar no mundo é Te anunciar <br>
 É ser o sal da terra, Teu nome exaltar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Tu és a minha vida, minha inspiração
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
+Tu és a minha vida, minha inspiração <br>
 Te revelar ao mundo é minha missão
 
 # {background-image="sunrise.jpg" auto-animate=true}
@@ -77,18 +59,12 @@ Oh-oh-oh-oh-oh-oh <br>
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Fui alcançado por Teu amor
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
+Fui alcançado por Teu amor <br>
 Sou testemunha por onde for (oh-oh)
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Em cada rua, cada nação
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
+Em cada rua, cada nação <br>
 Levo Tua graça, Tua salvação
 
 # {background-image="sunrise.jpg" auto-animate=true}
@@ -99,82 +75,52 @@ Oh-oh-oh-oh-oh-oh <br>
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Onde houver trevas (onde houver trevas)
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
+Onde houver trevas (onde houver trevas) <br>
 Quero chegar (quero chegar)
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Com a Palavra (com a Palavra)
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
+Com a Palavra (com a Palavra) <br>
 Pra libertar (pra libertar)
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Onde houver ódio (onde houver ódio)
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
+Onde houver ódio (onde houver ódio) <br>
 Que eu leve amor (que eu leve amor)
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vivendo sempre pra Ti, Senhor
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
+Vivendo sempre pra Ti, Senhor <br>
 O meu lugar no mundo é Te anunciar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-É ser o sal da terra, Teu nome exaltar
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
+É ser o sal da terra, Teu nome exaltar <br>
 Tu és a minha vida, minha inspiração
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Te revelar ao mundo é minha missão
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
+Te revelar ao mundo é minha missão <br>
 Maranata, Maranata
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Muito em breve Jesus voltará
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
+Muito em breve Jesus voltará <br>
 O meu lugar no mundo é Te anunciar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-É ser o sal da terra, Teu nome exaltar
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
+É ser o sal da terra, Teu nome exaltar <br>
 Tu és a minha vida, minha inspiração
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Te revelar ao mundo é minha missão
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
+Te revelar ao mundo é minha missão <br>
 O meu lugar no mundo é Te anunciar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-É ser o sal da terra, Teu nome exaltar
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
+É ser o sal da terra, Teu nome exaltar <br>
 Tu és a minha vida, minha inspiração
 
 # {background-image="sunrise.jpg" auto-animate=true}
@@ -184,9 +130,9 @@ Te revelar ao mundo é minha missão
 # {background-image="sunrise.jpg" auto-animate=true}
 
 Oh-oh-oh-oh-oh-oh <br>
-Oh-oh-oh-oh-oh <br>
+Oh-oh-oh-oh-oh
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
 Oh-oh-oh-oh-oh-oh <br>
-Oh-oh-oh-oh-oh-oh <br>
+Oh-oh-oh-oh-oh-oh

@@ -24,27 +24,35 @@ Luz do mundo, vieste a Terra
 Pra que eu pudesse te ver
 
 # {background-image="sunrise.jpg" auto-animate=true}
+
 Tua beleza me leva a adorar-te
 
 # {background-image="sunrise.jpg" auto-animate=true}
+
 Quero contigo viver
 
 # {background-image="sunrise.jpg" auto-animate=true}
+
 Vim para adorar-te
 
 # {background-image="sunrise.jpg" auto-animate=true}
+
 Vim para prostrar-me
 
 # {background-image="sunrise.jpg" auto-animate=true}
+
 Vim para dizer que és meu Deus
 
 # {background-image="sunrise.jpg" auto-animate=true}
+
 És totalmente amável
 
 # {background-image="sunrise.jpg" auto-animate=true}
+
 Totalmente digno
 
 # {background-image="sunrise.jpg" auto-animate=true}
+
 Tão maravilhoso para mim
 
 # {background-image="sunrise.jpg" auto-animate=true}
@@ -52,12 +60,15 @@ Tão maravilhoso para mim
 Eterno rei, exaltado nas alturas
 
 # {background-image="sunrise.jpg" auto-animate=true}
+
 Glorioso nos céus
 
 # {background-image="sunrise.jpg" auto-animate=true}
+
 Humilde vieste à Terra que criaste
 
 # {background-image="sunrise.jpg" auto-animate=true}
+
 Por amor, pobre se fez
 
 # {background-image="sunrise.jpg" auto-animate=true}
