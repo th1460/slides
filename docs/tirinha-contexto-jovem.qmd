@@ -16,5 +16,5 @@ self-contained: true
 #
 
 <center>
-![](tirinha-04.jpg)
+![](tirinha-07.jpg)
 </center>

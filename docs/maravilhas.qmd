@@ -1,5 +1,5 @@
 ---
-title: "Toque Minhas Mãos"
+title: "Maravilhas"
 title-slide-attributes:
   data-background-image: sunrise.jpg
   data-background-position: cover
@@ -17,160 +17,138 @@ self-contained: true
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-O som de uma voz comparado ao trovão
+Meu coração se alegra no Senhor
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-O mundo na palma da mão
+Proclama a Sua grandeza
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Um grão de areia comparado ao mar
+O Seu perdão alcança todos nós
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Grandeza que eu não posso explicar
+Sua graça nos cobre de bênçãos
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Por isso Senhor me achego a ti
+Seu nome santo é <br>
+Santo é o Senhor
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Prostrado diante do altar
+Maravilhas Ele fez, nos mostrou o Seu poder
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Eu sou pecador
+Ele é o nosso rei dos reis, Jesus
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Tu és Salvador
+Maravilhas Ele fez, Ele operou em mim
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Aceita o meu humilde louvor
+Seu poder me resgatou, Jesus
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Levanto as mãos
+Meu coração se alegra no Senhor
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Em oração
+Proclama a Sua grandeza
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Pra alcançar Teu trono ó Pai
+O Seu perdão alcança todos nós
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Toque em minhas mãos
+Sua graça nos cobre de bênçãos
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Meu ser sorri ao imaginar
+Seu nome santo é <br>
+Santo é o Senhor
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Tuas mãos a me encontrar
+Maravilhas Ele fez, nos mostrou o Seu poder
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-O Deus de toda a glória vindo me abraçar
+Ele é o nosso rei dos reis, Jesus
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-O som de uma voz comparado ao trovão
+Maravilhas Ele fez, Ele operou em mim
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-O mundo na palma da mão
+Seu poder me resgatou, Jesus
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Um grão de areia comparado ao mar
+O Seu nome eu vou louvar e vou cantar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Grandeza que eu não posso explicar
+Seu nome eu vou louvar e vou cantar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Por isso Senhor me achego a ti
+O Seu nome eu vou louvar e vou cantar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Prostrado diante do altar
+Seu nome eu vou louvar e vou cantar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Eu sou pecador
+Seu nome eu vou louvar e vou cantar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Tu és Salvador
+Seu nome eu vou louvar e vou cantar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Aceita o meu humilde louvor
+Seu nome eu vou louvar e vou cantar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Levanto as mãos
+Seu nome eu vou louvar, vou cantar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Em oração
+Maravilhas Ele fez, nos mostrou o Seu poder
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Pra alcançar Teu trono ó Pai
+Ele é o nosso rei dos reis, Jesus
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Toque em minhas mãos
+Maravilhas Ele fez, Ele operou em mim
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Meu ser sorri ao imaginar
+Seu poder me resgatou, Jesus
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Tuas mãos a me encontrar
+O Seu nome eu vou louvar e vou cantar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-O Deus de toda a glória vindo me abraçar
+Seu nome eu vou louvar e vou cantar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Levanto as mãos
+Seu nome eu vou louvar e vou cantar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Em oração
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
-Pra alcançar Teu trono ó Pai
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
-Toque em minhas mãos
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
-Meu ser sorri ao imaginar
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
-Tuas mãos a me encontrar
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
-O Deus de toda a glória vindo me abraçar
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
-O Deus de toda a glória vindo me abraçar
+Seu nome eu vou louvar, vou cantar
