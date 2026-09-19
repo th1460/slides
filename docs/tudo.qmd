@@ -1,11 +1,11 @@
 ---
-title: "Vim para adorar-te"
+title: "Tudo"
 title-slide-attributes:
   data-background-image: sunrise.jpg
   data-background-position: cover
 format: 
   revealjs:
-    menu: true
+    menu: false
     theme: theme-sj.scss
     width: 1600
     height: 900
@@ -13,172 +13,166 @@ format:
     fontsize: 200px
     background-transition: fade
 self-contained: true
+---ontained: true
 ---
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Luz do mundo, vieste a Terra
+És O Noivo que estou a esperar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Pra que eu pudesse te ver
+Com a minha luz vou te aguardar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Tua beleza me leva a adorar-te
+És semeador que está a semear
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Quero contigo viver
+Que teu fruto venha em mim brotar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para adorar-te
+Tu és tudo para mim <br>
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para prostrar-me
+Tu és tudo para mim <br>
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para dizer que és meu Deus
+Tu és tudo para mim <br>
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-És totalmente amável
+Tu és tudo pra mim <br>
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Totalmente digno
+Jesus Cristo Tu És Noivo, o Semeador
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Tão maravilhoso para mim
+O meu Pai, o meu Pastor
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Eterno rei, exaltado nas alturas
+Pérola de grande preço, de grande valor
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Glorioso nos céus
+Cristo tu és tudo <br>
+Cristo tu és tudo <br>
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Humilde vieste à Terra que criaste
+És o Pai que vem pra me abraçar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Por amor, pobre se fez
+Quando volto para o meu lar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para adorar-te
+És o Bom Pastor que vai me encontrar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para prostrar-me
+Se o caminho não sei mais achar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para dizer que és meu Deus
+Tu és tudo para mim <br>
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-És totalmente amável
+Tu és tudo para mim <br>
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Totalmente digno
+Tu és tudo para mim <br>
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Tão maravilhoso para mim
+Tu és tudo pra mim <br>
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para adorar-te
+Jesus Cristo Tu És Noivo, o Semeador
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para prostrar-me
+O meu Pai, o meu Pastor
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para dizer que és meu Deus
+Pérola de grande preço, de grande valor
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-És totalmente amável
+Cristo Tu és tudo <br>
+Cristo Tu és tudo <br>
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Totalmente digno
+Jesus Cristo Tu És Noivo, o Semeador
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Tão maravilhoso para mim
+O meu Pai, o meu Pastor
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Eu nunca saberei o preço
+Pérola de grande preço, de grande valor
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Dos meus pecados lá na cruz
+Cristo Tu és tudo <br>
+Cristo Tu és tudo <br>
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Eu nunca saberei o preço
+Sim, Cristo Tu és tudo, tudo, tudo
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Dos meus pecados lá na cruz
+Sim, Cristo Tu és tudo, tudo, tudo
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para adorar-te
+Sim,Tu és tudo, tudo, tudo <br>
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para prostrar-me
+Sim,Tu és tudo, tudo, tudo <br>
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para dizer que és meu Deus
+Jesus Cristo Tu És Noivo, o Semeador
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-És totalmente amável
+O meu Pai, o meu Pastor
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Totalmente digno
+Pérola de grande preço, de grande valor
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Tão maravilhoso para mim
+Cristo Tu és tudo <br>
+Cristo Tu és tudo <br>
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para adorar-te
+Sim, Cristo Tu és tudo, tudo, tudo <br>
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para prostrar-me
+Sim, Cristo Tu és tudo, tudo, tudo <br>
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para dizer que és meu Deus
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
-És totalmente amável
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
-Totalmente digno
-
-# {background-image="sunrise.jpg" auto-animate=true}
-
-Tão maravilhoso para mim
+Sim, Tu és tudo <br>
+Sim, Tu és tudo <br>

@@ -1,5 +1,5 @@
 ---
-title: "Vim para adorar-te"
+title: "Eu vou para <br> o céu"
 title-slide-attributes:
   data-background-image: sunrise.jpg
   data-background-position: cover
@@ -17,168 +17,182 @@ self-contained: true
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Luz do mundo, vieste a Terra
+Podemos ver sinais do fim
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Pra que eu pudesse te ver
+Na terra e no mar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Tua beleza me leva a adorar-te
+Doenças, fome guerra e dor
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Quero contigo viver
+Angústia entre as nações
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para adorar-te
+Mas em meio a tanta aflição
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para prostrar-me
+Começo a me alegrar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para dizer que és meu Deus
+Pois, eu sei que se aproxima
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-És totalmente amável
+Nossa redenção
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Totalmente digno
+Eu vou para o céu e já não demora
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Tão maravilhoso para mim
+Minha espera logo vai terminar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Eterno rei, exaltado nas alturas
+Decidi que sou de Jesus
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Glorioso nos céus
+Pra sempre e nada poderá me abalar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Humilde vieste à Terra que criaste
+Nada!
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Por amor, pobre se fez
+Logo Cristo virá
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para adorar-te
+E eu vou para o céu!
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para prostrar-me
+É reino contra reino
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para dizer que és meu Deus
+Nação contra nação
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-És totalmente amável
+Aumento de maldade
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Totalmente digno
+De ódio e traição
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Tão maravilhoso para mim
+Pois, agora é o tempo de guardar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para adorar-te
+Bem firme a nossa fé
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para prostrar-me
+Na bendita esperança
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para dizer que és meu Deus
+Da promessa de Jesus!
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-És totalmente amável
+Eu vou para o céu e já não demora
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Totalmente digno
+Minha espera logo vai terminar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Tão maravilhoso para mim
+Decidi que sou de Jesus
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Eu nunca saberei o preço
+Pra sempre e nada poderá me abalar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Dos meus pecados lá na cruz
+Nada!
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Eu nunca saberei o preço
+Logo Cristo virá
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Dos meus pecados lá na cruz
+E eu vou para o céu!
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para adorar-te
+Logo veremos numa nuvem
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para prostrar-me
+Cristo retornar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para dizer que és meu Deus
+Cheio de glória, honra e poder
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-És totalmente amável
+Virá buscar quem for fiel
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Totalmente digno
+Eu vou para o céu e já não demora
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Tão maravilhoso para mim
+Minha espera logo vai terminar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para adorar-te
+Decidi que sou de Jesus
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para prostrar-me
+Pra sempre e nada poderá me abalar
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Vim para dizer que és meu Deus
+Nada!
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-És totalmente amável
+Logo Cristo virá
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Totalmente digno
+E eu vou para o céu!
 
 # {background-image="sunrise.jpg" auto-animate=true}
 
-Tão maravilhoso para mim
+Pois, Cristo virá
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Minha espera vai terminar!
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+Logo Cristo virá
+
+# {background-image="sunrise.jpg" auto-animate=true}
+
+E eu vou para o céu!
+
+
